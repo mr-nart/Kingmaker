@@ -1,0 +1,13 @@
+{
+  "accentColor": "#c84646",
+  "nativeMenus": false,
+  "theme": "obsidian",
+  "translucency": false,
+  "cssTheme": "ITS Theme",
+  "baseFontSize": 14,
+  "enabledCssSnippets": [
+    "Callouts",
+    "clean-embeds"
+  ],
+  "showViewHeader": true
+}

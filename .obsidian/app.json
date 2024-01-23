@@ -1,0 +1,17 @@
+{
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "hidden",
+  "livePreview": false,
+  "showInlineTitle": true,
+  "defaultViewMode": "source",
+  "showLineNumber": false,
+  "attachmentFolderPath": "z_assets",
+  "userIgnoreFilters": [
+    "z_assets/",
+    "z_templates/",
+    "Sessions/",
+    "Home",
+    "Major Locations/Atlas"
+  ]
+}
