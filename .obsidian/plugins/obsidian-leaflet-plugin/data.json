@@ -1,5 +1,242 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "brevoy-map",
+      "locked": false,
+      "lastAccessed": 1706086610356,
+      "markers": [
+        {
+          "id": "ID_5a799a5a5af9",
+          "type": "Settlement, major",
+          "loc": [
+            140.56425921828898,
+            482.5803053348578
+          ],
+          "link": "New Stetven",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            197.0343830394316,
+            -84.76902322704824
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5af9488aea1a",
+          "type": "Settlement, major",
+          "loc": [
+            42.88571717793944,
+            618.5633825309347
+          ],
+          "link": "Restov",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            63.13884606376367,
+            -6.465691164636335
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb9acaf8a989",
+          "type": "Settlement, major",
+          "loc": [
+            360.4082087101665,
+            340.39485862985487
+          ],
+          "link": "Port Ice",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            138.9809949110731,
+            -217.3486488334573
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e988fa49b97a",
+          "type": "Settlement, minor",
+          "loc": [
+            290.4124984741211,
+            338.1000061035156
+          ],
+          "link": "Highdelve",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8fb8b9acba9",
+          "type": "Settlement, minor",
+          "loc": [
+            275.4124984741211,
+            341.1000061035156
+          ],
+          "link": "Grayhaven",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b388a09c9db",
+          "type": "Settlement, minor",
+          "loc": [
+            308.2125015258789,
+            436.70001220703125
+          ],
+          "link": "Eagle's Watch",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_09f848183839",
+          "type": "Settlement, minor",
+          "loc": [
+            346.1000061035156,
+            578.1000061035156
+          ],
+          "link": "Skywatch",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b99faa8b81a",
+          "type": "Settlement, minor",
+          "loc": [
+            422.31250762939453,
+            438.3999938964844
+          ],
+          "link": "Winterbreak",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa8a3af9a8bb",
+          "type": "Settlement, minor",
+          "loc": [
+            311.5,
+            625.7999877929688
+          ],
+          "link": "Stoneclimb",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            255.51004286283893,
+            -187.85394581861013
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9cabb6a59fb",
+          "type": "Settlement, minor",
+          "loc": [
+            193.8407597454435,
+            418.36308483298984
+          ],
+          "link": "Silverhall",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            170.81491182973747,
+            -116.8980789042015
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_19880aebc899",
+          "type": "Settlement, minor",
+          "loc": [
+            113.69972066166001,
+            622.7678132829593
+          ],
+          "link": "Brunderton",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_183909c8984b",
+          "type": "Settlement, minor",
+          "loc": [
+            39.06544284032307,
+            593.7116521651085
+          ],
+          "link": "Nivakta's Crossing",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            242.40858525401558,
+            -23.558900747049957
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Major Locations/Atlas.md",
+        "Major Locations/Brevoy.md",
+        "Major Locations/Stolen Lands.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
@@ -13,9 +250,89 @@
   },
   "markerIcons": [
     {
-      "type": "Settlement",
+      "type": "Settlement, major",
       "iconName": "landmark",
-      "color": "#e100ff",
+      "color": "#b442ff",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Settlement, minor",
+      "iconName": "archway",
+      "color": "#ff70e0",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Building",
+      "iconName": "store-alt",
+      "color": "#4e44d5",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Church",
+      "iconName": "church",
+      "color": "#fff68f",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Monument",
+      "iconName": "monument",
+      "color": "#2e943a",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Dungeon",
+      "iconName": "dungeon",
+      "color": "#4e3d2d",
       "alpha": 1,
       "layer": true,
       "transform": {
@@ -31,23 +348,7 @@
     {
       "type": "Danger",
       "iconName": "exclamation-triangle",
-      "color": "#d60000",
-      "alpha": 1,
-      "layer": true,
-      "transform": {
-        "size": 6,
-        "x": 0,
-        "y": -2
-      },
-      "isImage": false,
-      "tags": [],
-      "minZoom": null,
-      "maxZoom": null
-    },
-    {
-      "type": "Building",
-      "iconName": "home",
-      "color": "#8a14ff",
+      "color": "#bf4545",
       "alpha": 1,
       "layer": true,
       "transform": {
@@ -128,7 +429,7 @@
     "long": 387,
     "filterTag": []
   },
-  "enableDraw": true,
+  "enableDraw": false,
   "defaultUnitType": "imperial",
   "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
   "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",

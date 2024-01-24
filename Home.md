@@ -1,24 +1,29 @@
 ---
-cssclasses: clean-embeds
+cssclasses: clean-embeds, tables-wide
 ---
 ``` dataviewjs
-var arr = dv.pages('"Sessions"');
-var pg = arr[arr.length - 1];
+var arr = dv.pages('"Sessions"').sort(s => s.num, "desc");
+var pg = arr[0];
 dv.header(2, "Most Recent Session #[[" + pg.file.name + "]]");
-dv.paragraph("![[" + pg.file.name + "#Summary]]");
+dv.paragraph("![[" + pg.file.name + "#Summary|nlk]]");
 ```
 
-## Active Leads
-1. 
-2. 
+## Party Status
+>[!tldr|right wtiny static bg-c-gray no-i ttl-c] [[Atlas]] :FasMapLocationDot:
+
+>[!tldr|bg-c-gray no-i] :FasLocationDot: Current Location: [[Restov]]
+
+|             NAME              |   HP    |                     B MED                     | CONDITIONS | ADDITIONAL NOTES |
+|:-----------------------------:|:-------:|:---------------------------------------------:|:----------:|:----------------:|
+| [[Caidaranel Novori\|Caine]]  | 15 / 15 | <input type="checkbox" unchecked id="9b7daf"> |            |                  |
+| [[Garrett Goodword\|Garrett]] | 16 / 16 | <input type="checkbox" unchecked id="39025b"> |            |                  |
+|         [[WhizzBang]]         | 16 / 16 | <input type="checkbox" unchecked id="eef7ee"> |            |                  |
+
+<p></p>
+
+> [!recite|right no-i  ws-med static] -- **Active Leads** --
+> - placeholder
+> - placeholder
 
 ## Agenda
-- [ ] test
-
-## Party Status
-
-| NAME      |   HP    |          B MED          | CONDITIONS | ADDITIONAL NOTES |
-| --------- |:-------:|:-----------------------:| ---------- | ---------------- |
-| Caine     | 15 / 15 | <input type="checkbox"> |            |                  |
-| Garrett   | 16 / 16 | <input type="checkbox"> |            |                  |
-| WhizzBang | 16 / 16 | <input type="checkbox"> |            |                  |
+- [ ] placeholder

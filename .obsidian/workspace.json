@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8b1e7eb72a87a590",
+        "id": "0d988c31353a9640",
         "type": "tabs",
         "children": [
           {
-            "id": "b7bfc3ea4fee3a9a",
+            "id": "4c769ba0d8fe94b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "General Info/Deities.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -42,7 +42,87 @@
                 "sortOrder": "alphabetical"
               }
             }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225.5
+  },
+  "right": {
+    "id": "2888769117b42f32",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e31e3f0b2119702",
+        "type": "tabs",
+        "dimension": 34.49101796407186,
+        "children": [
+          {
+            "id": "2b2e6911c43dc37d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "General Info/Deities.md"
+              }
+            }
           },
+          {
+            "id": "fb7804a4c3473d70",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "General Info/Deities.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46a5de5db30111b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "General Info/Deities.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c5b2f578708ad384",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "45071930ef07e173",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "7c613979a479b220",
+        "type": "tabs",
+        "dimension": 65.50898203592814,
+        "children": [
           {
             "id": "560c7bdc5d345f78",
             "type": "leaf",
@@ -70,79 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
-  },
-  "right": {
-    "id": "2888769117b42f32",
-    "type": "split",
-    "children": [
-      {
-        "id": "0e31e3f0b2119702",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fb7804a4c3473d70",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Home.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "46a5de5db30111b3",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Home.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "c5b2f578708ad384",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "2b2e6911c43dc37d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Home.md"
-              }
-            }
-          },
-          {
-            "id": "45071930ef07e173",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 346.5
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,52 +158,53 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
+      "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "obsidian-leaflet-plugin:Open Leaflet Map": true
     }
   },
-  "active": "889152af33e81e49",
+  "active": "4c769ba0d8fe94b0",
   "lastOpenFiles": [
-    "kingmaker-notes",
-    "Home.md",
+    "General Info/Brevic Noble Houses.md",
+    "Sessions/000 - Character Creation.md",
+    "Sessions/001 - The Feast.md",
+    "Minor Locations/Settlements, Large/New Stetven.md",
     "Major Locations/Brevoy.md",
     "Major Locations/Stolen Lands.md",
+    "Player Characters/Caidaranel Novori.md",
+    "Player Characters/Garrett Goodword.md",
+    "Player Characters/WhizzBang.md",
+    "Home.md",
+    "Major Locations/Atlas.md",
+    "Minor Locations/Settlements, Large/Restov.md",
+    "General Info/Historical Figures.md",
+    "General Info/Deities.md",
+    "z_templates/Character Template.md",
     "z_templates/Major Location Template.md",
     "z_templates/Session Template.md",
-    "Player Characters/WhizzBang.md",
-    "General Info/Deities.md",
-    "Major Locations/Atlas.md",
-    "Player Characters/Caidaranel Novori (Caine).md",
-    "Player Characters/Garrett Goodword.md",
-    "General Info/Brevic Noble Houses.md",
-    "Sessions/001 - Session One.md",
-    "Sessions/000 - Character Creation.md",
-    "z_templates/Character Template.md",
+    "Minor Locations/Settlements, Large/Port Ice.md",
+    "Minor Locations/Settlements, Small/Brunderton.md",
+    "Minor Locations/Settlements, Small/Eagle's Watch.md",
+    "z_templates/Minor Location Template.md",
+    "Minor Locations/Settlements, Medium/Grayhaven.md",
+    "Minor Locations/Settlements, Medium/Highdelve.md",
+    "Minor Locations/Settlements, Medium/Silverhall.md",
+    "Minor Locations/Settlements, Medium/Skywatch.md",
+    "Minor Locations/Settlements, Medium/Winterbreak.md",
+    "Minor Locations/Settlements, Small",
+    "Minor Locations/Settlements, Medium",
+    "Minor Locations/Settlements, Large",
+    "kingmaker-notes",
     "z_assets/brevoy map.png",
     "z_assets/stolen lands map.png",
     "z_assets",
-    "Spaces/Home/Kingmaker/Kingmaker.md",
     "Spaces/Home/Kingmaker",
-    "Spaces/Home/Untitled.md",
-    "Spaces/Home/Home.md",
     "Spaces/Home",
     "Spaces",
-    "Investigations.md",
     "z_templates",
-    "Desna.md",
     "General Info",
-    "z_templates",
-    "01-22-2024.md",
-    "Untitled.canvas",
-    "Quests",
-    "Minor Locations",
-    "Locations/Rostland.md",
-    "Locations/Issia.md",
-    "testing.md",
-    "Welcome.md",
-    "Major Locations"
+    "Untitled.canvas"
   ]
 }

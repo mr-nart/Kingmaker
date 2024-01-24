@@ -1,7 +1,7 @@
 ---
-num: 999
+num: 1
 ---
-{{date:MMMM DD, YYYY}}
+
 > [!note|bg-c-gray no-t txt-c]
 >```dataviewjs
 >var n = dv.tryEvaluate("number(this.num)");
@@ -14,12 +14,8 @@ num: 999
 >dv.span("<< -- [[" + pgs[0] + "]] -- | -- [[" + pgs[1] + "]] -- >>");
 >```
 
-
 ## Summary
-
+We started the campaign.
 
 ## Log
-- 
-
-## Important Items
 - 

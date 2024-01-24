@@ -1,3 +1,9 @@
+## Abadar
+>![|right|100](https://2e.aonprd.com/Images/Deities/Abadar.png) Known to be a patient deity who wishes to bring light of civilization to hte wilderness. Depicted as a clean, refined, and cultured Taldan human with dark hear and wearing a golden breastplate, typically possessing a number of keys. In a common myth, Abadar assumes the form of a two-headed eagle for a single day each year and grants favor to those faithful that recognize him as he soars overhead. Areas of concern include cities, law, merchants, and wealth.
+
+**Edicts**:  Civilize frontiers, earn wealth through work and trade, obey laws
+**Anathema**:  Steal, undermine a law-abiding court
+
 ## Calistria
 >![|right|100](https://2e.aonprd.com/Images/Deities/Calistria.png) Goddess of lust and revenge, known for her changeable nature. Calistria has a fondness for wasps. Depicted as a female elf of otherworldly beauty, wearing revealing clothes of flowing yellow silks, often in the company of giant wasps. Areas of concern include lust, revenge, trickery.
 
@@ -33,6 +39,12 @@
 
 **Edicts**: Cherish, protect, and respect nature in all its forms
 **Anathema**: Bring civilization to intrude on the wild, create undead, despoil areas of natural beauty
+
+## Pharasma
+>![|right|100](https://2e.aonprd.com/Images/Deities/Pharasma.png) Goddess who shepherds Galorion's recently-departed souls to their final reward (via the River of Souls to Pharasma's Boneyard in the Outer Sphere). Makes no destinction on whether a death is just or not. Depicted as an ashen-skinned Garundi woman with white eyes, wearing a dark, hooded, robe-like dress and holding an hourglass of red sand. Areas of concern include birth, death, fate, prophecy, rebirth.
+
+**Edicts**:  Strive to understand ancient prophecies, dstroy undead, lay bodies to rest
+**Anathema**: Create undead, desecrate a corpse, rob a tomb
 
 ## Selket
 >A member of the pantheon often worshiped in Ancient Osirion (desert civilization in the Inner Sea region). Depicted as a woman wearing a scorpion with its tail raised on her head. Areas of concern include embalming, healing, scorpions.
