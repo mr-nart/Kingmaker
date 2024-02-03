@@ -86,11 +86,15 @@
   "ITS@@hide-status-bar": true,
   "ITS@@hide-outline-heading": false,
   "ITS@@hide-titlebar-tab": false,
-  "ITS@@hide-tab-outline": false,
+  "ITS@@hide-tab-outline": true,
   "ITS@@hide-note-title": false,
   "ITS@@hide-note-title-icons": false,
   "ITS@@sidebar-icon-color-active@@dark": "#E5EBEE",
   "ITS@@slrvb-b": false,
   "ITS@@t-d": false,
-  "ITS@@drwn": false
+  "ITS@@drwn": false,
+  "ITS@@hr-thickness": 2,
+  "ITS@@hr-center-vertically": false,
+  "ITS@@hr-no-icon": false,
+  "ITS@@highlight@@dark": "#C5292966"
 }

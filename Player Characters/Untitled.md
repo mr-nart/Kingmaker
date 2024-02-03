@@ -1,11 +1,10 @@
 > [!note|no-i bg-c-gray] :FasUser: Unknown
 
-- **She/Her** -- Charhide Goblin -- Adult (XX years old)
-- **Inventor** (Weapon Innovation) -- Tinker background
+- **Pronouns** -- Human -- Age (XX years old)
+- **Wizard** (School of Mentalism) -- Scholar background (Arcana)
 - Deities -- 
 
 >backstory
-
 ## Traits
 
 

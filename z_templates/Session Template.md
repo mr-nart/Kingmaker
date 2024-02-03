@@ -21,5 +21,4 @@ num: 999
 ## Log
 - 
 
-## Important Items
-- 
+## Party Status at Session End

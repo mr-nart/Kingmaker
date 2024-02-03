@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasPeopleGroup",
       "FasBookOpen",
       "FasBookBookmark",
       "FasBook",
-      "FasHouseChimney",
-      "FasCircleQuestion"
+      "FasHouseChimney"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,5 +34,6 @@
   "Player Characters": "FasImagePortrait",
   "Quests": "FasCircleQuestion",
   "Home.md": "FasHouseChimney",
-  "Sessions": "FasBook"
+  "Sessions": "FasBook",
+  "Groups": "FasPeopleGroup"
 }

@@ -1,4 +1,4 @@
-## Brevoy
+## [[Brevoy]]
 ```leaflet
 id: brevoy-map
 image: [[brevoy map.png]]
@@ -15,7 +15,7 @@ lock: true
 
 <p></p>
 
-## Stolen Lands
+## [[Stolen Lands]]
 ```leaflet
 id: stolen-lands-map
 image: [[stolen lands map.png]]

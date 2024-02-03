@@ -1,6 +1,6 @@
-> [!note|no-i bg-c-gray] :FasUserGroup: Unknown
+> [!note|no-i bg-c-gray] :FasUser: Unknown
 
-- **Pronouns** -- Ancestry -- Age (XX years old)
+- **Pronouns** -- Ancestry -- Age
 - **Class** (Specialization) -- Background
 - Deities -- 
 

@@ -3,7 +3,7 @@
     {
       "id": "brevoy-map",
       "locked": false,
-      "lastAccessed": 1706086610356,
+      "lastAccessed": 1706938166265,
       "markers": [
         {
           "id": "ID_5a799a5a5af9",
@@ -233,7 +233,8 @@
       "files": [
         "Major Locations/Atlas.md",
         "Major Locations/Brevoy.md",
-        "Major Locations/Stolen Lands.md"
+        "Major Locations/Stolen Lands.md",
+        "z_templates/Major Location Template.md"
       ]
     }
   ],
