@@ -70,7 +70,6 @@
   "ITS@@slrvb-g": false,
   "ITS@@hr-icon-symbol": "\"\"",
   "ITS@@hr-icon-padding-x": 4,
-  "ITS@@heading-spacing": 10,
   "ITS@@hide-header-underline": false,
   "ITS@@heading-indicator": false,
   "ITS@@dataview-regular-table": true,
@@ -96,5 +95,18 @@
   "ITS@@hr-thickness": 2,
   "ITS@@hr-center-vertically": false,
   "ITS@@hr-no-icon": false,
-  "ITS@@highlight@@dark": "#C5292966"
+  "ITS@@highlight@@dark": "#C5292966",
+  "ITS@@ITS-Table-Styling": "none",
+  "ITS@@table-cell-padding-x": 6,
+  "ITS@@table-cell-padding-y": 3,
+  "ITS@@table-header-padding-y": 3,
+  "ITS@@heading-spacing-top": 10,
+  "ITS@@heading-spacing": 10,
+  "ITS@@p-spacing": 0.8,
+  "ITS@@table-header-padding-x": 6,
+  "ITS@@indentation-guide-width": 2,
+  "ITS@@list-spacing": 1,
+  "ITS@@root-list-spacing": 8,
+  "ITS@@checkbox-strike-checked": false,
+  "ITS@@check-bg": true
 }

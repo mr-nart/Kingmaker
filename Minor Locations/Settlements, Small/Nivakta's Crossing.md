@@ -11,7 +11,8 @@ desc: Small village along the Shrike River at the southern edge of Rostland
 
 
 # Notable Inhabitants
-
-| Name | Description |
-| ---- | ----------- |
-|      |             |
+```dataview
+TABLE WITHOUT ID file.link AS "Name", desc AS "Description"
+FROM "NPCs" AND #nivaktas-crossing
+sort file.name
+```

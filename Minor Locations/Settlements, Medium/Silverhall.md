@@ -11,7 +11,8 @@ desc: Large town along the Awzera River as it empties into Lake Reykal
 
 
 # Notable Inhabitants
-
-| Name | Description |
-| ---- | ----------- |
-|      |             |
+```dataview
+TABLE WITHOUT ID file.link AS "Name", desc AS "Description"
+FROM "NPCs" AND #silverhall
+sort file.name
+```

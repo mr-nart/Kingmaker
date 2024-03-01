@@ -11,7 +11,8 @@ desc: Small town that sits at the top of Mount Veshka
 
 
 # Notable Inhabitants
-
-| Name | Description |
-| ---- | ----------- |
-|      |             |
+```dataview
+TABLE WITHOUT ID file.link AS "Name", desc AS "Description"
+FROM "NPCs" AND #eagles-watch
+sort file.name
+```

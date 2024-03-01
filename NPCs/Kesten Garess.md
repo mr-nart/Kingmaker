@@ -1,14 +1,14 @@
 ---
-desc: 
+desc:
 ---
-#uncategorized
+#garess
 >[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[]]
 
 >[!note|no-i bg-c-gray] :FasUser: Unknown
 
-- **Pronouns** -- Ancestry -- Age
+- **Pronouns** -- Human -- Age
 
->blurb
+>backstory
 ## Traits
 
 
@@ -16,4 +16,4 @@ desc:
 
 
 ## Affiliations
-- 
+- [[Mischen Fornsteele]] - friends

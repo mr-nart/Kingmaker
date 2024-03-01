@@ -1,10 +1,16 @@
-> [!note|no-i bg-c-gray] :FasUser: Unknown
+---
+aliases:
+  - Mischen
+---
+>[!note|no-i bg-c-gray] :FasUser: Unknown
 
-- **He/Him** -- Ancestry -- Age (XX years old)
-- **Kineticist** (Fire & Metal Gates) -- Background
+- Jon
+- **He/Him** -- Human -- Adult (XX years old)
+- **Kineticist** (Fire & Metal Gates) -- Alloy Smith background
 - Deities -- 
 
-> Grew up in [[Brevoy|Brevic]] region ruled over by [[Brevic Noble Houses#House Garess]]. 
+> **Archibald Mischen Fornsteele Legralte** grew up in the [[Brevoy|Brevic]] region ruled by [[Brevic Noble Houses#House Garess]]. 
+
 ## Traits
 
 
@@ -12,4 +18,4 @@
 
 
 ## Affiliations
-- [[Kesten Garess]]
+- [[Kesten Garess]] - friends

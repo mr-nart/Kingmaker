@@ -1,10 +1,13 @@
-> [!note|no-i bg-c-gray] :FasUser: Unknown
+---
+aliases:
+---
+>[!note|no-i bg-c-gray] :FasUser: Unknown
 
 - **Pronouns** -- Ancestry -- Age
 - **Class** (Specialization) -- Background
 - Deities -- 
 
->backstory
+>blurb
 ## Traits
 
 

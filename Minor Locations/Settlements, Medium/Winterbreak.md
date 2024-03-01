@@ -11,7 +11,8 @@ desc: City located on Acuben Isle on Lake of Mists and Veils
 
 
 # Notable Inhabitants
-
-| Name | Description |
-| ---- | ----------- |
-|      |             |
+```dataview
+TABLE WITHOUT ID file.link AS "Name", desc AS "Description"
+FROM "NPCs" AND #winterbreak
+sort file.name
+```

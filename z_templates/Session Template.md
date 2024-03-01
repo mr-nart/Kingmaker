@@ -2,7 +2,7 @@
 num: 999
 ---
 {{date:MMMM DD, YYYY}}
-> [!note|bg-c-gray no-t txt-c]
+>[!note|bg-c-gray no-t txt-c]
 >```dataviewjs
 >var n = dv.tryEvaluate("number(this.num)");
 >var pgs = dv.pages('"Sessions"')
@@ -20,5 +20,3 @@ num: 999
 
 ## Log
 - 
-
-## Party Status at Session End

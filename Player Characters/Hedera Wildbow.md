@@ -1,12 +1,12 @@
 ---
 aliases:
-  - Garrett
+  - Hedera
 ---
 >[!note|no-i bg-c-gray] :FasUser: Unknown
 
-- Phil
-- **He/Him** -- Observant Halfling -- Adult (XX years old)
-- **Swashbuckler** (Wit) -- Charlatan background
+- Danielle
+- **She/Her** -- Human -- Adult (XX years old)
+- **Ranger** (Specialization) -- background
 - Deities -- 
 
 >backstory

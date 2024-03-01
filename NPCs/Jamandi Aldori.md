@@ -1,15 +1,14 @@
 ---
 desc: Half-elf swordlord of Restov
 ---
-
-#swordlords
+#restov #swordlords 
 >[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Restov]]
 
-> [!note|no-i bg-c-gray] :FasUser: Unknown
+>[!note|no-i bg-c-gray] :FasUser: Unknown
 
 - **She/Her** -- Half-Elf / Human -- Adult
 
-> backstory
+>**Lady Jamandi Aldori** is a famed [[Aldori Swordlords|swordlord]] of [[Restov]].
 ## Traits
 
 
@@ -17,4 +16,4 @@ desc: Half-elf swordlord of Restov
 
 
 ## Affiliations
-- Lady Jamandi Aldori is a famed [[Aldori Swordlords|swordlord]] of [[Restov]].
+- [[Aldori Swordlords]]

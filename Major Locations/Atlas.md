@@ -27,3 +27,18 @@ defaultZoom: 7
 zoomDelta: 0.25
 lock: true
 ```
+
+<p></p>
+
+## [[Restov]]
+```leaflet
+id: restov-map
+image: [[restov map.jpg]]
+lat: 48
+long: 50
+minZoom: 0
+maxZoom: 10
+defaultZoom: 9
+zoomDelta: 0.25
+lock: true
+```

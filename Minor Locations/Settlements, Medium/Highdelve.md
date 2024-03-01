@@ -11,7 +11,8 @@ desc: Large town in the Golushkin Mountains
 
 
 # Notable Inhabitants
-
-| Name | Description |
-| ---- | ----------- |
-|      |             |
+```dataview
+TABLE WITHOUT ID file.link AS "Name", desc AS "Description"
+FROM "NPCs" AND #highdelve
+sort file.name
+```

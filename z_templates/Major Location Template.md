@@ -5,7 +5,7 @@ cssclasses: tables-wide
 >description
 
 ## Major Geographical Features
-> [!caption|right wm-sm]
+>[!caption|right wm-sm]
 >```leaflet
 >id: brevoy-map
 >image: [[brevoy map.png]]
@@ -26,9 +26,6 @@ cssclasses: tables-wide
 
 ```dataview
 TABLE WITHOUT ID file.link AS "Places", desc AS "Description"
-FROM "Minor Locations" AND #tag
+FROM "Minor Locations" AND #****
 SORT file.path
 ```
-
-# Major Areas of Interest
-- 

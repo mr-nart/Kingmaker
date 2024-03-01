@@ -11,7 +11,8 @@ desc: Fortress along Icerime Peaks, south of Skywatch
 
 
 # Notable Inhabitants
-
-| Name | Description |
-| ---- | ----------- |
-|      |             |
+```dataview
+TABLE WITHOUT ID file.link AS "Name", desc AS "Description"
+FROM "NPCs" AND #stoneclimb
+sort file.name
+```

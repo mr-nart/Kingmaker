@@ -11,7 +11,8 @@ desc: Small city in the Golushkin Mountains
 
 
 # Notable Inhabitants
-
-| Name | Description |
-| ---- | ----------- |
-|      |             |
+```dataview
+TABLE WITHOUT ID file.link AS "Name", desc AS "Description"
+FROM "NPCs" AND #grayhaven
+sort file.name
+```

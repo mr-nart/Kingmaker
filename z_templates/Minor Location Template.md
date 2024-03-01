@@ -2,6 +2,8 @@
 cssclasses: tables-wide
 desc: 
 ---
+>[!quote] Nickname
+
 #uncategorized
 
 >description
@@ -10,7 +12,8 @@ desc:
 
 
 # Notable Inhabitants
-
-| Name | Description |
-| ---- | ----------- |
-|      |             |
+```dataview
+TABLE WITHOUT ID file.link AS "Name", desc AS "Description"
+FROM "NPCs" AND #****
+sort file.name
+```

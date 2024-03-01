@@ -11,7 +11,8 @@ desc: Small city built around a massive observatory high in the Icerime Peaks
 
 
 # Notable Inhabitants
-
-| Name | Description |
-| ---- | ----------- |
-|      |             |
+```dataview
+TABLE WITHOUT ID file.link AS "Name", desc AS "Description"
+FROM "NPCs" AND #skywatch
+sort file.name
+```
