@@ -2,8 +2,8 @@
   "mapMarkers": [
     {
       "id": "brevoy-map",
-      "locked": false,
-      "lastAccessed": 1709260246121,
+      "locked": true,
+      "lastAccessed": 1709418486279,
       "markers": [
         {
           "id": "ID_5a799a5a5af9",
@@ -231,8 +231,10 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Major Locations/Atlas.md",
-        "Major Locations/Brevoy.md"
+        "z_templates/major location template.md",
+        "Major Locations/Brevoy.md",
+        "Major Locations/Stolen Lands.md",
+        "Major Locations/Atlas.md"
       ]
     }
   ],
@@ -380,19 +382,19 @@
   "mapViewEnabled": true,
   "mapViewParameters": {
     "darkMode": "false",
-    "defaultZoom": -0.25,
+    "defaultZoom": 8.25,
     "distanceMultiplier": 1,
     "drawColor": "#3388ff",
     "geojson": [],
     "geojsonColor": "#3388ff",
     "gpx": [],
     "gpxColor": "#3388ff",
-    "height": "500px",
-    "image": "[[brevoy map.png]]",
+    "height": "330px",
+    "image": "[[restov map.jpg]]",
     "imageOverlay": [],
     "isMapView": false,
     "layers": [
-      "[[brevoy map.png]]"
+      "[[restov map.jpg]]"
     ],
     "linksFrom": [],
     "linksTo": [],
@@ -402,7 +404,7 @@
     "markerFolder": [],
     "markerTag": [],
     "maxZoom": 10,
-    "minZoom": -0.25,
+    "minZoom": 0,
     "osmLayer": true,
     "overlay": [],
     "overlayColor": "blue",
@@ -412,20 +414,10 @@
     "verbose": false,
     "zoomDelta": 0.25,
     "zoomFeatures": false,
-    "id": "brevoy-map",
-    "bounds": [
-      [
-        0,
-        0
-      ],
-      [
-        523,
-        773
-      ]
-    ],
-    "unit": "miles",
-    "lat": 262,
-    "long": 387,
+    "id": "restov-map",
+    "lat": 48,
+    "long": 45,
+    "lock": true,
     "filterTag": []
   },
   "enableDraw": false,

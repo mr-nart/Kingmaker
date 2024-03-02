@@ -4,15 +4,15 @@ aliases:
 ---
 >[!note|no-i bg-c-gray] :FasUser: Unknown
 
-- Liosa
+- Megan
 - **She/Her** -- Human -- Adult (XX years old)
 - **Wizard** (School of Mentalism) -- Scholar background (Arcana)
-- Deities -- 
+- Deity -- 
 
->Once an apprentice wizard of [[Brevic Noble Houses#House Rogarvia]].
+>Hailing from [[New Stetven]], **Liosa Fenrie** was once an apprentice wizard working with [[Brevic Noble Houses#House Rogarvia]] before their disappearance.
 
 ## Traits
-
+Tall, dark-haired. Appears confident.
 
 ## Motivations
 

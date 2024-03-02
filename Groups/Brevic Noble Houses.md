@@ -54,7 +54,7 @@ sort file.name
 Controls northeastern Brevoy from Eagle's Watch on Mount Veshka. Has a reputation for avoiding political conflicts, however they were staunch allies of the now disappeared House Rogarvia. The family's crest is a black eagle with wings spread in front of a gold field.
 ```dataview
 TABLE WITHOUT ID file.link AS "Name", desc AS "Description"
-FROM "NPCs" AND #orlovsky
+FROM ("NPCs" OR "Player Characters") AND #orlovsky
 sort file.name
 ```
 

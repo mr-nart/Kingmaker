@@ -4,18 +4,17 @@ aliases:
 ---
 >[!note|no-i bg-c-gray] :FasUser: Unknown
 
-- Danielle
+- Dani
 - **She/Her** -- Human -- Adult (XX years old)
 - **Ranger** (Specialization) -- background
-- Deities -- 
+- Deity -- 
 
->backstory
+>**Hedera Wildbow** was hired by [[Kesten Garess]] for the expeditions into the [[Stolen Lands]] as a scout.
 
 ## Traits
-
+Tall, dark-haired. Wears military leather armor over plain clothing with a longbow on her back. Seems aloof.
 
 ## Motivations
 
-
 ## Affiliations
-- 
+- [[Fletcher]] -- wolf companion

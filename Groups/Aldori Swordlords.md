@@ -1,3 +1,7 @@
+>[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Based in: [[Restov]]
+
+>[!note|no-i bg-c-brown] :FasPeopleGroup: Neutral
+
 >The **Aldori Swordlords** arose when famed swordsman [[Historical Figures#Baron Sirian Aldori]] agreed to train a select group of pupils in his dueling techniques. They ruled [[Brevoy#Rostland]] for generations. Though they are considered some of the finest swordfighters in the Inner Sea region, they are also obsessed with personal standing and honor. In recent history, the group has been making furtive plans to take back control of Rostland.
 
 ## Members

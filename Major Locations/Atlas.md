@@ -35,7 +35,7 @@ lock: true
 id: restov-map
 image: [[restov map.jpg]]
 lat: 48
-long: 50
+long: 48
 minZoom: 0
 maxZoom: 10
 defaultZoom: 9

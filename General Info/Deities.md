@@ -47,6 +47,13 @@
 **Edicts**: Cherish, protect, and respect nature in all its forms
 **Anathema**: Bring civilization to intrude on the wild, create undead, despoil areas of natural beauty
 
+## Groetus
+>![|right|100](https://2e.aonprd.com/Images/Deities/Groetus.png) ***God of the End Times / Harbinger of Last Days***
+>A lesser god overlooking Pharasma's Boneyard, waiting for the last living soul to die, after which he will descend to meet with Pharasma before moving onto the Material Plane to "clean up." Depicted as a bloated moon of varying size. Areas of concern include the apocalypse, empty places, oblivion, and ruins.
+
+**Edicts**: Preach of the upcoming end times, destroy that which has outlived its usefulness, put the suffering out of their misery
+**Anathema**: Artificially extend something’s existence or lifespan, spread hope
+
 ## Iomedae
 >![|right1|100](https://2e.aonprd.com/Images/Deities/Iomedae.png) ***The Inheritor / Light of the Sword / Lady of Valour***
 >A Chelaxian human who ascended to godhood by passing the Test of the Starstone. Her followers are assertive and vigilant in rooting out evil. Depicted in full plate mail, wielding a longsword and a heraldic shield which casts a holy light. Areas of concern include honor, justice, valor, and rulership.
@@ -70,7 +77,7 @@
 
 ## Selket
 >***Mistress of the Beautiful House***
->A member of the pantheon often worshiped in Ancient Osirion (desert civilization in the Inner Sea region). Depicted as a woman wearing a scorpion with its tail raised on her head. Areas of concern include embalming, healing, scorpions.
+>A member of the pantheon often worshiped in Ancient Osirion (desert civilization in the Inner Sea region). Depicted as a woman wearing a scorpion on her head. Areas of concern include embalming, healing, scorpions.
 
 **Edicts**: Avenge the wronged, protect the dead and vulnerable, suffocate or use poison, heal others
 **Anathema**: Unintentionally poison someone, harm someone for another's crime, desecrate a corpse

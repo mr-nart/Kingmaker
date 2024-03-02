@@ -14,29 +14,35 @@ dv.paragraph("![[" + pg.file.name + "#Summary|nlk]]");
 
 >[!tldr|bg-c-gray] Current Location: [[Restov]]
 
-|               NAME                |   HP    |                                            BM / TW                                            | CONDITIONS | ADDITIONAL NOTES |
-|:---------------------------------:|:-------:|:---------------------------------------------------------------------------------------------:|:----------:|:----------------:|
-|   [[Caidaranel Novori\|Caine]]    | 15 / 15 | <input type="checkbox" unchecked id="9b7daf">/  <input type="checkbox" unchecked id="c561bc"> |            |                  |
-| [[Celestine Orlovsky\|Celestine]] |  - / -  | <input type="checkbox" unchecked id="eef7ee">/  <input type="checkbox" unchecked id="86b019"> |            |                  |
-|   [[Garrett Goodword\|Garrett]]   | 16 / 16 | <input type="checkbox" unchecked id="39025b">/  <input type="checkbox" unchecked id="7b7d8f"> |            |                  |
-|    [[Hedera Wildbow\|Hedera]]     | 16 / 16 | <input type="checkbox" unchecked id="182448">/  <input type="checkbox" unchecked id="977270"> |            |                  |
-|             [[Liosa]]             |  - / -  | <input type="checkbox" unchecked id="6d09af">/  <input type="checkbox" unchecked id="43e756"> |            |                  |
-|  [[Mischen Fornsteele\|Mischen]]  |  - / -  | <input type="checkbox" unchecked id="4f0b64">/  <input type="checkbox" unchecked id="26c3c1"> |            |                  |
+|                 NAME                 |   HP    |                                            BM / TW                                            | CONDITIONS | ADDITIONAL NOTES |
+|:------------------------------------:|:-------:|:---------------------------------------------------------------------------------------------:|:----------:|:----------------:|
+| [[Archibald M. F. Legralte\|Archie]] | 20 / 20 | <input type="checkbox" unchecked id="4f0b64">/  <input type="checkbox" unchecked id="26c3c1"> |            |                  |
+|     [[Caidaranel Novori\|Caine]]     | 15 / 15 | <input type="checkbox" unchecked id="9b7daf">/  <input type="checkbox" unchecked id="c561bc"> |            |                  |
+|  [[Celestine Orlovsky\|Celestine]]   | 20 / 20 | <input type="checkbox" unchecked id="eef7ee">/  <input type="checkbox" unchecked id="86b019"> |            |                  |
+|    [[Garrett Goodword\|Garrett]]     | 16 / 16 | <input type="checkbox" unchecked id="39025b">/  <input type="checkbox" unchecked id="7b7d8f"> |            |                  |
+|      [[Hedera Wildbow\|Hedera]]      | 21 / 21 | <input type="checkbox" unchecked id="182448">/  <input type="checkbox" unchecked id="977270"> |            |                  |
+|       [[Liosa Fenrie\|Liosa]]        | 15 / 15 | <input type="checkbox" unchecked id="6d09af">/  <input type="checkbox" unchecked id="43e756"> |            |                  |
+|               Fletcher               |  - / -  | <input type="checkbox" unchecked id="bc6877">/ <input type="checkbox" unchecked id="60d677">  |            |                  |
 
 <p></p>
 
 >[!recite|right no-i  ws-med static] **-- Active Leads --**
 >- [[Black Tears]]
->- [[Jamandi Aldori]]
+>-
 
 ## Agenda
 - [ ] [[Investigating the Black Tears]]
-	- [ ] need to find a way into the party at the Aldori manor
+	- [x] deal at the docks...
+	- [x] get into the party at Aldori Manor
+	- [ ] [[Gilda Goodword]]'s makeup...
+	- [ ] discuss security issue with [[Kesten Garess]]
 ---
 >[!note|bg-c-gray]- Recently Edited Files
+><p></p>
+>
 >```dataview
 >TABLE file.folder AS "Folder", file.mtime AS "Last Modified"
->LIMIT 10
 >SORT file.mtime DESC
+>LIMIT 20
 >```
 

@@ -1,7 +1,12 @@
 ---
 num: 999
 ---
-{{date:MMMM DD, YYYY}}
+{{date:MMMM Do, YYYY}}
+
+## Summary
+...
+
+##
 >[!note|bg-c-gray no-t txt-c]
 >```dataviewjs
 >var n = dv.tryEvaluate("number(this.num)");
@@ -13,10 +18,6 @@ num: 999
 >	.file.name;
 >dv.span("<< -- [[" + pgs[0] + "]] -- | -- [[" + pgs[1] + "]] -- >>");
 >```
-
-
-## Summary
-
 
 ## Log
 - 

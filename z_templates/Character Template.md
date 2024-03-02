@@ -5,7 +5,7 @@ aliases:
 
 - **Pronouns** -- Ancestry -- Age
 - **Class** (Specialization) -- Background
-- Deities -- 
+- Deity -- 
 
 >blurb
 ## Traits

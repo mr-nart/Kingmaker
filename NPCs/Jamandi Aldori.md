@@ -8,7 +8,8 @@ desc: Half-elf swordlord of Restov
 
 - **She/Her** -- Half-Elf / Human -- Adult
 
->**Lady Jamandi Aldori** is a famed [[Aldori Swordlords|swordlord]] of [[Restov]].
+>**Lady Jamandi Aldori** is a famed [[Aldori Swordlords|swordlord]] of [[Restov]]. She has organized expeditions into the [[Stolen Lands]] in an attempt to spread influence and tame the lawless chaos of the region.
+
 ## Traits
 
 
