@@ -1,5 +1,7 @@
 ---
+player:
 aliases:
+  - 
 ---
 >[!note|no-i bg-c-gray] :FasUser: Unknown
 

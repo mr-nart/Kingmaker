@@ -12,7 +12,7 @@ dv.paragraph("![[" + pg.file.name + "#Summary|nlk]]");
 ## Party Status
 >[!tldr|right w-tiny static bg-c-gray no-i ttl-c] [[Atlas]] :FasMapLocationDot:
 
->[!tldr|bg-c-gray] Current Location: [[Restov]]
+>[!tldr|bg-c-gray] Current Location: [[Restov]] (Aldori Manor)
 
 |                 NAME                 |   HP    |                                            BM / TW                                            | CONDITIONS | ADDITIONAL NOTES |
 |:------------------------------------:|:-------:|:---------------------------------------------------------------------------------------------:|:----------:|:----------------:|
@@ -35,13 +35,14 @@ dv.paragraph("![[" + pg.file.name + "#Summary|nlk]]");
 	- [x] deal at the docks...
 	- [x] get into the party at Aldori Manor
 	- [ ] [[Gilda Goodword]]'s makeup...
-	- [ ] discuss security issue with [[Kesten Garess]]
+	- [x] discuss security issue with [[Kesten Garess]]
 ---
 >[!note|bg-c-gray]- Recently Edited Files
 ><p></p>
 >
 >```dataview
 >TABLE file.folder AS "Folder", file.mtime AS "Last Modified"
+>FROM -"z_templates" AND -"z_assets"
 >SORT file.mtime DESC
 >LIMIT 20
 >```

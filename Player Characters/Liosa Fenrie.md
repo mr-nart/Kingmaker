@@ -1,10 +1,10 @@
 ---
+Player: Megan
 aliases:
   - Liosa
 ---
 >[!note|no-i bg-c-gray] :FasUser: Unknown
 
-- Megan
 - **She/Her** -- Human -- Adult (XX years old)
 - **Wizard** (School of Mentalism) -- Scholar background (Arcana)
 - Deity -- 

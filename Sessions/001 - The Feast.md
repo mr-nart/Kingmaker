@@ -4,7 +4,7 @@ num: 1
 March 2nd, 2024
 
 ## Summary
-At the feast, Lady [[Jamandi Aldori]] presented her offer -- charters to colonize the [[Stolen Lands]] in order to tame the lawless chaos. Lots of pleasantries were exchanged between guests. Caine discussed with [[Kesten Garess]] his concerns regarding the manor's security as it pertains to the [[Black Tears]], and he is keeping an eye on the Goodwords, [[Gilda Goodword|one of whom]] is concealing some kind of facial marking on her left cheek.
+At the feast, Lady [[Jamandi Aldori]] presented her offer -- charters to colonize the [[Stolen Lands]] in order to tame the lawless chaos. Lots of pleasantries were exchanged between guests. Caine discussed with [[Kesten Garess]] his concerns regarding the manor's security as it pertains to the [[Black Tears]], and he is keeping an eye on the Goodwords, [[Gilda Goodword|one of whom]] is concealing some kind of facial marking on her left cheek. Guard tonight will be doubled, Caine will stay on the watch along with guards Brenza and Ulfric.
 
 ##
 > [!note|bg-c-gray no-t txt-c]
@@ -75,7 +75,7 @@ At the feast, Lady [[Jamandi Aldori]] presented her offer -- charters to coloniz
 
 - [[Maegar Varn]]
 	- hero of legend? older gentleman, ruggedly handsome, "quite an accomplished mercenary"
-	- plans for a village at the "No Man Heights" -- named "Varnhold"
+	- plans for a village at the "Nomen Heights"(?) -- named "Varnhold"
 	- *loves to talk about history*
 		- getting along with Linzi about history
 
@@ -83,6 +83,7 @@ At the feast, Lady [[Jamandi Aldori]] presented her offer -- charters to coloniz
 	- human male, "was already a Baron before this but w/o any lands" per Linzi
 	- "seems like a hardass" per Linzi, has a reputation for brutality?, he's sitting with the Iron Wraiths, yet looks approachable
 	- impressed by Archie's wish blade, *wants to talk to Archie again tomorrow*
+	- in search of dwarven ruins in the stolen lands
 
 - [[The Iron Wraiths]] (group)
 	- dressed in full plate, largely keeping to themselves, not mingling
@@ -126,3 +127,9 @@ At the feast, Lady [[Jamandi Aldori]] presented her offer -- charters to coloniz
 	- Megar Varn declines room, going to deal with other matters in Restov and return tomorrow
 	- Iron Wraiths + Baron have arrangements to stay elsewhere already
 - PCs + Gilda Goodword in east wing bedroom, 4 bunk beds
+
+>[!tldr|bg-c-gray]- Caine's side conversation
+>- Kesten pulls Caine aside and asks 
+>	- Caine explains what happened, what he knows, handed over the Giant's Mantle, discussed concern about the Goodwords
+>	- Kesten is hesitant but is taking Caine's concerns seriously
+>	- guard will be doubled tonight, Caine will join the watch w/ guards Brenza & Ulfric, they will hold his weapons

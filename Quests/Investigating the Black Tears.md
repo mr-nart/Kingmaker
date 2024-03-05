@@ -5,7 +5,7 @@
 - found evidence of some kind of trade deal happening on the Restov docks
 	- a Black Tears member (Eric) ambushed someone who had just purchased a [[Notable Items#Giant's Mantle]] in order to steal it
 		- *Caine killed Eric after extracting information* about some *plot to remove the swordlords (and elves?) from power* in Restov, apparently involving some kinds of *sacrifical rituals* + the item to bring about some magicky whatever
-		- *planning to launch some kind of attack at the Aldori Manor*
+		- *planning to launch some kind of attack at Aldori Manor*
 
 ## Aldori Manor
 - one very suspicious guest -- *a female halfling named [[Gilda Goodword]] has concealing makeup over her left cheek, covering her face with a hood...*

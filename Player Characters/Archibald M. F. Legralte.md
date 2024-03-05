@@ -1,10 +1,10 @@
 ---
+player: Jon
 aliases:
   - Archie
 ---
 >[!note|no-i bg-c-green] :FasUser: Friendly?
 
-- Jon
 - **He/Him** -- Human -- Adult (XX years old)
 - **Kineticist** (Fire & Metal Gates) -- Alloy Smith background
 - Deity -- 

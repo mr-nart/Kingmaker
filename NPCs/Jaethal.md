@@ -14,7 +14,7 @@ desc:
 Extremely pale skin, raven black hair. Very reserved and pensive. Wears a dark robe and *carries a wrapped bundle?*
 
 ## Motivations
-Seeks to found "a place hwere one can make a home for themselves and be left alone."
+Seeks to create "a place where one can make a home for themselves and be left alone."
 
 ## Affiliations
 - 

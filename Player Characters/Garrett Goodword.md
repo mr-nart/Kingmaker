@@ -1,10 +1,10 @@
 ---
+player: Phil
 aliases:
   - Garrett
 ---
 >[!note|no-i bg-c-yellow] :FasUser: Suspicious
 
-- Phil
 - **He/Him** -- Observant Halfling -- Adult (XX years old)
 - **Swashbuckler** (Wit) -- Charlatan background
 - Deity -- 

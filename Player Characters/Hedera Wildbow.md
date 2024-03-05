@@ -1,10 +1,10 @@
 ---
+player: Dani
 aliases:
   - Hedera
 ---
 >[!note|no-i bg-c-gray] :FasUser: Unknown
 
-- Dani
 - **She/Her** -- Human -- Adult (XX years old)
 - **Ranger** (Specialization) -- background
 - Deity -- 

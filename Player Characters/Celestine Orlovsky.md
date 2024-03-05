@@ -1,11 +1,11 @@
 ---
+Player: Joanna
 aliases:
   - Celestine
 ---
 #orlovsky
 >[!note|no-i bg-c-gray] :FasUser: Unknown
 
-- Joanna
 - **She/Her** -- Human -- Adult (XX years old)
 - **Champion** (Specialization) -- Brevic Noble
 - Deity -- [[Deities#Sarenrae]]

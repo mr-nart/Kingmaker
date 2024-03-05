@@ -1,10 +1,10 @@
 ---
+player: Chris
 aliases:
   - Caine
 ---
 >[!info|no-i bg-c-blue] :FasUserLarge: Self
 
-- Chris
 - **He/Him** -- Ancient Elf -- Adult (242 years old)
 - **Investigator** (Forensic Medicine) -- Barber background -- Magus archetype
 - Deities -- [[Deities#Selket]] and [[Deities#Desna]] 

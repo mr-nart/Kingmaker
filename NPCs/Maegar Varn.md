@@ -16,7 +16,7 @@ desc:
 Ruggedly handsome. *Loves to talk about history*.
 
 ## Motivations
-Plans to establish a village in "No Man Heights"(?) named "[[Varnhold]]" with his charter.
+Plans to establish a village in Nomen Heights named "[[Varnhold]]" with his charter.
 
 ## Affiliations
 - 
