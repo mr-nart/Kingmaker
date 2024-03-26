@@ -12,3 +12,9 @@
 	- perhaps unlikely to be a Black Tears member? Eric was pretty racist, so unclear if a halfling would be allowed in
 	- [[Garrett Goodword]] claims she's his cousin and that he's mentoring her in the family business
 - *discussed security issue briefly w/ [[Kesten Garess]] during the party*, will discuss further after
+	- Caine explained everything he knows, handed over the giant's mantle, discussed Gilda's makeup
+	- Caine will stand guard overnight w/ Brenza & Ulfric, who are holding onto his weapons
+
+## Midnight Assault
+- they've attacked in the night
+- had an ogre and a frost giant working with them??

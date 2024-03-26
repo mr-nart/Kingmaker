@@ -127,6 +127,7 @@ At the feast, Lady [[Jamandi Aldori]] presented her offer -- charters to coloniz
 	- Megar Varn declines room, going to deal with other matters in Restov and return tomorrow
 	- Iron Wraiths + Baron have arrangements to stay elsewhere already
 - PCs + Gilda Goodword in east wing bedroom, 4 bunk beds
+	- except Celestine, she's upstairs cause she's a noble
 
 >[!tldr|bg-c-gray]- Caine's side conversation
 >- Kesten pulls Caine aside and asks 

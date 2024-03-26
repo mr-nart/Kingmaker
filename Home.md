@@ -17,7 +17,7 @@ dv.paragraph("![[" + pg.file.name + "#Summary|nlk]]");
 |                 NAME                 |   HP    |                                            BM / TW                                            | CONDITIONS | ADDITIONAL NOTES |
 |:------------------------------------:|:-------:|:---------------------------------------------------------------------------------------------:|:----------:|:----------------:|
 | [[Archibald M. F. Legralte\|Archie]] | 20 / 20 | <input type="checkbox" unchecked id="4f0b64">/  <input type="checkbox" unchecked id="26c3c1"> |            |                  |
-|     [[Caidaranel Novori\|Caine]]     | 15 / 15 | <input type="checkbox" unchecked id="9b7daf">/  <input type="checkbox" unchecked id="c561bc"> |            |                  |
+|     [[Caidaranel Novori\|Caine]]     | 15 / 15 | <input type="checkbox" checked id="9b7daf">/  <input type="checkbox" unchecked id="c561bc"> |            |                  |
 |  [[Celestine Orlovsky\|Celestine]]   | 20 / 20 | <input type="checkbox" unchecked id="eef7ee">/  <input type="checkbox" unchecked id="86b019"> |            |                  |
 |    [[Garrett Goodword\|Garrett]]     | 16 / 16 | <input type="checkbox" unchecked id="39025b">/  <input type="checkbox" unchecked id="7b7d8f"> |            |                  |
 |      [[Hedera Wildbow\|Hedera]]      | 21 / 21 | <input type="checkbox" unchecked id="182448">/  <input type="checkbox" unchecked id="977270"> |            |                  |

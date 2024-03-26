@@ -1,5 +1,7 @@
 ---
 desc: A business-gnome dealing in mostly magical goods
+aliases:
+  - 
 ---
 #new-stetven
 >[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Restov#Aldori Manor]]
