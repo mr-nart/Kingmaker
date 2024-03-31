@@ -25,3 +25,6 @@ He identifies deeply with the edicts of his adopted deity, [[Deities#Selket]]. H
 - Maybe familiar w/ some people of [[Brevic Noble Houses#House Rogarvia]]?
 	- Caine is old enough to have been around for the disappearance of [[Historical Figures#Choral the Conqueror]].
 - Familiar w/ some peripheral players in Brevic politics?
+
+## Notable Items
+- 

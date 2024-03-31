@@ -19,3 +19,6 @@ Tall, dark-haired. Appears confident.
 
 ## Affiliations
 - 
+
+## Notable Items
+- 

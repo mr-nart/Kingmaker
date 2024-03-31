@@ -17,4 +17,7 @@ Tall, dark-haired. Wears military leather armor over plain clothing with a longb
 ## Motivations
 
 ## Affiliations
-- [[Fletcher]] -- wolf companion
+- 
+
+## Notable Items
+- [[Notable Items#Coyote Cloak]]

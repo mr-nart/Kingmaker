@@ -13,7 +13,7 @@ aliases:
 >One of the adventurers called upon for the expeditions into the [[Stolen Lands]].
 
 ## Traits
-Extremely pale skin, raven black hair. Very reserved and pensive. Wears a dark robe and *carries a wrapped bundle?*
+Extremely pale skin, raven black hair. Very reserved and pensive. Wears a dark robe and wields a large scythe.
 
 ## Motivations
 Seeks to create "a place where one can make a home for themselves and be left alone."

@@ -18,3 +18,13 @@
 ## Midnight Assault
 - they've attacked in the night
 - had an ogre and a frost giant working with them??
+
+## [[The Pitaxian Spy]]
+- per Jamandi, she received intel regarding a possible link between a Pitaxian spy present among the guests and the Black Tears?? (the spy is clearly [[Tartuccio]]...)
+
+# Relevant Sessions
+```dataview
+LIST FROM "Sessions"
+WHERE contains(file.outlinks, this.file.link)
+SORT date
+```

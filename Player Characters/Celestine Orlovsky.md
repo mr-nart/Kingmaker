@@ -20,3 +20,6 @@ Intends to bring order and goodness to the [[Stolen Lands]].
 
 ## Affiliations
 - [[Lander Lebeda]] -- not on good terms??
+
+## Notable Items
+- +1 Greataxe

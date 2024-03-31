@@ -78,3 +78,6 @@ Finalized(?) characters, set campaign expectations. Did some individual RP to ge
 >			- "that stupid half-elf jamandi aldori sitting so smug... you think restov is safe from issia? no, they are so dead"
 >			- *"they'll have some stupid party, that's when they'll strike"*
 >	- after getting info, Caine killed the guy, took the Giant's mantle, plan to get into the Aldori manor party somehow
+
+## Quests Progressed
+- [[Investigating the Black Tears]]

@@ -4,16 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9c761030bd00c144",
+        "id": "6f31d0308d1c4a1d",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
-            "id": "27b8d03a3e5b5924",
+            "id": "4d10e94d7e69c814",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/002 - Black Tears Attack.md",
+                "file": "Minor Locations/Settlements, Large/Pitax.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -64,7 +65,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/002 - Black Tears Attack.md"
+                "file": "Minor Locations/Settlements, Large/Pitax.md"
               }
             }
           },
@@ -74,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/002 - Black Tears Attack.md",
+                "file": "Minor Locations/Settlements, Large/Pitax.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/002 - Black Tears Attack.md",
+                "file": "Minor Locations/Settlements, Large/Pitax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,39 +165,41 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "27b8d03a3e5b5924",
+  "active": "4d10e94d7e69c814",
   "lastOpenFiles": [
-    "NPCs/Noleski Surtova.md",
+    "Sessions/003 - Charters Issued.md",
+    "Sessions/002 - Black Tears Attack.md",
+    "Sessions/001 - The Feast.md",
+    "Sessions/000 - Expectations.md",
+    "Major Locations/Stolen Lands.md",
+    "Major Locations/Brevoy.md",
+    "Major Locations/Atlas.md",
+    "Groups/Iron Wraiths.md",
     "Groups/Brevic Noble Houses.md",
-    "Groups/The Iron Wraiths.md",
     "Groups/Black Tears.md",
     "Groups/Aldori Swordlords.md",
-    "Minor Locations/Settlements, Large/New Stetven.md",
-    "Sessions/002 - Black Tears Attack.md",
-    "Player Characters/Liosa Fenrie.md",
-    "Player Characters/Caidaranel Novori.md",
-    "Minor Locations/Settlements, Small/Stoneclimb.md",
-    "Minor Locations/Settlements, Small/Nivakta's Crossing.md",
-    "Minor Locations/Settlements, Small/Eagle's Watch.md",
-    "Minor Locations/Settlements, Small/Brunderton.md",
-    "Minor Locations/Settlements, Medium/Winterbreak.md",
-    "Minor Locations/Settlements, Medium/Skywatch.md",
-    "Minor Locations/Settlements, Medium/Silverhall.md",
-    "Minor Locations/Settlements, Medium/Highdelve.md",
-    "Minor Locations/Settlements, Medium/Grayhaven.md",
-    "Minor Locations/Settlements, Large/Port Ice.md",
-    "Minor Locations/Settlements, Large/Restov.md",
-    "Home.md",
-    "Player Characters/Celestine Orlovsky.md",
-    "Player Characters/Archibald M. F. Legralte.md",
+    "General Info/Notable Items.md",
+    "General Info/Historical Figures.md",
+    "General Info/Documents.md",
     "General Info/Deities.md",
-    "Sessions/001 - The Feast.md",
-    "Untitled.md",
+    "Home.md",
+    "NPCs/Valerie.md",
+    "NPCs/Tartuccio.md",
+    "NPCs/Noleski Surtova.md",
+    "NPCs/Maegar Varn.md",
+    "NPCs/Linzi.md",
+    "NPCs/Lander Lebeda.md",
+    "NPCs/Kesten Garess.md",
+    "NPCs/Jamandi Aldori.md",
+    "NPCs/Jaethal.md",
+    "NPCs/Ioseph Sellemius.md",
+    "z_assets/exploration charter.png",
+    "z_assets/linzi.png",
+    "z_assets/Harrim.webp",
     "100-110",
     "20-21",
     "10-19",
     "0-10",
-    "z_assets/Harrim.webp",
     "z_assets/restov map.jpg",
     "Quests/Completed",
     "Quests/Backburner",

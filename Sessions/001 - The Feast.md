@@ -85,7 +85,7 @@ At the feast, Lady [[Jamandi Aldori]] presented her offer -- charters to coloniz
 	- impressed by Archie's wish blade, *wants to talk to Archie again tomorrow*
 	- in search of dwarven ruins in the stolen lands
 
-- [[The Iron Wraiths]] (group)
+- [[Iron Wraiths]] (group)
 	- dressed in full plate, largely keeping to themselves, not mingling
 	- "we don't need any of the rest of the people in this room, we can take the stolen lands on our own"
 		- only complying as a "courtesy to Lady Jamandi"
@@ -134,3 +134,6 @@ At the feast, Lady [[Jamandi Aldori]] presented her offer -- charters to coloniz
 >	- Caine explains what happened, what he knows, handed over the Giant's Mantle, discussed concern about the Goodwords
 >	- Kesten is hesitant but is taking Caine's concerns seriously
 >	- guard will be doubled tonight, Caine will join the watch w/ guards Brenza & Ulfric, they will hold his weapons
+
+## Quests Progressed
+- [[Investigating the Black Tears]]

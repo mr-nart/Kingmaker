@@ -61,6 +61,13 @@
 **Edicts**: Be temperate, fight for justice and honor, hold valor in your heart
 **Anathema**: Abandon a companion in need, dishonor yourself, refuse a challenge from an equal
 
+## Milani
+>![|right1|100](https://2e.aonprd.com/Images/Deities/Milani.png) ***The Everbloom***
+>A minor, half-elven goddess and the patron of all those who fight against oppression and unjust rule. Followers are often freedom fighters. Areas of concern include hope, devotion, and uprisings.
+
+**Edicts**: Confront oppression in all its forms, defend the common folk, overcome despair to seize victory
+**Anathema**: Abandon those in need, enslave or oppress others, harm the innocent through direct or inadvertent action
+
 ## Pharasma
 >![|right|100](https://2e.aonprd.com/Images/Deities/Pharasma.png) ***Lady of Graves / Mother of Souls***
 >Goddess who shepherds Galorion's recently-departed souls to their final reward (via the River of Souls to Pharasma's Boneyard in the Outer Sphere). Makes no destinction on whether a death is just or not. Depicted as an ashen-skinned Garundi woman with white eyes, wearing a dark, hooded, robe-like dress and holding an hourglass of red sand. Areas of concern include birth, death, fate, prophecy, rebirth.

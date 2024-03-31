@@ -19,3 +19,6 @@ Stocky, with skin that bears a faint glimmer. Has an old scar along the side of 
 
 ## Affiliations
 - [[Kesten Garess]] -- old friends?
+
+## Notable Items
+- 

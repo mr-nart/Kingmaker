@@ -19,3 +19,6 @@ Reports that he's interested in expanding his mercantile business. Endorses that
 
 ## Affiliations
 - [[Gilda Goodword]] -- paternal cousin?
+
+## Notable Items
+- [[Notable Items#Tracker's Goggles]]

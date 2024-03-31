@@ -21,3 +21,6 @@ num: 999
 
 ## Log
 - 
+
+## Quests Progressed
+- 

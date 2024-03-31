@@ -63,3 +63,6 @@ The [[Black Tears]] launched an organize assault during the night -- lots of gua
 - Kesten is here, Lady Jamandi locked in one of the other rooms, she dropped the failsafe to drop the portcullises
 	- she took a squad of 8 guards with her to take back the dueling hall in the west wing
 	- Kesten will stay to hold the main hall, he's asking us to go help Lady Jamandi
+
+## Quests Progressed
+- [[Investigating the Black Tears]]

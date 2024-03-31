@@ -3,7 +3,7 @@
     {
       "id": "brevoy-map",
       "locked": true,
-      "lastAccessed": 1709620198349,
+      "lastAccessed": 1711925198606,
       "markers": [
         {
           "id": "ID_5a799a5a5af9",
@@ -232,6 +232,7 @@
       "shapes": [],
       "files": [
         "Major Locations/Atlas.md",
+        "Minor Locations/Settlements, Large/Pitax.md",
         "Major Locations/Brevoy.md",
         "Major Locations/Stolen Lands.md"
       ]
