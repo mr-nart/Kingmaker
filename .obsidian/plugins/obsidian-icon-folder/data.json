@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasEarthAmericas",
       "FasPeopleGroup",
       "FasBookOpen",
       "FasBookBookmark",
-      "FasBook",
-      "FasHouseChimney"
+      "FasBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,5 +35,6 @@
   "Quests": "FasCircleQuestion",
   "Home.md": "FasHouseChimney",
   "Sessions": "FasBook",
-  "Groups": "FasPeopleGroup"
+  "Groups": "FasPeopleGroup",
+  "Atlas.md": "FasEarthAmericas"
 }

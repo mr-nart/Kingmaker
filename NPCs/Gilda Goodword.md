@@ -2,11 +2,12 @@
 desc:
 aliases:
   - Gilda
+  - Gilda Goodword
 ---
 #uncategorized
 >[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Restov]]
 
->[!note|no-i bg-c-yellow] :FasUser: Unknown, Suspicious
+>[!note|no-i bg-c-green] :FasUser: Friendly?, mildly suspicious
 
 - **She/Her** -- Halfling -- Adult
 

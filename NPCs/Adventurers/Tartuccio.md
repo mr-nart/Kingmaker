@@ -1,9 +1,9 @@
 ---
-desc: A business-gnome dealing in mostly magical goods
+desc: A spy from Pitax, claims to be a business-gnome from New Stetven
 aliases:
   - 
 ---
-#uncategorized
+#pitax
 >[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Restov#Aldori Manor]]
 
 >[!note|no-i bg-c-red] :FasUser: Enemy
@@ -12,10 +12,10 @@ aliases:
 
 - **He/Him** -- Gnome -- Adult
 
->One of the adventurers called upon for the expeditions into the [[Stolen Lands]]. Claims to be a business-gnome from [[New Stetven]] dealing in mostly magical goods, though Caine has never heard of him or his business.
+>One of the adventurers called upon for the expeditions into the [[Stolen Lands]]. *He is a spy from Pitax*, though he claims to be a business-gnome from [[New Stetven]] dealing in mostly magical goods, though Caine has never heard of him or his business.
 
 ## Traits
-Clearly has some sort of superiority complex. *Susceptible to flattery*, and particularly impressed by things relating to magic. *Racist against elves?*
+Clearly has some sort of superiority complex. *Susceptible to flattery*, and particularly impressed by things relating to magic. *Racist against elves*.
 
 ## Motivations
 He is almost certainly a spy from [[Pitax]] given that he framed [[Caidaranel Novori|Caine]] after the [[Black Tears]]' attack on Aldori Manor.

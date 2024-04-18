@@ -3,13 +3,13 @@ Player: Megan
 aliases:
   - Liosa
 ---
->[!note|no-i bg-c-gray] :FasUser: Unknown
+>[!note|no-i bg-c-green] :FasUser: Friendly?
 
 - **She/Her** -- Human -- Adult (XX years old)
 - **Wizard** (School of Mentalism) -- Scholar background (Arcana)
 - Deity -- 
 
->Hailing from [[New Stetven]], **Liosa Fenrie** was once an apprentice wizard working with [[Brevic Noble Houses#House Rogarvia]] before their disappearance.
+>Hailing from [[New Stetven]], **Liosa Fenrie** was once an apprentice wizard working with [[Brevic Noble Houses#House Rogarvia]] before their disappearance. More recently has been working as a magic consultant in [[Restov]].
 
 ## Traits
 Tall, dark-haired. Appears confident.

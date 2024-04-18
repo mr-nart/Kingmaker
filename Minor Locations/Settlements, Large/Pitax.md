@@ -7,7 +7,7 @@ desc:
 
 #river-kingdoms
 
->description
+>**PItax** is a kingdom lead by King [[Castruccio Irovetti]], who came into power a few years ago. Its relationship with [[Brevoy]] has been made uncertain as a result of power changing hands.
 
 ## Area of Interest
 

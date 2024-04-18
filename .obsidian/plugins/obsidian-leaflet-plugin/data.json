@@ -3,7 +3,7 @@
     {
       "id": "brevoy-map",
       "locked": true,
-      "lastAccessed": 1711925198606,
+      "lastAccessed": 1713415912120,
       "markers": [
         {
           "id": "ID_5a799a5a5af9",
@@ -211,17 +211,54 @@
           "id": "ID_183909c8984b",
           "type": "Settlement, minor",
           "loc": [
-            39.06544284032307,
-            593.7116521651085
+            36.75,
+            596.0500030517578
           ],
           "link": "Nivakta's Crossing",
           "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            242.40858525401558,
-            -23.558900747049957
+            243.36331863038276,
+            -22.16254416961131
           ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b4a7bb9fabb",
+          "type": "Building",
+          "loc": [
+            36,
+            558.3999633789062
+          ],
+          "link": "Oleg's Trading Post",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            227.99105362838915,
+            -21.710247349823323
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a4a7baacbd8",
+          "type": "Settlement, major",
+          "loc": [
+            27.125,
+            334
+          ],
+          "link": "Pitax",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -231,10 +268,9 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Major Locations/Atlas.md",
-        "Minor Locations/Settlements, Large/Pitax.md",
         "Major Locations/Brevoy.md",
-        "Major Locations/Stolen Lands.md"
+        "Major Locations/Stolen Lands.md",
+        "Atlas.md"
       ]
     }
   ],

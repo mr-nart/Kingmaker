@@ -13,7 +13,7 @@ aliases:
 >One of the adventurer's called upon for the expeditions into the [[Stolen Lands]].
 
 ## Traits
-Boisterous barbarian, wielding a large greatsword they claim is the spoils of defeating a giant. Enjoys stories of bravery.
+Boisterous barbarian, wielding a large greatsword which she claim is the spoils of defeating a giant. Enjoys stories of bravery.
 
 ## Motivations
 

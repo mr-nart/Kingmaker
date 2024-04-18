@@ -12,7 +12,7 @@ dv.paragraph("![[" + pg.file.name + "#Summary|nlk]]");
 ## Party Status
 >[!tldr|right w-tiny static bg-c-gray no-i ttl-c] [[Atlas]] :FasMapLocationDot:
 
->[!tldr|bg-c-gray] Current Location: [[Restov]] (Aldori Manor)
+>[!tldr|bg-c-gray] Current Location: [[Oleg's Trading Post]]
 
 |                 NAME                 |   HP    |                                            BM / TW                                            | CONDITIONS | ADDITIONAL NOTES |
 |:------------------------------------:|:-------:|:---------------------------------------------------------------------------------------------:|:----------:|:----------------:|
@@ -27,14 +27,15 @@ dv.paragraph("![[" + pg.file.name + "#Summary|nlk]]");
 
 >[!recite|right no-i  ws-med static] **-- Active Leads --**
 >- [[Black Tears]]
->-
+>- [[Tartuccio]]
 
 ## Agenda
 - [ ] [[Investigating the Black Tears]]
 	- [ ] connection with Pitax?
 - [ ] [[The Pitaxian Spy]]
-	- [ ] Pursue Lead on [[Tartuccio]]
+	- [x] Pursue Lead on [[Tartuccio]]
 	- [ ] investigate Tartuccio + his supposed business in New Stetven?
+	- [ ] Ask [[Linzi]] what she knows of [[Pitax]]? (since she studied there)
 ---
 >[!note|bg-c-gray]- Recently Edited Files
 ><p></p>

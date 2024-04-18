@@ -41,7 +41,7 @@ At the feast, Lady [[Jamandi Aldori]] presented her offer -- charters to coloniz
 
 - hedera
 	- tall dark-haired human female, military leather armor over plain clothing, longbow
-	- wolf companion staying very close (**Fletcher**)
+	- ~~wolf companion staying very close (**Fletcher**)~~ -- **this was retconned**, Hedera no longer has a wolf
 	- keeping an eye on things from the edge of the crowd
 
 - archibald

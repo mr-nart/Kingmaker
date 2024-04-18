@@ -11,6 +11,7 @@
 - one very suspicious guest -- *a female halfling named [[Gilda Goodword]] has concealing makeup over her left cheek, covering her face with a hood...*
 	- perhaps unlikely to be a Black Tears member? Eric was pretty racist, so unclear if a halfling would be allowed in
 	- [[Garrett Goodword]] claims she's his cousin and that he's mentoring her in the family business
+	- Gilda *does not have a forearm tattoo*, not a Black Tears member, but they're hiding something clearly
 - *discussed security issue briefly w/ [[Kesten Garess]] during the party*, will discuss further after
 	- Caine explained everything he knows, handed over the giant's mantle, discussed Gilda's makeup
 	- Caine will stand guard overnight w/ Brenza & Ulfric, who are holding onto his weapons
@@ -26,5 +27,5 @@
 ```dataview
 LIST FROM "Sessions"
 WHERE contains(file.outlinks, this.file.link)
-SORT date
+SORT file.ctime
 ```

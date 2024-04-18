@@ -6,7 +6,7 @@
 	 - (uhhhh are they gonna investigate further or.....???)
 	 - (this plan is so dumb...)
 	 - **Our Party:**
-		 - PCs + [[Linzi]] + [[Amiri]]
+		 - PCs + [[Gilda Goodword|Gilda]] + [[Linzi]] + [[Amiri]]
 	 - **Lander's Party:**
 		 - [[Lander Lebeda|Lander]] + [[Tartuccio]] + [[Valerie]] + [[Jaethal]] + [[Harrim]]
 
@@ -14,5 +14,5 @@
 ```dataview
 LIST FROM "Sessions"
 WHERE contains(file.outlinks, this.file.link)
-SORT date
+SORT file.ctime
 ```

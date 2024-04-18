@@ -4,10 +4,10 @@ aliases:
   - Celestine
 ---
 #orlovsky
->[!note|no-i bg-c-gray] :FasUser: Unknown
+>[!note|no-i bg-c-green] :FasUser: Friendly?
 
 - **She/Her** -- Human -- Adult (XX years old)
-- **Champion** (Specialization) -- Brevic Noble
+- **Champion** (Specialization) -- Brevic Noble background
 - Deity -- [[Deities#Sarenrae]]
 
 >**Celestine "Lester" Orlovsky** is a member of [[Brevic Noble Houses#House Orlovsky]], estranged for diverging in her faith from the family's traditional worship in [[Deities#Iomedae]] in favor of [[Deities#Sarenrae]].
@@ -16,7 +16,7 @@ aliases:
 Tall, well-built, short hair.
 
 ## Motivations
-Intends to bring order and goodness to the [[Stolen Lands]].
+Intends to bring order and goodness to the [[Stolen Lands]]. Wants to set up a shelter for the poor and needy.
 
 ## Affiliations
 - [[Lander Lebeda]] -- not on good terms??

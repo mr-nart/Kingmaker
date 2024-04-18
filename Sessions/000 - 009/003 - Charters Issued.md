@@ -83,3 +83,4 @@ The [[Black Tears]]' assault has concluded with the defeat of their apparent lea
 ## Quests Progressed
 - [[Investigating the Black Tears]]
 - [[The Pitaxian Spy]]
+- [[Greenbelt Bandits]]
