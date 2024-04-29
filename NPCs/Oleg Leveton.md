@@ -6,7 +6,7 @@ aliases:
 #olegs-trading-post
 >[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Oleg's Trading Post]]
 
->[!note|no-i bg-c-green] :FasUser: Friendly
+>[!note|no-i bg-c-green] :FasUser: Friendly?
 
 - **He/Him** -- Human -- Adult
 
@@ -19,4 +19,5 @@ aliases:
 In need of someone to help him deal with the local bandits and their demands for a monthly tax.
 
 ## Affiliations
-- [[Svetlana]] -- wife
+- [[Svetlana Leveton]] -- wife
+- Claptrap -- horse

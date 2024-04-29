@@ -15,6 +15,7 @@ The [[Black Tears]] launched an organize assault during the night -- lots of gua
 >		s => s.num == dv.tryEvaluate("x - 1", {x: n})
 >		|| s.num == dv.tryEvaluate("x + 1", {x: n})
 >	)
+>	.sort(s => s.num, 'asc')
 >	.file.name;
 >dv.span("<< -- [[" + pgs[0] + "]] -- | -- [[" + pgs[1] + "]] -- >>");
 >```

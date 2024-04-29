@@ -4,7 +4,7 @@ aliases:
   - 
 ---
 #pitax
->[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Restov#Aldori Manor]]
+>[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Nivakta's Crossing]]
 
 >[!note|no-i bg-c-red] :FasUser: Enemy
 

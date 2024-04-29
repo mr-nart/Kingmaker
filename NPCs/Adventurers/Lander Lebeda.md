@@ -4,7 +4,7 @@ aliases:
   - Lander
 ---
 #lebeda
->[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Restov]]
+>[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Nivakta's Crossing]]
 
 >[!note|no-i bg-c-orange] :FasUser: Not a fan of him
 

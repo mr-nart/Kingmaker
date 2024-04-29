@@ -15,6 +15,7 @@ The [[Black Tears]]' assault has concluded with the defeat of their apparent lea
 >		s => s.num == dv.tryEvaluate("x - 1", {x: n})
 >		|| s.num == dv.tryEvaluate("x + 1", {x: n})
 >	)
+>	.sort(s => s.num, 'asc')
 >	.file.name;
 >dv.span("<< -- [[" + pgs[0] + "]] -- | -- [[" + pgs[1] + "]] -- >>");
 >```
@@ -61,9 +62,9 @@ The [[Black Tears]]' assault has concluded with the defeat of their apparent lea
 - "very few signs of the violence remain"
 - "there are far fewer heroes here than the previous night"
 - issuing formal charters this morning
-	- one to the Iron Wraiths -- Glenebon Uplands, will need to deal with the [[Tiger Lords]]
-	- one to Baron Hannis Drelev -- at Hoke Tunge Sloh
-	- one to Maegar Varn -- at Nomen Heights
+	- one to the Iron Wraiths -- [[Glenebon Uplands]], will need to deal with the [[Tiger Lords]]
+	- one to Baron Hannis Drelev -- [[Hooktongue Slough]]
+	- one to Maegar Varn -- [[Nomen Heights]]
 		- Aldori Swordlords plan to eventually establish a dueling school there
 	- one for all of the adventurers here from last night?
 - spy from Pitax???
@@ -83,4 +84,4 @@ The [[Black Tears]]' assault has concluded with the defeat of their apparent lea
 ## Quests Progressed
 - [[Investigating the Black Tears]]
 - [[The Pitaxian Spy]]
-- [[Greenbelt Bandits]]
+- [[Cleaning Up the Greenbelt]]

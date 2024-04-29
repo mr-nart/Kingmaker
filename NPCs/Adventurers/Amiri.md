@@ -6,7 +6,7 @@ aliases:
 #uncategorized
 >[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Restov]]
 
->[!note|no-i bg-c-green] :FasUser: Friendly
+>[!note|no-i bg-c-green] :FasUser: Friendly?
 
 - **She/Her** -- Human -- Adult
 

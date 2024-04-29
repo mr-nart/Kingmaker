@@ -4,7 +4,7 @@ num: 4
 April 12th, 2024
 
 ## Summary
-We journeyed from [[Restov]] to [[Oleg's Trading Post]] (with the help of Jarun, a provisioner, and a contingent of 4 guards) without any issues. At the trading post, [[Oleg|Oleg]] and [[Svetlana|Svetlana]] informed us of their issues with bandits demanding a monthly tax, apparently under the leadership of an individual known as "[[The Staglord]]." We are intending to ambush the collectors when they arrive at dawn (on the *1st of Pharast*). During the night, the party had a shared dream, though they have yet to discuss it with each other.
+We journeyed from [[Restov]] to [[Oleg's Trading Post]] (with the help of Jarrin, a provisioner, and a contingent of 4 guards) without any issues. At the trading post, [[Oleg Leveton|Oleg]] and [[Svetlana Leveton|Svetlana]] informed us of their issues with bandits demanding a monthly tax, apparently under the leadership of an individual known as "[[The Staglord]]." We are intending to ambush the collectors when they arrive at dawn (on the *1st of Pharast*). During the night, the party had a shared dream, though they have yet to discuss it with each other.
 
 ##
 >[!note|bg-c-gray no-t txt-c]
@@ -15,6 +15,7 @@ We journeyed from [[Restov]] to [[Oleg's Trading Post]] (with the help of Jarun,
 >		s => s.num == dv.tryEvaluate("x - 1", {x: n})
 >		|| s.num == dv.tryEvaluate("x + 1", {x: n})
 >	)
+>	.sort(s => s.num, 'asc')
 >	.file.name;
 >dv.span("<< -- [[" + pgs[0] + "]] -- | -- [[" + pgs[1] + "]] -- >>");
 >```
@@ -22,8 +23,8 @@ We journeyed from [[Restov]] to [[Oleg's Trading Post]] (with the help of Jarun,
 ## Log
 - Opal (one of Lady Aldori's people) comes to introduce us
 	- says we're not just racing against the other group, but also the "awareness of the Surtovas"
-- Jarun (provisioner) has enough to get to Oleg's to resupply + a contingent of 4 guards
-	- with us mostly to make sure we can get to Oleg's, ~4 days of travel per Jarun
+- Jarrin (provisioner) has enough to get to Oleg's to resupply + a contingent of 4 guards
+	- with us mostly to make sure we can get to Oleg's, ~4 days of travel per Jarrin
 - Tartuccio's group will travel the same road as us until Crooked falls, then will go south along the Shrike River
 - **re: bandits**
 	- per Garrett, rumors about profound cruelty & they go by some animal name
@@ -43,7 +44,7 @@ We journeyed from [[Restov]] to [[Oleg's Trading Post]] (with the help of Jarun,
 	- a very fortified crossing that bridges over the Shrike River
 	- will stay at Nivakta's Inn
 - **reintroductions**
-	- Jarun -- one of Lady Jamandi's quartermasters, brings goods to Oleg's about 1-2x per month
+	- Jarrin -- one of Lady Jamandi's quartermasters, brings goods to Oleg's about 1-2x per month
 		- mule's name is Dora
 	- Garrett -- merchant, coming along with Gilda, was wanting to meet Oleg to establish business relations
 	- Amiri -- "famous for this sword, got it from killing a giant"
@@ -67,14 +68,14 @@ We journeyed from [[Restov]] to [[Oleg's Trading Post]] (with the help of Jarun,
 		- some kobolds?
 
 #### Day 2
-- awaken to Jarun's knocks and the sound of light rain
+- awaken to Jarrin's knocks and the sound of light rain
 - road winds to the west
 - Crooked Falls -- a series of about 10-30 ft waterfalls about a mile long, tributary into the Shrike river
-	- Jarun's heard rumors of bandits hidden in this particular area, blind spots along the road
+	- Jarrin's heard rumors of bandits hidden in this particular area, blind spots along the road
 		- but we do see some blood stains (looks fresh, maybe 8 hours ago) and some hastily dug mounds
 - where did they get canoes?
 	- an old fort where Lady Aldori ran some operations out of a wihle ago, Fort Sorrenco? a little south on the river
-- made camp at a clearing where Jarun usually stops, Jarun set up some tents
+- made camp at a clearing where Jarrin usually stops, Jarrin set up some tents
 - Amiri leaves camp saying she's going to get something fresher
 	- comes back with a wild pig
 - Celestine and Caine foraged some mushrooms
@@ -120,7 +121,7 @@ We journeyed from [[Restov]] to [[Oleg's Trading Post]] (with the help of Jarun,
 		- he's been training them in combat
 	- bandits threatening arson unless they give all their supplies
 	- always come within an hour of sunrise on the first day of the month, like clockwork, usually with a wagon
-		- man armed w/ bow (Haps?), woman w/ hatchets (Crestle, she does most of the talking)
+		- man armed w/ bow (Haps?), woman w/ hatchets (Kressle, she does most of the talking)
 		- one visit, there were 10 people
 		- last visit, came only with 4 men
 - **Celestine's idea**
@@ -136,5 +137,5 @@ We journeyed from [[Restov]] to [[Oleg's Trading Post]] (with the help of Jarun,
 - green hand reaches out and fades back into the mist
 
 ## Quests Progressed
-- [[Greenbelt Bandits]]
+- [[Cleaning Up the Greenbelt]]
 - [[A Shared Dream]]

@@ -5,9 +5,8 @@ aliases:
 ---
 >[!note|no-i bg-c-green] :FasUser: Friendly?
 
-- **He/Him** -- Human -- Adult (XX years old)
-- **Kineticist** (Fire & Metal Gates) -- Alloy Smith background
-- Deity -- 
+- **He/Him** -- Human -- Adult
+- **Kineticist** (Fire & Metal Gates) -- Smith background
 
 > **Archibald Mischen Fornsteele Legralte** grew up in the [[Brevoy|Brevic]] region ruled by [[Brevic Noble Houses#House Garess]]. His familly has a long tradition of *blacksmithing*, which he has readily taken to. He discovered his unique physical gifts when, as a child, he stuck his hand into flames yet remained unscathed.
 

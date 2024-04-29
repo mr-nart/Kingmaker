@@ -6,7 +6,7 @@ aliases:
 #orlovsky
 >[!note|no-i bg-c-green] :FasUser: Friendly?
 
-- **She/Her** -- Human -- Adult (XX years old)
+- **She/Her** -- Human -- Adult
 - **Champion** (Specialization) -- Brevic Noble background
 - Deity -- [[Deities#Sarenrae]]
 

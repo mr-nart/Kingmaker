@@ -36,6 +36,10 @@ dv.paragraph("![[" + pg.file.name + "#Summary|nlk]]");
 	- [x] Pursue Lead on [[Tartuccio]]
 	- [ ] investigate Tartuccio + his supposed business in New Stetven?
 	- [ ] Ask [[Linzi]] what she knows of [[Pitax]]? (since she studied there)
+- [ ] [[Cleaning Up the Greenbelt]]
+	- [x] ambush +/- capture and interrogation
+	- [ ] bandit base on the banks of the Tuskwater?
+		- [ ] does Oleg have a map of the area?
 ---
 >[!note|bg-c-gray]- Recently Edited Files
 ><p></p>

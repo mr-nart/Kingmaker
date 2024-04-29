@@ -5,7 +5,7 @@ aliases:
   - Gilda Goodword
 ---
 #uncategorized
->[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Restov]]
+>[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Oleg's Trading Post]]
 
 >[!note|no-i bg-c-green] :FasUser: Friendly?, mildly suspicious
 
@@ -14,7 +14,7 @@ aliases:
 >Reportedly the cousin of [[Garrett Goodword]].
 
 ## Traits
-Wears a hood. *Heavy concealing makeup over left cheek???*
+Wears a hood. *Heavy concealing makeup over left cheek.*
 
 ## Motivations
 

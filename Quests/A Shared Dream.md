@@ -1,4 +1,4 @@
-- the party experienced a shared dream on the 28th of Calistril while sleeping at [[Oleg's Trading Post]]?
+- the party experienced a shared dream the night of the *28th of Calistril* while sleeping at [[Oleg's Trading Post]]
 	- mist settles low around the trading post
 	- out of the mist, a voice saying "help, help, help"
 	- green hand reaches out and then fades back into the mist

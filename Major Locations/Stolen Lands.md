@@ -17,3 +17,9 @@ cssclasses: tables-wide
 >height: 280px
 >lock: true
 >```
+
+Major regions of the Stolen Lands include:
+- The [[Greenbelt]]
+- [[Hooktongue Slough]]
+- [[Nomen Heights]]
+- [[Glenebon Uplands]]
