@@ -39,10 +39,16 @@
 >		- has some kind of mystical powers (controls the fog?)
 >		- "he's fucking crazy, he punched a horse for spitting"
 
-#### Fighting Kressle + her crew?
+#### Kressle + her crew?
 - Rex agreed to lead us to her camp in exchange for letting him go, but fog rolled in + our party changed tactics to staying here and defending the trading post instead
 - *Svetlana has requested that we attempt to recover the wedding band that Kressle stole*
 	- gold w/ a pearl setting, engraved with "O + S"
+- Kressle and her crew never showed up at the trading post, so on the *3rd of Pharast* the group set out towards her camp, led by Rex
+	- made it there @ a fork in the **Thornriver**, let Rex go free
+		- he ran North along the game trail
+	- Rex had previously mentioned a code phrase used by the bandits: *"By the bloody bones of Saint Gilmorg, who wants to know?"*
+		- it changes every so often, though
+	- from a distance, can spot Kressle + 13 others
 
 # Relevant Sessions
 ```dataview

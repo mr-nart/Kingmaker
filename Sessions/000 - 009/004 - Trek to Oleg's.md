@@ -88,7 +88,7 @@ We journeyed from [[Restov]] to [[Oleg's Trading Post]] (with the help of Jarrin
 	- two corpses hanging, nailed fabric on them saying "death to all bandits"
 	- we clean them up, bury them
 - a crudely constructed hut to the south?
-	- herbalist named "[[Old Bocken]]"? usually seen at Oleg's
+	- herbalist named "[[Old Bokken]]"? usually seen at Oleg's
 - we push on into the evening to get a little farther
 - watch order: Amiri + Caine, Garrett, Hedera + Celestine
 
@@ -110,7 +110,7 @@ We journeyed from [[Restov]] to [[Oleg's Trading Post]] (with the help of Jarrin
 
 - Svetlana feeds us stew and red wine (Wiscranny Barbara)
 	- just the couple here right now
-	- Old Bocken comes from time to time
+	- Old Bokken comes from time to time
 	- "we had others before"
 - enough bunks for the 8 main people, Lady Jamandi's people have to set up camp outside
 - **re: bandits**

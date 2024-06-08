@@ -3,7 +3,7 @@ desc: The owner and proprietor of Oleg's Trading Post
 aliases:
   - Oleg
 ---
-#olegs-trading-post
+#greenbelt #olegs-trading-post
 >[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Oleg's Trading Post]]
 
 >[!note|no-i bg-c-green] :FasUser: Friendly?

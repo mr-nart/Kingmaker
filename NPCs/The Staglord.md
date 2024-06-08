@@ -20,3 +20,4 @@ Has recently been training their followers in combat.
 
 ## Affiliations
 - [[Greenbelt Bandits]] -- his crew
+	- lieutenants bear medallions, with the image of something like a *wolf's head with stag antlers*

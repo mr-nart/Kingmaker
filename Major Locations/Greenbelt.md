@@ -11,6 +11,7 @@ Outside of the region's [[Greenbelt Bandits|bandits]], this area is home to *kob
 ## The Fog
 A dense fog rolls in on occasion, typically lasting one to two days at a time. Rumors attribute its presence to [[The Staglord]].
 
+# Notable Locations
 ```dataview
 TABLE WITHOUT ID file.link AS "Places", desc AS "Description"
 FROM "Minor Locations" AND #greenbelt
