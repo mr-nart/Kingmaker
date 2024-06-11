@@ -13,7 +13,7 @@ aliases:
 >The first day she ever managed to find any kind of lead on the perpetrators was on the *1st of Pharast in the year 4710 AR* upon encountering [[The Staglord]]'s men at [[Oleg's Trading Post]].
 
 ## Traits
-Tall, dark-haired. Wears military leather armor over plain clothing with a longbow on her back. Seems aloof. Describes herself as "not much of a talker". *Possibly unnecessarily cruel towards bandits/enemies to a problematic extent (carving messages into a prisoner's body, albeit related to her personal history), will require further evaluation.*
+Tall, dark-haired. Wears military leather armor over plain clothing with a longbow on her back. Seems aloof, very rational. Describes herself as "not much of a talker". *Possibly unnecessarily cruel towards bandits/enemies to a problematic extent (carving messages into a prisoner's body, albeit related to her personal history), will require further evaluation.*
 
 ## Motivations
 Seeking to avenge her fallen loved ones.

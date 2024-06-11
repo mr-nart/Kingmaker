@@ -36,8 +36,8 @@ dv.paragraph("![[" + pg.file.name + "#Summary|nlk]]");
 	- [ ] investigate Tartuccio + his supposed business in New Stetven?
 	- [ ] Ask [[Linzi]] what she knows of [[Pitax]]? (since she studied there)
 - [ ] [[Cleaning Up the Greenbelt]]
-	- [ ] Kressle + her crew?
 	- [ ] bandit base on the banks of the Tuskwater?
+	- [ ] Ask Kressle about the rest of the lieutenants/the Staglord/the base
 - [ ] [[Moon Radish Hunt]]
 	- [ ] deliver radishes to [[Old Bokken]]
 ---

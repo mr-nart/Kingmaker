@@ -49,6 +49,12 @@
 	- Rex had previously mentioned a code phrase used by the bandits: *"By the bloody bones of Saint Gilmorg, who wants to know?"*
 		- it changes every so often, though
 	- from a distance, can spot Kressle + 13 others
+- defeated Kressle's crew, though one escaped. Kressle was apprehended
+	- unable to find Svetlana's ring -- maybe was taken by mitflits (fey creatures?) that attacked the bandit camp last week
+		- there are small tracks going southeast from the camp, consistent with Kressle's story
+	- confiscated their loot, buried it a little ways away from the camp, planning to follow the tracks to find the ring/see what's going on with this fey stuff
+	- Hedera is adamant -- Kressle needs to die (for association with the crew that murdered her village)
+		- willing to wait "as long as she continues to be helpful"
 
 # Relevant Sessions
 ```dataview
