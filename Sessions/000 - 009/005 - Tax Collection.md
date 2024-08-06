@@ -128,3 +128,4 @@ The tax-collecting [[Greenbelt Bandits]] were defeated/detained at [[Oleg's Trad
 ## Quests Progressed
 - [[Cleaning Up the Greenbelt]]
 - [[A Shared Dream]]
+- [[Recovering Svetlana's Ring]]

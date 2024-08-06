@@ -70,9 +70,9 @@
 
 ## Pharasma
 >![|right|100](https://2e.aonprd.com/Images/Deities/Pharasma.png) ***Lady of Graves / Mother of Souls***
->Goddess who shepherds Galorion's recently-departed souls to their final reward (via the River of Souls to Pharasma's Boneyard in the Outer Sphere). Makes no destinction on whether a death is just or not. Depicted as an ashen-skinned Garundi woman with white eyes, wearing a dark, hooded, robe-like dress and holding an hourglass of red sand. Areas of concern include birth, death, fate, prophecy, rebirth.
+>Goddess who shepherds Galorion's recently-departed souls to their final reward (via the River of Souls to Pharasma's Boneyard in the Outer Sphere). Makes no distinction on whether a death is just or not. Depicted as an ashen-skinned Garundi woman with white eyes, wearing a dark, hooded, robe-like dress and holding an hourglass of red sand. Areas of concern include birth, death, fate, prophecy, rebirth.
 
-**Edicts**:  Strive to understand ancient prophecies, dstroy undead, lay bodies to rest
+**Edicts**:  Strive to understand ancient prophecies, destroy undead, lay bodies to rest
 **Anathema**: Create undead, desecrate a corpse, rob a tomb
 
 ## Sarenrae

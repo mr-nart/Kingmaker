@@ -5,3 +5,10 @@
 #### Kobolds in the forest
 - we tricked (kinda) some kobolds into letting us get some moon radishes
 - per them, "radish sacred, it has powers to heal"
+
+# Relevant Sessions
+```dataview
+LIST FROM "Sessions"
+WHERE contains(file.outlinks, this.file.link)
+SORT file.ctime
+```

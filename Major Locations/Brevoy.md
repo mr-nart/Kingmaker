@@ -24,7 +24,7 @@ cssclasses: tables-wide
 
 The **Lake of Mists and Veils** forms the northern border. Along the coast is *Winterbreak Bay*. East of the bay is *Acuben Isle*, an island about 45 miles long. West of the bay is *Claw Point*, the highly inaccessible northernmost point of the Brevic mainland.
 
-The **Icerime Peaks** form the eastern border with Old Iobaria. The mountain range ends as it approaches the southern border, transitioning into the *Valley of Fire*. The land in this valley has remained blackened and melted ever since [[Historical Figures#Choral the Conqueror]]'s red ragon allies scourged inthe land in 4499 AR, destroying the [[Aldori Swordlords]]' last great army. 
+The **Icerime Peaks** form the eastern border with Old Iobaria. The mountain range ends as it approaches the southern border, transitioning into the *Valley of Fire*. The land in this valley has remained blackened and melted ever since [[Historical Figures#Choral the Conqueror]]'s red dragon allies scourged in the land in 4499 AR, destroying the [[Aldori Swordlords]]' last great army. 
 
 The **Golushkin Mountains** form a portion of the western border with Numeria.
 

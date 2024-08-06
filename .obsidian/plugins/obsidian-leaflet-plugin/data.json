@@ -3,7 +3,7 @@
     {
       "id": "brevoy-map",
       "locked": true,
-      "lastAccessed": 1714351532586,
+      "lastAccessed": 1722830320465,
       "markers": [
         {
           "id": "ID_5a799a5a5af9",
@@ -268,8 +268,39 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Major Locations/Stolen Lands.md",
-        "Major Locations/Brevoy.md"
+        "Atlas.md"
+      ]
+    },
+    {
+      "id": "stolen-lands-map",
+      "locked": true,
+      "lastAccessed": 1722830320465,
+      "markers": [
+        {
+          "id": "ID_5b5bf8e9bbab",
+          "type": "Building",
+          "loc": [
+            -1.1832990715768208,
+            4.070283341770107
+          ],
+          "link": "Oleg's Trading Post",
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6315106275716045,
+            0.2884995831653963
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Atlas.md"
       ]
     }
   ],

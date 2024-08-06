@@ -12,7 +12,7 @@ dv.paragraph("![[" + pg.file.name + "#Summary|nlk]]");
 ## Party Status
 >[!tldr|right w-tiny static bg-c-gray no-i ttl-c] [[Atlas]] :FasMapLocationDot:
 
->[!tldr|bg-c-gray] Current Location: [[Oleg's Trading Post]]
+>[!tldr|bg-c-gray] Current Location: [[Kobold Warrens]] ([[Greenbelt]])
 
 |                 NAME                 |                                            BM / TW                                            | CONDITIONS | ADDITIONAL NOTES |
 |:------------------------------------:|:---------------------------------------------------------------------------------------------:|:----------:|:----------------:|
@@ -25,19 +25,19 @@ dv.paragraph("![[" + pg.file.name + "#Summary|nlk]]");
 
 <p></p>
 
->[!recite|right no-i  ws-med static] **-- Active Leads --**
->- Kressle
->- [[Tartuccio]]
+>[!recite|right no-i  ws-med static] **-- Active Investigations --**
+>- What is [[The Staglord]] up to?
+>- [[The Pitaxian Spy]]
 
 ## Agenda
 - [ ] [[Investigating the Black Tears]]
 	- [ ] connection with Pitax?
 - [ ] [[The Pitaxian Spy]]
-	- [ ] investigate Tartuccio + his supposed business in New Stetven?
-	- [ ] Ask [[Linzi]] what she knows of [[Pitax]]? (since she studied there)
+	- [ ] interrogate Tartuccio
 - [ ] [[Cleaning Up the Greenbelt]]
 	- [ ] bandit base on the banks of the Tuskwater?
 	- [ ] Ask Kressle about the rest of the lieutenants/the Staglord/the base
+	- [ ] does Kressle have a better map of the area?
 - [ ] [[Moon Radish Hunt]]
 	- [ ] deliver radishes to [[Old Bokken]]
 ---

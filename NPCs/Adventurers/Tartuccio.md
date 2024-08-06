@@ -1,10 +1,10 @@
 ---
-desc: A spy from Pitax, claims to be a business-gnome from New Stetven
+desc: A spy from Pitax, claiming to be a business-gnome from New Stetven
 aliases:
-  - 
+  - Tartuk
 ---
 #pitax
->[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Nivakta's Crossing]]
+>[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Kobold Warrens]]
 
 >[!note|no-i bg-c-red] :FasUser: Enemy
 
@@ -19,6 +19,8 @@ Clearly has some sort of superiority complex. *Susceptible to flattery*, and par
 
 ## Motivations
 He is almost certainly a spy from [[Pitax]] given that he framed [[Caidaranel Novori|Caine]] after the [[Black Tears]]' attack on Aldori Manor.
+
+Was trying to perform some kind of ritual in the [[Kobold Warrens]] -- something to do with The First World / Fey?
 
 ## Affiliations
 - possible affiliation with the [[Black Tears]]

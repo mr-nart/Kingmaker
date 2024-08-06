@@ -6,3 +6,5 @@ Exploration should be limited to an area west and south of [[Oleg's Trading Post
 
 So witnessed on this 24th day of Calistril, under watchful eye of the Lordship of Restov."
 
+## Tartuccio's Journal
+Written in Undercommon. Makes mention of some kind of patron. Need to seek out someone to translate.

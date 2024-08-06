@@ -63,4 +63,5 @@ We fought Kressle and her crew -- Kressle was apprehended, but one of the crew w
 - planning to go back to Kressle's camp to start following the tiny footprints
 
 ## Quests Progressed
+- [[Recovering Svetlana's Ring]]
 - [[Cleaning Up the Greenbelt]]
