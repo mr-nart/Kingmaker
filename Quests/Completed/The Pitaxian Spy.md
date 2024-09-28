@@ -15,7 +15,18 @@
 	- something to do with some kind of ritual involving the First World/Fey? using two magical wooden sticks?
 	- we captured him and have his journal
 		- makes mention of some kind of patron?
+- **Tartuccio executed on 5th of Pharast**
 - Lander and Valerie were being held captive in the [[Kobold Warrens]] -- where are the others?
+	- arguments led to the party splitting up
+		- Jaethal maybe went to go join Maegar Varn's party?
+		- Harrim went to go look for Dwarven ruins?
+		- Lander temporarily joined our party on our way back to Oleg's -- plans to return to Restov
+		- Valerie plans to join the party long-term
+
+## Oleg's
+- [[Kesten Garess|Kesten]] at Oleg's when we returned
+	- told us they've completed their investigation into Tartuccio, who they have confirmed to be the Pitaxian spy
+- Garrett managed to pick up the language of Sakvroth, able to read [[Documents#Tartuccio's Journal]] and share this information with Kesten
 
 # Relevant Sessions
 ```dataview

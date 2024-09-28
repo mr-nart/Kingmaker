@@ -3,7 +3,7 @@
     {
       "id": "brevoy-map",
       "locked": true,
-      "lastAccessed": 1722830320465,
+      "lastAccessed": 1726379077055,
       "markers": [
         {
           "id": "ID_5a799a5a5af9",
@@ -268,13 +268,14 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Atlas.md"
+        "Atlas.md",
+        "Major Locations/Stolen Lands.md"
       ]
     },
     {
       "id": "stolen-lands-map",
       "locked": true,
-      "lastAccessed": 1722830320465,
+      "lastAccessed": 1726379077055,
       "markers": [
         {
           "id": "ID_5b5bf8e9bbab",
@@ -290,6 +291,119 @@
           "percent": [
             0.6315106275716045,
             0.2884995831653963
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b399af8e95b",
+          "type": "Settlement, minor",
+          "loc": [
+            -1.563377574628337,
+            3.5738097648282867
+          ],
+          "link": "Bandit Camp",
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_68c85b0ba8c9",
+          "type": "Dungeon",
+          "loc": [
+            -1.7296875715255737,
+            4.141406297683716
+          ],
+          "link": "Kobold Warrens",
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6425454619436552,
+            0.42171430315290176
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58280838686a",
+          "type": "Dungeon",
+          "loc": [
+            -1.635156273841858,
+            4.082812547683716
+          ],
+          "link": "The Old Sycamore",
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6334545528527462,
+            0.3986666724795387
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_0a58694aca78",
+          "type": "Building",
+          "loc": [
+            -1.2185546159744263,
+            4.8125
+          ],
+          "link": "Fort Serenko",
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b93a59385b8b",
+          "type": "Dungeon",
+          "loc": [
+            -1.55859375,
+            3.956249952316284
+          ],
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6138181744199811,
+            0.38
+          ],
+          "description": "gold nugget cave",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_791829d8fa1a",
+          "type": "Monument",
+          "loc": [
+            -1.638498943954485,
+            3.4250484713723397
+          ],
+          "link": "Temple of Elk",
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5314014598007993,
+            0.39948164728795066
           ],
           "description": null,
           "minZoom": null,

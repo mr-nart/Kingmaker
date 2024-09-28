@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5d5a398d348b5a40",
+        "id": "f1ff238207352d46",
         "type": "tabs",
         "children": [
           {
-            "id": "7a22fb8aa12eb537",
+            "id": "649cc7244545a7c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Info/Notable Items.md",
+                "file": "Sessions/010 - 019/014 - The Corrupted Temple.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -56,43 +56,61 @@
       {
         "id": "0e31e3f0b2119702",
         "type": "tabs",
-        "dimension": 34.49101796407186,
+        "dimension": 52.81437125748503,
         "children": [
           {
-            "id": "2b2e6911c43dc37d",
+            "id": "784090149a814113",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "CALENDARIUM",
               "state": {
-                "file": "General Info/Notable Items.md"
+                "calendar": "ID_0af9d9f939c9",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 10,
+                    "month": 2,
+                    "year": 4710
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 8,
+                    "month": 2,
+                    "year": 4710
+                  },
+                  "displayDayNumber": true,
+                  "hideEra": true,
+                  "displayAbsoluteYear": true,
+                  "displayMoons": false,
+                  "displayWeeks": false
+                },
+                "id": "ID_ebca881bd89b",
+                "child": "ID_8a9b5949087b"
               }
             }
           },
           {
-            "id": "fb7804a4c3473d70",
+            "id": "47101508976d3a2d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sessions/010 - 019/014 - The Corrupted Temple.md"
+              }
+            }
+          },
+          {
+            "id": "b561dd6ed9ecefb3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Info/Notable Items.md",
-                "collapseAll": true,
+                "file": "Sessions/010 - 019/014 - The Corrupted Temple.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "46a5de5db30111b3",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "General Info/Notable Items.md",
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -109,11 +127,23 @@
             }
           },
           {
-            "id": "bfe8e57b95a2244a",
+            "id": "8260a4e33f19f692",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
+            }
+          },
+          {
+            "id": "286d345b37bcc24e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sessions/010 - 019/014 - The Corrupted Temple.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ]
@@ -121,7 +151,7 @@
       {
         "id": "7c613979a479b220",
         "type": "tabs",
-        "dimension": 65.50898203592814,
+        "dimension": 47.185628742514965,
         "children": [
           {
             "id": "560c7bdc5d345f78",
@@ -129,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "giant's mantle",
+                "query": "mikmek",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -145,12 +175,25 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "efb93e38dd1e57df",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_0af9d9f939c9",
+                "id": "ID_8a9b5949087b",
+                "parent": "ID_ebca881bd89b"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,37 +204,41 @@
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "7a22fb8aa12eb537",
+  "active": "649cc7244545a7c9",
   "lastOpenFiles": [
-    "Quests/Backburner/Investigating the Black Tears.md",
-    "General Info/Notable Items.md",
-    "Groups/Black Tears.md",
-    "Sessions/000 - 009/001 - The Feast.md",
-    "Sessions/000 - 009/000 - Expectations.md",
-    "Sessions/000 - 009/002 - Black Tears Attack.md",
+    "Sessions/010 - 019/013 - Returning to Oleg's.md",
+    "Sessions/010 - 019/014 - The Corrupted Temple.md",
+    "Minor Locations/Settlements, Tiny/Kobold Warrens.md",
     "General Info/Creatures.md",
-    "Home.md",
-    "General Info/Documents.md",
-    "General Info/Historical Figures.md",
+    "Major Locations/Greenbelt.md",
+    "Major Locations/Brevoy.md",
+    "Major Locations/Stolen Lands.md",
     "Sessions/010 - 019/010 - Tartuk the 'Kobold'.md",
-    "Quests/Cleaning Up the Greenbelt.md",
-    "Quests/A Shared Dream.md",
-    "Quests/Moon Radish Hunt.md",
-    "Quests/Recovering Svetlana's Ring.md",
-    "Quests/The Pitaxian Spy.md",
-    "General Info/Deities.md",
-    "NPCs/The Staglord.md",
+    "Sessions/010 - 019/011 - New Recruits.md",
+    "Minor Locations/Settlements, Tiny/The Old Sycamore.md",
+    "NPCs/Tristian.md",
+    "Home.md",
     "Atlas.md",
-    "NPCs/Svetlana Leveton.md",
-    "NPCs/Oleg Leveton.md",
-    "NPCs/Old Bokken.md",
-    "NPCs/Kesten Garess.md",
-    "NPCs/Gilda Goodword.md",
+    "Minor Locations/Monuments/Temple of Elk.md",
+    "NPCs/The Staglord.md",
+    "Quests/Cleaning Up the Greenbelt.md",
+    "Groups/Greenbelt Bandits.md",
     "NPCs/Jhod Kavkin.md",
-    "NPCs/Adventurers/Tartuccio.md",
+    "Quests/Completed/The Pitaxian Spy.md",
+    "General Info/Deities.md",
+    "Minor Locations/Monuments",
+    "Sessions/000 - 009/009 - Old Sharp Tooth.md",
+    "Sessions/000 - 009/008 - Shin Nibblers.md",
+    "Sessions/000 - 009/007 - Kressle's Camp.md",
+    "Sessions/000 - 009/006 - Following Rex.md",
+    "Sessions/000 - 009/005 - Tax Collection.md",
+    "Sessions/000 - 009/004 - Trek to Oleg's.md",
+    "z_assets/Pasted image 20240914220841.png",
+    "Minor Locations/Settlements, Tiny",
     "Sessions/010 - 019",
     "Sessions/000 - 009",
     "NPCs/Diplomats",
@@ -203,9 +250,7 @@
     "100-110",
     "20-21",
     "10-19",
-    "0-10",
     "z_assets/restov map.jpg",
-    "Quests/Completed",
     "z_assets/stolen lands map.png",
     "z_assets/kingmaker banner.webp",
     "z_assets/brevoy map.png",

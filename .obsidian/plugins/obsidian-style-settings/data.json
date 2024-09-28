@@ -108,5 +108,8 @@
   "ITS@@list-spacing": 1,
   "ITS@@root-list-spacing": 8,
   "ITS@@checkbox-strike-checked": false,
-  "ITS@@check-bg": true
+  "ITS@@check-bg": true,
+  "ITS@@kanban-title-center": false,
+  "ITS@@kanban-minimal": false,
+  "ITS@@kanban-boxed": false
 }

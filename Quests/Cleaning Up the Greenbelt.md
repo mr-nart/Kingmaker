@@ -30,7 +30,7 @@
 >	- *Ox*?
 >	- *Doven*?
 >- **The Staglord**
->	- *really loves booze* (whiskey)
+>	- *really loves booze* (whiskey) -- *we've poisoned some whiskey with some fly agaric, maybe this can work?*
 >	- actively recruiting
 >	- base is a *fort to the south* on the banks of the Tuskwater(?) -- "just follow the river south, you can't miss it"
 >		- has an *old man locked up in the basement*?
@@ -39,7 +39,7 @@
 >		- has some kind of mystical powers (controls the fog?)
 >		- "he's fucking crazy, he punched a horse for spitting"
 
-#### Kressle + her crew?
+#### Kressle + her crew
 - Rex agreed to lead us to her camp in exchange for letting him go, but fog rolled in + our party changed tactics to staying here and defending the trading post instead
 - *Svetlana has requested that we attempt to recover the wedding band that Kressle stole*
 	- gold w/ a pearl setting, engraved with "O + S"
@@ -55,6 +55,16 @@
 	- confiscated their loot, buried it a little ways away from the camp, planning to follow the tracks to find the ring/see what's going on with this fey stuff
 	- Hedera is adamant -- Kressle needs to die (for association with the crew that murdered her village)
 		- willing to wait "as long as she continues to be helpful"
+
+#### Kobold scouts
+- soostcale kobolds willing to scout out the staglord's fort for us?
+
+#### Turncoats
+- **KRESSLE (IRENNA) JOINED OUR CREW**???
+- others may be willing to become turncoats? namely, **Akiros**, another of the lieutenants
+
+#### The Guardian of the Bloom
+- see [[A Shared Dream]]
 
 # Relevant Sessions
 ```dataview

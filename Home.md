@@ -12,16 +12,24 @@ dv.paragraph("![[" + pg.file.name + "#Summary|nlk]]");
 ## Party Status
 >[!tldr|right w-tiny static bg-c-gray no-i ttl-c] [[Atlas]] :FasMapLocationDot:
 
->[!tldr|bg-c-gray] Current Location: [[Kobold Warrens]] ([[Greenbelt]])
+>[!tldr|bg-c-gray] Current Location: [[Temple of Elk]]
 
-|                 NAME                 |                                            BM / TW                                            | CONDITIONS | ADDITIONAL NOTES |
-|:------------------------------------:|:---------------------------------------------------------------------------------------------:|:----------:|:----------------:|
-| [[Archibald M. F. Legralte\|Archie]] | <input type="checkbox" unchecked id="4f0b64">/  <input type="checkbox" unchecked id="26c3c1"> |            |                  |
-|     [[Caidaranel Novori\|Caine]]     | <input type="checkbox" unchecked id="9b7daf">/  <input type="checkbox" unchecked id="c561bc"> |            |                  |
-|  [[Celestine Orlovsky\|Celestine]]   | <input type="checkbox" unchecked id="eef7ee">/  <input type="checkbox" unchecked id="86b019"> |            |                  |
-|    [[Garrett Goodword\|Garrett]]     | <input type="checkbox" unchecked id="39025b">/  <input type="checkbox" unchecked id="7b7d8f"> |            |                  |
-|      [[Hedera Wildbow\|Hedera]]      | <input type="checkbox" unchecked id="182448">/  <input type="checkbox" unchecked id="977270"> |            |                  |
-|       [[Liosa Fenrie\|Liosa]]        | <input type="checkbox" unchecked id="6d09af">/  <input type="checkbox" unchecked id="43e756"> |            |                  |
+> [!kanban|no-i]- Party Members
+> - **-- Players --**
+> 	- [[Archibald M. F. Legralte]]
+> 	- [[Caidaranel Novori]]
+> 	- [[Celestine Orlovsky]]
+> 	- [[Garrett Goodword]]
+> 	- [[Hedera Wildbow]]
+> 	- [[Liosa Fenrie]]
+> - **-- NPC --**
+> 	- [[Amiri]]
+> 	- [[Linzi]]
+> 	- [[Valerie]]
+> - **-- Temporary --**
+> 	- [[Irenna]]
+> 	- [[Jhod Kavkin]]
+> 	- [[Tristian]]
 
 <p></p>
 
@@ -30,16 +38,7 @@ dv.paragraph("![[" + pg.file.name + "#Summary|nlk]]");
 >- [[The Pitaxian Spy]]
 
 ## Agenda
-- [ ] [[Investigating the Black Tears]]
-	- [ ] connection with Pitax?
-- [ ] [[The Pitaxian Spy]]
-	- [ ] interrogate Tartuccio
-- [ ] [[Cleaning Up the Greenbelt]]
-	- [ ] bandit base on the banks of the Tuskwater?
-	- [ ] Ask Kressle about the rest of the lieutenants/the Staglord/the base
-	- [ ] does Kressle have a better map of the area?
-- [ ] [[Moon Radish Hunt]]
-	- [ ] deliver radishes to [[Old Bokken]]
+- [ ] 
 ---
 >[!note|bg-c-gray]- Recently Edited Files
 ><p></p>

@@ -6,6 +6,9 @@
 - we tricked (kinda) some kobolds into letting us get some moon radishes
 - per them, "radish sacred, it has powers to heal"
 
+#### Oleg's
+- eventually able to trade the moon radishes for some healing potions
+
 # Relevant Sessions
 ```dataview
 LIST FROM "Sessions"

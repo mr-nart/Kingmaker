@@ -22,4 +22,4 @@ Intends to bring order and goodness to the [[Stolen Lands]]. Wants to set up a s
 - [[Lander Lebeda]] -- not on good terms??
 
 ## Notable Items
-- +1 Greataxe
+- [Caster's Targe](https://2e.aonprd.com/Shields.aspx?ID=5)

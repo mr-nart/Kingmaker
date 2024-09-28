@@ -1,0 +1,339 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Calendar of Golarion",
+      "description": "Calendar for the world of Pathfinder.",
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportInlineEvents": false,
+      "inlineEventTag": "inline-events",
+      "showIntercalarySeparately": true,
+      "static": {
+        "displayDayNumber": true,
+        "firstWeekDay": 2,
+        "incrementDay": false,
+        "displayMoons": false,
+        "overflow": true,
+        "padDays": 2,
+        "padMonths": 2,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Moonday",
+            "id": "ID_db8af8f85b8a"
+          },
+          {
+            "type": "day",
+            "name": "Toilday",
+            "id": "ID_f87a094b2849"
+          },
+          {
+            "type": "day",
+            "name": "Wealday",
+            "id": "ID_2a5bb88b3ae8"
+          },
+          {
+            "type": "day",
+            "name": "Oathday",
+            "id": "ID_c93a0be8981b"
+          },
+          {
+            "type": "day",
+            "name": "Fireday",
+            "id": "ID_2b7b59794a0b"
+          },
+          {
+            "type": "day",
+            "name": "Starday",
+            "id": "ID_baaa6a89ca1b"
+          },
+          {
+            "type": "day",
+            "name": "Sunday",
+            "id": "ID_f9baca088b28"
+          }
+        ],
+        "months": [
+          {
+            "name": "Abadius",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_dad9da89f818"
+          },
+          {
+            "name": "Calistril",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_980a88cb9b68"
+          },
+          {
+            "name": "Pharast",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_a9c96ac80908"
+          },
+          {
+            "name": "Gozran",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_a99a697b9abb"
+          },
+          {
+            "name": "Desnus",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_8bcad9a8f84a"
+          },
+          {
+            "name": "Sarenith",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_484a49a998db"
+          },
+          {
+            "name": "Erastus",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_9a48e9b96938"
+          },
+          {
+            "name": "Arodus",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_bbe99b2afaea"
+          },
+          {
+            "name": "Rova",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_ba39fbe8c8b8"
+          },
+          {
+            "name": "Lamashan",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_69d93ba9dba8"
+          },
+          {
+            "name": "Neth",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_4ad8fb79eb6a"
+          },
+          {
+            "name": "Kuthona",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_9a3a8b388939"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Somal",
+            "cycle": 29.5,
+            "offset": 9.5,
+            "faceColor": "#ffffff",
+            "shadowColor": "#292b4a",
+            "id": "ID_b87ab959cac9"
+          }
+        ],
+        "leapDays": [
+          {
+            "name": "Leap Day",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 8
+              }
+            ],
+            "offset": 0,
+            "timespan": 1,
+            "intercalary": false,
+            "id": "ID_88c8da3b8b2b"
+          }
+        ],
+        "eras": [
+          {
+            "name": "Age of Darkness",
+            "format": "{{era_name}}",
+            "date": {
+              "year": -5300,
+              "month": 0,
+              "day": 1
+            },
+            "id": "ID_58e99a8b9b9a",
+            "endsYear": false,
+            "isEvent": false,
+            "type": "era",
+            "category": null,
+            "isStartingEra": false
+          },
+          {
+            "name": "Age of Anguish",
+            "format": "{{era_name}}",
+            "date": {
+              "year": -4500,
+              "month": 8,
+              "day": 1
+            },
+            "id": "ID_3af84ada898a",
+            "endsYear": false,
+            "isEvent": false,
+            "type": "era",
+            "category": null,
+            "isStartingEra": false
+          },
+          {
+            "name": "Age of Destiny",
+            "format": "{{era_name}}",
+            "date": {
+              "year": -3500,
+              "month": 8,
+              "day": 1
+            },
+            "id": "ID_abc87ad9fbfb",
+            "endsYear": false,
+            "isEvent": false,
+            "type": "era",
+            "category": null,
+            "isStartingEra": false
+          },
+          {
+            "name": "Age of Enthronement",
+            "format": "{{era_name}}",
+            "date": {
+              "year": 1,
+              "month": 8,
+              "day": 1
+            },
+            "id": "ID_19197be9dac8",
+            "endsYear": false,
+            "isEvent": false,
+            "type": "era",
+            "category": null,
+            "isStartingEra": false
+          },
+          {
+            "name": "Age of Lost Omens",
+            "format": "{{era_name}}",
+            "date": {
+              "year": 4606,
+              "month": 8,
+              "day": 1
+            },
+            "id": "ID_7b585b5bd9ea",
+            "endsYear": false,
+            "isEvent": false,
+            "type": "era",
+            "category": null,
+            "isStartingEra": false
+          },
+          {
+            "name": "Age of Serpents",
+            "format": "{{era_name}}",
+            "date": {
+              "year": 4720,
+              "month": 8,
+              "day": 15
+            },
+            "id": "ID_eb4af87babaa",
+            "endsYear": false,
+            "isEvent": false,
+            "type": "era",
+            "category": null,
+            "isStartingEra": false
+          }
+        ]
+      },
+      "current": {
+        "day": 10,
+        "month": 2,
+        "year": 4710
+      },
+      "events": [],
+      "id": "ID_0af9d9f939c9",
+      "categories": [
+        {
+          "name": "Natural Events",
+          "id": "natural-events",
+          "color": "#2E7D32"
+        },
+        {
+          "name": "Religious Holidays",
+          "id": "religious-holidays",
+          "color": "#9b2c2c"
+        },
+        {
+          "name": "Secular Holidays",
+          "id": "secular-holidays",
+          "color": "#0D47A1"
+        },
+        {
+          "name": "Historical Events",
+          "id": "historical-events",
+          "color": "#455A64"
+        },
+        {
+          "name": "Miscellaneous Events",
+          "id": "miscellaneous-events",
+          "color": "#0288D1"
+        }
+      ],
+      "dateFormat": "YYYY-MMMM-D"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_0af9d9f939c9",
+  "eventPreview": true,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 1,
+    "minor": 4,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": []
+}

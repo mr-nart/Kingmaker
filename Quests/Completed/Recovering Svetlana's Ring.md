@@ -16,6 +16,15 @@
 ## Kobold Warrens
 - after defeating "[[Tartuccio|Tartuk]]" and getting in the good graces of Chief Sootscale & Mikmek, we recovered Svetlana's ring
 
+- Kressle (actually [[Irenna]]) has joined our group
+	- revealed that she's actually Svetlana's sister
+	- remorseful about everything she's done
+
+## Oleg's
+- Irenna and Svetlana were able to make up
+- Svetlana offered Irenna a place at Oleg's
+	- Irenna will continue with our party for the time being, at least until we take down the Staglord
+
 # Relevant Sessions
 ```dataview
 LIST FROM "Sessions"

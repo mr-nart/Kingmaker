@@ -1,9 +1,10 @@
 ---
 desc: 
 aliases:
+  - 
 ---
 #uncategorized
->[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Restov]]
+>[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: with our party
 
 >[!note|no-i bg-c-green] :FasUser: Friendly?
 

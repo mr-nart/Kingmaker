@@ -3,10 +3,10 @@ desc: A preist of Erastil
 aliases:
   - Jhod
 ---
-#uncategorized
+#galt
 >[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Oleg's Trading Post]]
 
->[!note|no-i bg-c-green] :FasUser: Friendly?
+>[!note|no-i bg-c-green] :FasUser: Friendly
 
 - **He/Him** -- Human -- Adult (early 40s)
 

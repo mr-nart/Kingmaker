@@ -20,4 +20,4 @@ Reports that he's interested in expanding his mercantile business. Endorses that
 - [[Gilda Goodword]] -- paternal cousin?
 
 ## Notable Items
-- [[Notable Items#Tracker's Goggles]]
+- [Aerial Cloak](https://2e.aonprd.com/Equipment.aspx?ID=2575)

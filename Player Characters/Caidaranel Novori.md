@@ -27,4 +27,4 @@ He identifies deeply with the edicts of his adopted deity, [[Deities#Selket]]. H
 - Familiar w/ some peripheral players in Brevic politics?
 
 ## Notable Items
-- 
+- [Tracker's Goggles](https://2e.aonprd.com/Equipment.aspx?ID=3113&Redirected=1)

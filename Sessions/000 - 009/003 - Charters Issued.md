@@ -48,7 +48,7 @@ The [[Black Tears]]' assault has concluded with the defeat of their apparent lea
 - Jamandi aldori vs 2 frost giants
 - a bunch of black tears guys enter from the south
 	- Jamandi says "just in time, take out their leader, she's with them, i'll take care of these oafs"
-	- Volodmyra (leader presumably) -- crooked scar on chin, missing piece of left ear, wearing long black coak, curved greataxe
+	- Volodmyra (leader presumably) -- crooked scar on chin, missing piece of left ear, wearing long black cloak, curved greataxe
 		- death by Garrett 
 		- magical goggles? *Tracker's goggles*, +1 to survival to track people
 		- enchanted greataxe? *+1 greataxe*
