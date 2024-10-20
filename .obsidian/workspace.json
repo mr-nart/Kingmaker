@@ -8,16 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "649cc7244545a7c9",
+            "id": "f992f564c337c336",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/010 - 019/014 - The Corrupted Temple.md",
+                "file": "General Info/Creatures.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Creatures"
             }
           }
         ]
@@ -40,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ]
@@ -85,7 +89,9 @@
                 },
                 "id": "ID_ebca881bd89b",
                 "child": "ID_8a9b5949087b"
-              }
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
@@ -94,8 +100,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/010 - 019/014 - The Corrupted Temple.md"
-              }
+                "file": "General Info/Creatures.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Creatures"
             }
           },
           {
@@ -104,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/010 - 019/014 - The Corrupted Temple.md",
+                "file": "General Info/Creatures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +120,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Creatures"
             }
           },
           {
@@ -123,7 +133,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -131,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -140,13 +154,16 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/010 - 019/014 - The Corrupted Temple.md",
+                "file": "General Info/Creatures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Creatures"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7c613979a479b220",
@@ -159,13 +176,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mikmek",
+                "query": "doven",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -173,7 +192,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -185,11 +206,12 @@
                 "calendar": "ID_0af9d9f939c9",
                 "id": "ID_8a9b5949087b",
                 "parent": "ID_ebca881bd89b"
-              }
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,52 +230,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "649cc7244545a7c9",
+  "active": "f992f564c337c336",
   "lastOpenFiles": [
-    "Sessions/010 - 019/013 - Returning to Oleg's.md",
-    "Sessions/010 - 019/014 - The Corrupted Temple.md",
-    "Minor Locations/Settlements, Tiny/Kobold Warrens.md",
+    "General Info/Documents.md",
+    "General Info/Deities.md",
     "General Info/Creatures.md",
-    "Major Locations/Greenbelt.md",
-    "Major Locations/Brevoy.md",
-    "Major Locations/Stolen Lands.md",
+    "General Info/Historical Figures.md",
+    "General Info/Notable Items.md",
+    "Sessions/010 - 019/012 - A Gnarled Olive Branch.md",
+    "NPCs/Allies/Irenna.md",
+    "NPCs/Allies/Gilda Goodword.md",
+    "NPCs/Allies/Jhod Kavkin.md",
+    "NPCs/Allies/Kesten Garess.md",
+    "NPCs/Allies/Oleg Leveton.md",
+    "NPCs/Allies/Old Bokken.md",
+    "NPCs/Enemies/The Staglord.md",
+    "NPCs/Enemies",
+    "NPCs/Diplomats/Untitled 1",
+    "NPCs/Allies",
+    "NPCs/Diplomats/Untitled",
+    "NPCs/Allies/Tristian.md",
+    "NPCs/Enemies/Tartuccio.md",
+    "Sessions/010 - 019/017 - Down with the Staglord.md",
     "Sessions/010 - 019/010 - Tartuk the 'Kobold'.md",
     "Sessions/010 - 019/011 - New Recruits.md",
-    "Minor Locations/Settlements, Tiny/The Old Sycamore.md",
-    "NPCs/Tristian.md",
-    "Home.md",
-    "Atlas.md",
-    "Minor Locations/Monuments/Temple of Elk.md",
-    "NPCs/The Staglord.md",
-    "Quests/Cleaning Up the Greenbelt.md",
-    "Groups/Greenbelt Bandits.md",
-    "NPCs/Jhod Kavkin.md",
-    "Quests/Completed/The Pitaxian Spy.md",
-    "General Info/Deities.md",
-    "Minor Locations/Monuments",
-    "Sessions/000 - 009/009 - Old Sharp Tooth.md",
+    "Sessions/010 - 019/013 - Returning to Oleg's.md",
+    "Sessions/010 - 019/014 - The Corrupted Temple.md",
+    "Sessions/010 - 019/015 - To the Tuskwater.md",
+    "Sessions/010 - 019/016 - Under the Stag's Nose.md",
     "Sessions/000 - 009/008 - Shin Nibblers.md",
-    "Sessions/000 - 009/007 - Kressle's Camp.md",
-    "Sessions/000 - 009/006 - Following Rex.md",
-    "Sessions/000 - 009/005 - Tax Collection.md",
-    "Sessions/000 - 009/004 - Trek to Oleg's.md",
+    "Sessions/000 - 009/009 - Old Sharp Tooth.md",
+    "Quests/A Shared Dream.md",
+    "Quests/Completed/Cleaning Up the Greenbelt.md",
+    "z_assets/stolen lands map.png",
+    "z_assets/restov map.jpg",
     "z_assets/Pasted image 20240914220841.png",
+    "z_assets/linzi.png",
+    "z_assets/kingmaker banner.webp",
+    "z_assets/exploration charter.png",
+    "z_assets/caine.png",
+    "z_assets/brevoy map.png",
+    "Minor Locations/Monuments",
     "Minor Locations/Settlements, Tiny",
     "Sessions/010 - 019",
     "Sessions/000 - 009",
     "NPCs/Diplomats",
     "NPCs/Adventurers",
-    "Groups/Brevic Noble Houses",
-    "z_assets/exploration charter.png",
-    "z_assets/linzi.png",
     "z_assets/Harrim.webp",
-    "100-110",
-    "20-21",
-    "10-19",
-    "z_assets/restov map.jpg",
-    "z_assets/stolen lands map.png",
-    "z_assets/kingmaker banner.webp",
-    "z_assets/brevoy map.png",
     "Untitled.canvas"
   ]
 }

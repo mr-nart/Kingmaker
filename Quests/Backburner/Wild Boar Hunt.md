@@ -1,0 +1,4 @@
+- Kesten gave Amiri some wanted poster for a giant wild boar with bloody tusks named **Tuskgutter**
+	- requested by hunter "Veckel Benson"
+	- "this damn boar ate my leg"
+	- bounty longbow + 3 special beacon-shot arrows + share delicious head-cheese

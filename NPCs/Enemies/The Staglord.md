@@ -3,16 +3,18 @@ desc: A bandit leader in the Greenbelt region
 aliases:
 ---
 #greenbelt #greenbelt-bandits #glenwine
->[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[]]
+>[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Greenbelt]]
 
->[!note|no-i bg-c-red] :FasUser: Bandit
+>[!note|no-i bg-c-red] :FasUser: Bandit -- DECEASED
+
+![|right|250](https://static.wikia.nocookie.net/pathfinderkingmaker/images/2/2f/Valeriy-vegera-concept-stag-lord-2.jpg/revision/latest/scale-to-width-down/1000?cb=20181029105959)
 
 - **He/Him** -- Human -- Adult
 
 >A bandit leader in the [[Greenbelt]] region. Rumored to be some kind of *demon with mystical powers* (thought to be responsible for the fog that descends periodically over the Greenbelt).
 
 ## Traits
-Described as an "ugly bastard" wearing a mask resembling the head of an elk. Highly proficient with a longbow. *Loves whiskey*. 
+Described as an "ugly bastard" wearing a mask resembling the head of an elk. Covered in scars. Highly proficient with a longbow. *Loves whiskey*. 
 >[!quote] "He's crazy; he punched a horse for spitting." - Happs Bydon
 
 ## Motivations

@@ -3,14 +3,18 @@
 >[!tldr|no-t bg-c-gray collapse]
 >This dusty cloak is made of mangy brown-and-gray coyote fur. You gain a +1 item bonus to Survival checks. If you critically succeed at your Survival check to Subsist, you can feed twice as many additional creatures.
 
-#### Gnarled Fey Sticks?
+#### Gnarled Fey Sticks
 >[!tldr|no-t bg-c-gray collapse]
 >A pair of magical sticks recovered from [[Tartuccio]]. One originally belonged to the [[Creatures#Mitflits]] living in [[The Old Sycamore]], and the other was found inside an artifact originally belonging to the [[Creatures#Sootscale Kobolds]] in the [[Kobold Warrens]]. Unclear what their abilities or purposes are, though they appear to have a strong affinity to one another, and supposedly Tartuccio intended to use them for some kind of ritual. Per Queen Ba-dah of the mitflits, the sticks may be the key to unlocking some kind of "chamber where somebody very powerful has stored a treasure."
+
+---
 
 ## **Consumables**
 #### Moon Radishes
 >[!tldr|no-t bg-c-gray collapse]
 >Huge white radishes, apparently highly sought after. [[Old Bokken]] will trade potions in exchange for moon radishes. Some kobolds we met in a forest in the [[Greenbelt]] seem to hold the radishes as sacred, as they bear "powers to heal."
+
+---
 
 ## **Miscellaneous**
 #### Leaf Token

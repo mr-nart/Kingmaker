@@ -22,14 +22,13 @@ dv.paragraph("![[" + pg.file.name + "#Summary|nlk]]");
 > 	- [[Garrett Goodword]]
 > 	- [[Hedera Wildbow]]
 > 	- [[Liosa Fenrie]]
-> - **-- NPC --**
+> - **-- Accompanying --**
+> 	- [[Irenna]]
 > 	- [[Amiri]]
 > 	- [[Linzi]]
+> - **-- At [[Oleg's Trading Post]] --**
 > 	- [[Valerie]]
-> - **-- Temporary --**
-> 	- [[Irenna]]
-> 	- [[Jhod Kavkin]]
-> 	- [[Tristian]]
+> 	- [[Lander Lebeda]]
 
 <p></p>
 

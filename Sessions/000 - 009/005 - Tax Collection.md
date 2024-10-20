@@ -79,10 +79,10 @@ The tax-collecting [[Greenbelt Bandits]] were defeated/detained at [[Oleg's Trad
 	- likes Whiskey
 - **Old man locked up in the basement of the fort**?
 	- "even crazier old bastard than the Staglord"
-- **Acuros**?
+- **Akiros**?
 	- "fucking wicked swordsman"
 - **Ox**?
-- **Doven**?
+- **Dovan**?
 - About the Greenbelt
 	- avoid the kobolds, goblins, undead
 	- "woods are scarier than the open terrain"

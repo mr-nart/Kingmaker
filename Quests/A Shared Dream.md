@@ -25,6 +25,9 @@
 	- "The land is being choked. The fog stifles what little is left. Please, if you have the strength, I urge you to stop what the Staglord and his servant druid have been doing. They seem to have somehow corrupted my power. They're turning the land against itself. If you wish to undo their spell upon the land, I urge you to seek out Erastil's blessing. It's the only way that you'll be able to break this spell."
 	- "The Temple of the Elk -- an ancient place sotted with Erastil's power. The priest -- the bald one -- he knows the way. He can guide you."
 
+- The *10th of Pharast*
+	- went to the Temple of Elk, fought off some corrupted beings, maybe this did something???
+
 # Relevant Sessions
 ```dataview
 LIST FROM "Sessions"

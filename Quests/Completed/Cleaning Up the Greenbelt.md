@@ -26,9 +26,9 @@
 >- **Kressle** is Haps' lieutenant, reportedly has about a dozen men in her crew
 >	- "she'll be coming sooner than later if we aren't back with the goods"
 >- other lieutenants?
->	- *Acuros*?
+>	- *Akiros*?
 >	- *Ox*?
->	- *Doven*?
+>	- *Dovan*?
 >- **The Staglord**
 >	- *really loves booze* (whiskey) -- *we've poisoned some whiskey with some fly agaric, maybe this can work?*
 >	- actively recruiting
@@ -65,6 +65,9 @@
 
 #### The Guardian of the Bloom
 - see [[A Shared Dream]]
+
+#### Tuskwater
+- we infiltrated the base, we killed the Staglord, now on to collect our settlement charter...
 
 # Relevant Sessions
 ```dataview

@@ -3,7 +3,7 @@ desc: An old, potion-making hermit who lives in a hut in the Greenbelt.
 aliases:
   - Bokken
 ---
-#greenbelt
+#greenbelt #merchant
 >[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Oleg's Trading Post]]
 
 >[!note|no-i bg-c-green] :FasUser: Friendly?

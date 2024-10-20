@@ -1,0 +1,3 @@
+- [[Old Bokken]] wants us to gather some fangberries for some potions
+	- "will pay handsomely" - any 3 potions for free or 25% discount for a month for a basket
+	- "spiders are also fond of fangberries"
