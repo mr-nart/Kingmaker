@@ -1,25 +1,40 @@
 {
   "main": {
-    "id": "f90949a62f1be3a3",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "f1ff238207352d46",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f992f564c337c336",
+            "id": "7fe111b2bd5ec1c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Info/Creatures.md",
+                "file": "Sessions/010 - 019/018 - Z-Day.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Creatures"
+              "title": "018 - Z-Day"
+            }
+          },
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests/Cleaning Up the Greenbelt.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Cleaning Up the Greenbelt"
             }
           }
         ]
@@ -60,7 +75,6 @@
       {
         "id": "0e31e3f0b2119702",
         "type": "tabs",
-        "dimension": 52.81437125748503,
         "children": [
           {
             "id": "784090149a814113",
@@ -71,7 +85,7 @@
                 "calendar": "ID_0af9d9f939c9",
                 "ephemeral": {
                   "viewing": {
-                    "day": 10,
+                    "day": 13,
                     "month": 2,
                     "year": 4710
                   },
@@ -100,10 +114,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Info/Creatures.md"
+                "file": "Sessions/010 - 019/018 - Z-Day.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Creatures"
+              "title": "Outline of 018 - Z-Day"
             }
           },
           {
@@ -162,13 +176,11 @@
               "title": "Outgoing links from Creatures"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7c613979a479b220",
         "type": "tabs",
-        "dimension": 47.185628742514965,
         "children": [
           {
             "id": "560c7bdc5d345f78",
@@ -176,7 +188,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "doven",
+                "query": "bloom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -195,20 +207,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "efb93e38dd1e57df",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_0af9d9f939c9",
-                "id": "ID_8a9b5949087b",
-                "parent": "ID_ebca881bd89b"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
             }
           }
         ]
@@ -230,38 +228,38 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f992f564c337c336",
+  "active": "7fe111b2bd5ec1c3",
   "lastOpenFiles": [
-    "General Info/Documents.md",
+    "Sessions/010 - 019/017 - Down with the Staglord.md",
+    "Sessions/010 - 019/018 - Z-Day.md",
+    "Quests/Cleaning Up the Greenbelt.md",
+    "Quests/A Shared Dream.md",
+    "Sessions/010 - 019/012 - A Gnarled Olive Branch.md",
     "General Info/Deities.md",
+    "NPCs/Enemies/The Staglord.md",
+    "Sessions/010 - 019/010 - Tartuk the 'Kobold'.md",
+    "Sessions/010 - 019/011 - New Recruits.md",
+    "Player Characters/Liosa Fenrie.md",
+    "Player Characters/Hedera Wildbow.md",
+    "Player Characters/Garrett Goodword.md",
+    "Player Characters/Celestine Orlovsky.md",
+    "Player Characters/Caidaranel Novori.md",
+    "Player Characters/Archibald M. F. Legralte.md",
+    "Home.md",
+    "Atlas.md",
+    "NPCs/Allies/Irenna.md",
     "General Info/Creatures.md",
+    "General Info/Documents.md",
     "General Info/Historical Figures.md",
     "General Info/Notable Items.md",
-    "Sessions/010 - 019/012 - A Gnarled Olive Branch.md",
-    "NPCs/Allies/Irenna.md",
     "NPCs/Allies/Gilda Goodword.md",
     "NPCs/Allies/Jhod Kavkin.md",
     "NPCs/Allies/Kesten Garess.md",
     "NPCs/Allies/Oleg Leveton.md",
-    "NPCs/Allies/Old Bokken.md",
-    "NPCs/Enemies/The Staglord.md",
     "NPCs/Enemies",
     "NPCs/Diplomats/Untitled 1",
     "NPCs/Allies",
     "NPCs/Diplomats/Untitled",
-    "NPCs/Allies/Tristian.md",
-    "NPCs/Enemies/Tartuccio.md",
-    "Sessions/010 - 019/017 - Down with the Staglord.md",
-    "Sessions/010 - 019/010 - Tartuk the 'Kobold'.md",
-    "Sessions/010 - 019/011 - New Recruits.md",
-    "Sessions/010 - 019/013 - Returning to Oleg's.md",
-    "Sessions/010 - 019/014 - The Corrupted Temple.md",
-    "Sessions/010 - 019/015 - To the Tuskwater.md",
-    "Sessions/010 - 019/016 - Under the Stag's Nose.md",
-    "Sessions/000 - 009/008 - Shin Nibblers.md",
-    "Sessions/000 - 009/009 - Old Sharp Tooth.md",
-    "Quests/A Shared Dream.md",
-    "Quests/Completed/Cleaning Up the Greenbelt.md",
     "z_assets/stolen lands map.png",
     "z_assets/restov map.jpg",
     "z_assets/Pasted image 20240914220841.png",

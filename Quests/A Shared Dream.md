@@ -15,7 +15,7 @@
 
 - The night of the *5th of Pharast*
 	- olive-colored face, appears to be in horrible pain
-	- "The Guardian of the Bloom", she's being held "deep in the Staglord's camp at the banks of the tuskwater"
+	- "The Guardian of the Bloom", she's being held "deep in [[The Staglord]]'s camp at the banks of the tuskwater"
 	- "the staglord - he has captured a portion of my power, and with it, he commands some of my allegiance. However, Erastil's blessing may be able to help you free me"
 	- Per Irenna, this may be the same woman that the staglord has been holding captive
 		- Irenna has never seen her, only heard her voice
@@ -27,6 +27,9 @@
 
 - The *10th of Pharast*
 	- went to the Temple of Elk, fought off some corrupted beings, maybe this did something???
+
+- The *13th of Pharast*
+	- after fighting the Staglord, we found what is presumed to be a lock of her hair on his person
 
 # Relevant Sessions
 ```dataview

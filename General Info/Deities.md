@@ -54,6 +54,13 @@
 **Edicts**: Preach of the upcoming end times, destroy that which has outlived its usefulness, put the suffering out of their misery
 **Anathema**: Artificially extend something’s existence or lifespan, spread hope
 
+## Gyronna
+>![|right|100](https://pathfinderwiki.com/w/images/0/0a/Gyronna_religious_symbol.webp) ***Hag Queen / The Angry Hag***
+>The goddess of hags, unabashed hatred, and spite. It's said her appearance constantly shifts, even mid-conversation, with only one massive bloodshot right eye remaining constant. Depicted typically as an old crone with tattered clothing and either ink-black or snow-white hair.  Areas of concern includ hatred, extortion, spite.
+
+**Edicts**: Expose hypocrisy in others, make others miserable, demand bribes to spare others from your torments
+**Anathema**: Allow others to slight you without retaliation, seek the approval of society, forgive those who wronged you
+
 ## Iomedae
 >![|right1|100](https://2e.aonprd.com/Images/Deities/Iomedae.png) ***The Inheritor / Light of the Sword / Lady of Valour***
 >A Chelaxian human who ascended to godhood by passing the Test of the Starstone. Her followers are assertive and vigilant in rooting out evil. Depicted in full plate mail, wielding a longsword and a heraldic shield which casts a holy light. Areas of concern include honor, justice, valor, and rulership.

@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "homepages": {
     "Main Homepage": {
       "value": "Home",
@@ -15,7 +15,10 @@
       "autoScroll": false,
       "pin": false,
       "commands": [
-        "dataview:dataview-force-refresh-views"
+        {
+          "id": "dataview:dataview-force-refresh-views",
+          "period": "Both"
+        }
       ],
       "alwaysApply": false,
       "hideReleaseNotes": false

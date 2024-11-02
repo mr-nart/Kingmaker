@@ -3,7 +3,7 @@
     {
       "id": "brevoy-map",
       "locked": true,
-      "lastAccessed": 1726379077055,
+      "lastAccessed": 1730506115380,
       "markers": [
         {
           "id": "ID_5a799a5a5af9",
@@ -268,14 +268,13 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Atlas.md",
-        "Major Locations/Stolen Lands.md"
+        "Atlas.md"
       ]
     },
     {
       "id": "stolen-lands-map",
       "locked": true,
-      "lastAccessed": 1726379077055,
+      "lastAccessed": 1730506115380,
       "markers": [
         {
           "id": "ID_5b5bf8e9bbab",
@@ -548,11 +547,11 @@
   "long": -82.98333,
   "notePreview": false,
   "layerMarkers": true,
-  "previousVersion": "6.0.1",
+  "previousVersion": "6.0.5",
   "version": {
     "major": 6,
     "minor": 0,
-    "patch": 1
+    "patch": 5
   },
   "warnedAboutMapMarker": false,
   "copyOnClick": false,
