@@ -3,7 +3,7 @@ Player: Megan
 aliases:
   - Liosa
 ---
->[!note|no-i bg-c-green] :FasUser: Friendly?
+>[!note|no-i bg-c-green] :FasUser: Friendly
 
 - **She/Her** -- Human -- Adult
 - **Wizard** (School of Mentalism) -- Scholar background (Arcana)

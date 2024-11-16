@@ -3,7 +3,7 @@ player: Phil
 aliases:
   - Garrett
 ---
->[!note|no-i bg-c-green] :FasUser: Friendly?, mildly suspicious
+>[!note|no-i bg-c-green] :FasUser: Friendly
 
 - **He/Him** -- Observant Halfling -- Adult
 - **Swashbuckler** (Wit)

@@ -81,7 +81,7 @@ The tax-collecting [[Greenbelt Bandits]] were defeated/detained at [[Oleg's Trad
 	- "even crazier old bastard than the Staglord"
 - **Akiros**?
 	- "fucking wicked swordsman"
-- **Ox**?
+- **Auchs**?
 - **Dovan**?
 - About the Greenbelt
 	- avoid the kobolds, goblins, undead

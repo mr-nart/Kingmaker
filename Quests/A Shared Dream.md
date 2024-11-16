@@ -30,6 +30,8 @@
 
 - The *13th of Pharast*
 	- after fighting the Staglord, we found what is presumed to be a lock of her hair on his person
+	- the lock of hair was doing something supernatural that maybe linked to the shadows/zombies that attacked??
+		- blown away in the wind right after the battle...
 
 # Relevant Sessions
 ```dataview

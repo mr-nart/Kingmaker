@@ -27,7 +27,7 @@
 >	- "she'll be coming sooner than later if we aren't back with the goods"
 >- other lieutenants?
 >	- *Akiros*?
->	- *Ox*?
+>	- *Auchs*?
 >	- *Dovan*?
 >- **The Staglord**
 >	- *really loves booze* (whiskey) -- *we've poisoned some whiskey with some fly agaric, maybe this can work?*
@@ -62,6 +62,7 @@
 #### Turncoats
 - **KRESSLE (IRENNA) JOINED OUR CREW**???
 - others may be willing to become turncoats? namely, **Akiros**, another of the lieutenants
+	- Akiros sort of helped out, we ended up letting him go free... hopefully this doesn't come back to bite us in the butt
 
 #### The Guardian of the Bloom
 - see [[A Shared Dream]]
@@ -69,6 +70,9 @@
 #### Tuskwater
 - we infiltrated the base, we killed the Staglord, now on to collect our settlement charter...
 - lmao plot twist, there's fucking zombies and earthquakes because of the old guy locked in the basement or some shit
+	- we finally made it through the combat
+	- unclear if the old guy was making the zombies or if it was something else...
+	- the Staglord's body was given to some mysterious undead figure by the river, probably something to do with [[Deities#Hanspur]]
 
 # Relevant Sessions
 ```dataview

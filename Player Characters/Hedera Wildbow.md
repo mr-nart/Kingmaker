@@ -3,7 +3,7 @@ player: Dani
 aliases:
   - Hedera
 ---
->[!note|no-i bg-c-green] :FasUser: Friendly?
+>[!note|no-i bg-c-green] :FasUser: Friendly
 
 - **She/Her** -- Human -- Adult
 - **Ranger**
@@ -23,3 +23,4 @@ Seeking to avenge her fallen loved ones.
 
 ## Notable Items
 - [[Notable Items#Coyote Cloak]]
+- [[Notable Items#Stag's Helm]]

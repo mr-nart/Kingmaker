@@ -23,7 +23,7 @@ Described as an "ugly bastard" wearing a mask resembling the head of an elk. Cov
 ## Affiliations
 - [[Greenbelt Bandits]] -- his crew
 	- lieutenants bear medallions, with the image of something like a *wolf's head with stag antlers*
-	- "gimp that throws lightning"?
-	- "Ox-man"?
+	- Nugrah -- his abusive father, DECEASED
+	- Auchs -- DECEASED
+	- a woman he seems to be holding hostage? she may be the one from [[A Shared Dream|our shared dreams...]]
 	- zombies?
-	- **The Guardian of the Bloom** - a woman he appears to be holding hostage? she may be the one from [[A Shared Dream|our shared dreams...]]

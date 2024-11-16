@@ -3,7 +3,7 @@
     {
       "id": "brevoy-map",
       "locked": true,
-      "lastAccessed": 1730506115380,
+      "lastAccessed": 1731785611345,
       "markers": [
         {
           "id": "ID_5a799a5a5af9",
@@ -268,13 +268,14 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Atlas.md"
+        "Atlas.md",
+        "Major Locations/Brevoy.md"
       ]
     },
     {
       "id": "stolen-lands-map",
       "locked": true,
-      "lastAccessed": 1730506115380,
+      "lastAccessed": 1731786135852,
       "markers": [
         {
           "id": "ID_5b5bf8e9bbab",
@@ -291,23 +292,6 @@
             0.6315106275716045,
             0.2884995831653963
           ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_7b399af8e95b",
-          "type": "Settlement, minor",
-          "loc": [
-            -1.563377574628337,
-            3.5738097648282867
-          ],
-          "link": "Bandit Camp",
-          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -408,12 +392,47 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_3bd90b883b5a",
+          "type": "Settlement, minor",
+          "loc": [
+            -1.5602570204902908,
+            3.60994203267122
+          ],
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "kressle's encampment",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_598bebf8fa58",
+          "type": "Settlement, minor",
+          "loc": [
+            -1.887024327138717,
+            4.027510034013122
+          ],
+          "link": "Tuskwater Fort",
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
       "files": [
-        "Atlas.md"
+        "Atlas.md",
+        "Major Locations/Stolen Lands.md",
+        "Major Locations/Greenbelt.md"
       ]
     }
   ],

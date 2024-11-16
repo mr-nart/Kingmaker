@@ -56,10 +56,17 @@
 
 ## Gyronna
 >![|right|100](https://pathfinderwiki.com/w/images/0/0a/Gyronna_religious_symbol.webp) ***Hag Queen / The Angry Hag***
->The goddess of hags, unabashed hatred, and spite. It's said her appearance constantly shifts, even mid-conversation, with only one massive bloodshot right eye remaining constant. Depicted typically as an old crone with tattered clothing and either ink-black or snow-white hair.  Areas of concern includ hatred, extortion, spite.
+>The goddess of hags, unabashed hatred, and spite. It's said her appearance constantly shifts, even mid-conversation, with only one massive bloodshot right eye remaining constant. Depicted typically as an old crone with tattered clothing and either ink-black or snow-white hair.  Areas of concern include hatred, extortion, spite.
 
 **Edicts**: Expose hypocrisy in others, make others miserable, demand bribes to spare others from your torments
 **Anathema**: Allow others to slight you without retaliation, seek the approval of society, forgive those who wronged you
+
+## Hanspur
+>![|right|100](https://pathfinderwiki.com/w/images/0/02/Hanspur_religious_symbol.webp) ***The Water Rat***
+>Demigod of the waterways of the River Kingdoms. Reportedly a great Kellid king during his mortal life, though his identity is unknown. Hanspur was drowned by a companion in a river, but Gozreh preserved part of his soul in his giant rat companion. Depicted as a bearded man with spiky, reed-like hair. Areas of concern include rivers, river travel, and smugglers.
+
+**Edicts**: Learn how to live off the river, guard river travelers from unnatural hazards, save others from drowning
+**Anathema**: Impose needless laws or restrictions, aid demons or the Apocalypse Riders
 
 ## Iomedae
 >![|right1|100](https://2e.aonprd.com/Images/Deities/Iomedae.png) ***The Inheritor / Light of the Sword / Lady of Valour***
@@ -98,7 +105,7 @@
 
 ## Shelyn
 >![|right|100](https://2e.aonprd.com/Images/Deities/Shelyn.png) ***The Eternal Rose / The Lady of Chrysanthemums / The Incorruptible***
->Watches over existence with a kind and loving eye, encouraging mortals to make the best of their lives by spreading love, art, and beauty -- even the crudest artistic awakenings are worthy of praise, as they represent and individuals expression of life's trials and triumphs. Depicted as a tastefully dressed young woman barely out of her youth with chestnut hair that contains multicolor highlights. Areas of concern include art, beauty, love, music.
+>Watches over existence with a kind and loving eye, encouraging mortals to make the best of their lives by spreading love, art, and beauty -- even the crudest artistic awakenings are worthy of praise, as they represent an individual's expression of life's trials and triumphs. Depicted as a tastefully dressed young woman barely out of her youth with chestnut hair that contains multicolor highlights. Areas of concern include art, beauty, love, music.
 
 **Edicts**: Be peaceful, choose and perfect an art, lead by example, see the beauty in all things
 **Anathema**: Destroy art or allow it to be destroyed (unless saving a life or pursuing greater art), refuse to accept surrender

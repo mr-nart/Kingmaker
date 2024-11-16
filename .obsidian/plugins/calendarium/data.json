@@ -275,11 +275,46 @@
         ]
       },
       "current": {
-        "day": 13,
+        "day": 14,
         "month": 2,
         "year": 4710
       },
-      "events": [],
+      "events": [
+        {
+          "name": "The Journey Begins",
+          "description": null,
+          "date": {
+            "day": 25,
+            "month": 1,
+            "year": 4710
+          },
+          "id": "ID_e918c9f91a7a",
+          "note": "Sessions/000 - 009/004 - Trek to Oleg's.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Defeating the Staglord",
+          "description": null,
+          "date": {
+            "day": 13,
+            "month": 2,
+            "year": 4710
+          },
+          "id": "ID_f8d8b82a7a39",
+          "note": "Sessions/010 - 019/017 - Down with the Staglord.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        }
+      ],
       "id": "ID_0af9d9f939c9",
       "categories": [
         {

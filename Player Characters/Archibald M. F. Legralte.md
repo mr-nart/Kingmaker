@@ -3,7 +3,7 @@ player: Jon
 aliases:
   - Archie
 ---
->[!note|no-i bg-c-green] :FasUser: Friendly?
+>[!note|no-i bg-c-green] :FasUser: Friendly
 
 - **He/Him** -- Human -- Adult
 - **Kineticist** (Fire & Metal Gates) -- Smith background

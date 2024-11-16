@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasHouseChimney",
       "FasEarthAmericas",
-      "FasPeopleGroup",
-      "FasBookOpen",
       "FasBookBookmark",
-      "FasBook"
+      "FasCircleQuestion",
+      "FasRobot"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,13 +34,13 @@
     "debugMode": false
   },
   "General Info": "FasCircleInfo",
-  "Major Locations": "FasMapLocationDot",
-  "Minor Locations": "FasShop",
+  "Major Locations": "FasMapLocation",
+  "Minor Locations": "FasBuildingColumns",
   "NPCs": "FasRobot",
-  "Player Characters": "FasImagePortrait",
+  "Player Characters": "FasUser",
   "Quests": "FasCircleQuestion",
   "Home.md": "FasHouseChimney",
-  "Sessions": "FasBook",
-  "Groups": "FasPeopleGroup",
+  "Sessions": "FasBookBookmark",
+  "Groups": "FasUserGroup",
   "Atlas.md": "FasEarthAmericas"
 }

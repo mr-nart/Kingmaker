@@ -67,21 +67,21 @@ September 14th, 2024
 					- "i tell you, the next time you go out to hunt, you have to find it. you find the meat, and you bring it back here" "only speak when i ask you questions!" "i've given you too many chances"
 					- smashes the pot over the boy's face -- it's burning and he can't stop it
 					- "that's what you get. next time you'll listen..."
-					- Hedera recognizes him as a druid *Nugra*(?) that used to live in Glenwine...
+					- Hedera recognizes him as a druid *Nugrah* that used to live in Glenwine...
 						- he had been kicked out of the druid circle after his behavior changed following the death of his wife during childbirth
 		- *scourge (whip/lash)?*
-			- Nugra fleeing from a destroyed village with the boy + scourge in hand
+			- Nugrah fleeing from a destroyed village with the boy + scourge in hand
 			- we took the scourge with us
 		- *spatter of blood?* - old, not recent
-			- Nugra spouting orders at the boy (now fully grown)
+			- Nugrah spouting orders at the boy (now fully grown)
 			- "you've done it all wrong, you've ruined the meat" "but you'll see, i'll discipline you just like I did before"
 			- the young man wearing a stag-horn helmet says "no more, this time you listen" "i'm not your boy, i'm not your slave. you are the slave, you listen to me. don't speak unless you're spoken to"
-			- beats Nugra unconscious
+			- beats Nugrah unconscious
 	- loose drawer, contained a *medallion with a wolf's head*, similar in construction to staglord amulets
 		- child's bloody handprint on it?
 		- seems very familiar to Hedera...
 	- *a small journal* hidden in the wall
-		- appears to be Nugra's, describes disgust toward the kind of man his son had become
+		- appears to be Nugrah's, describes disgust toward the kind of man his son had become
 		- ritual diagram? a ritual to hide things?
 			- can make a chest appear to have a false bottom
 			- could be reversed with some "common herbs"

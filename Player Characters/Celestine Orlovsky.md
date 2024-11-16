@@ -4,7 +4,7 @@ aliases:
   - Celestine
 ---
 #orlovsky
->[!note|no-i bg-c-green] :FasUser: Friendly?
+>[!note|no-i bg-c-green] :FasUser: Friendly
 
 - **She/Her** -- Human -- Adult
 - **Champion** (Specialization) -- Brevic Noble background

@@ -6,7 +6,7 @@ cssclasses: tables-wide
 ## Major Geographical Features
 > [!caption|right wm-sm]
 >```leaflet
->id: brevoy-map
+>id: stolen-lands-map
 >image: [[stolen lands map.png]]
 >lat: 50
 >long: 50

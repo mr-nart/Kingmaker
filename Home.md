@@ -12,32 +12,32 @@ dv.paragraph("![[" + pg.file.name + "#Summary|nlk]]");
 ## Party Status
 >[!tldr|right w-tiny static bg-c-gray no-i ttl-c] [[Atlas]] :FasMapLocationDot:
 
->[!tldr|bg-c-gray] Current Location: [[Temple of Elk]]
+>[!tldr|bg-c-gray] Current Location: [[Tuskwater Fort]]
 
-> [!kanban|no-i]- Party Members
+> [!kanban|no-t] Party Members
 > - **-- Players --**
-> 	- [[Archibald M. F. Legralte]]
-> 	- [[Caidaranel Novori]]
-> 	- [[Celestine Orlovsky]]
-> 	- [[Garrett Goodword]]
-> 	- [[Hedera Wildbow]]
-> 	- [[Liosa Fenrie]]
+> 	- [ ] [[Archibald M. F. Legralte]]
+> 	- [ ] [[Caidaranel Novori]]
+> 	- [ ] [[Celestine Orlovsky]]
+> 	- [ ] [[Garrett Goodword]]
+> 	- [ ] [[Hedera Wildbow]]
+> 	- [ ] [[Liosa Fenrie]]
 > - **-- Accompanying --**
-> 	- [[Irenna]]
-> 	- [[Amiri]]
-> 	- [[Linzi]]
+> 	- [ ] [[Irenna]]
+> 	- [ ] [[Amiri]]
+> 	- [ ] [[Linzi]]
+> 	- [ ] [[Valerie]]
 > - **-- At [[Oleg's Trading Post]] --**
-> 	- [[Valerie]]
-> 	- [[Lander Lebeda]]
+> 	- [ ] [[Lander Lebeda]]
 
 <p></p>
 
 >[!recite|right no-i  ws-med static] **-- Active Investigations --**
->- What is [[The Staglord]] up to?
->- [[The Pitaxian Spy]]
+>- Writing in the [[Tuskwater Fort]]?
+>- Gyronna, shadows, zombies?
 
 ## Agenda
-- [ ] 
+- [ ] Retrieve the spear of Davick Nettles?
 ---
 >[!note|bg-c-gray]- Recently Edited Files
 ><p></p>

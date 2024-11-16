@@ -26,7 +26,7 @@ The group has enlisted the help of the sootscale kobolds, who may be willing to 
 	- to the East in near the river
 - staglord has mist powers
 	- gimp that throws lightning
-	- ox-man
+	- Auchs
 	- zombies
 - kobolds are willing to scout out the Staglord's base for us, need a few days to rest up first, though
 

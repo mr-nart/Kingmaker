@@ -18,5 +18,5 @@ FROM "NPCs" AND #greenbelt-bandits
 - **Rex** -- minor bandit, captured at [[Oleg's Trading Post]], helped the group locate Kressle, the group released him for his cooperation
 - **Kressle** -- lieutenant
 - **Akiros** -- lieutenant
--  **Ox** -- lieutenant
+-  **Auchs** -- lieutenant
 - **Dovan** -- lieutenant
