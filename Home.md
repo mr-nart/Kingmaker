@@ -10,7 +10,7 @@ dv.paragraph("![[" + pg.file.name + "#Summary|nlk]]");
 ```
 
 ## Party Status
->[!tldr|right w-tiny static bg-c-gray no-i ttl-c] [[Atlas]] :FasMapLocationDot:
+>[!tldr|right w-tiny static bg-c-gray no-i ttl-c] :FasMapLocationDot: [[Atlas]]
 
 >[!tldr|bg-c-gray] Current Location: [[Tuskwater Fort]]
 
@@ -26,7 +26,9 @@ dv.paragraph("![[" + pg.file.name + "#Summary|nlk]]");
 > 	- [ ] [[Irenna]]
 > 	- [ ] [[Amiri]]
 > 	- [ ] [[Linzi]]
+> - **-- At [[Tuskwater Fort]] --**
 > 	- [ ] [[Valerie]]
+> 	- [ ] [[Hedera Wildbow]]
 > - **-- At [[Oleg's Trading Post]] --**
 > 	- [ ] [[Lander Lebeda]]
 

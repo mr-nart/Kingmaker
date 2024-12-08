@@ -275,7 +275,7 @@
     {
       "id": "stolen-lands-map",
       "locked": true,
-      "lastAccessed": 1731786135852,
+      "lastAccessed": 1732930310813,
       "markers": [
         {
           "id": "ID_5b5bf8e9bbab",
@@ -431,8 +431,7 @@
       "shapes": [],
       "files": [
         "Atlas.md",
-        "Major Locations/Stolen Lands.md",
-        "Major Locations/Greenbelt.md"
+        "Major Locations/Stolen Lands.md"
       ]
     }
   ],

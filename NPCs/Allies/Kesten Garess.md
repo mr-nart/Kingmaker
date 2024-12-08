@@ -4,7 +4,7 @@ aliases:
   - Kesten
 ---
 #garess
->[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Restov]]
+>[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Oleg's Trading Post]]
 
 >[!note|no-i bg-c-brown] :FasUser: Neutral (friend of [[Archibald M. F. Legralte|Archie]])
 

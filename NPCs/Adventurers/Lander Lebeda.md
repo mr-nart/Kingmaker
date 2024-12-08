@@ -4,7 +4,7 @@ aliases:
   - Lander
 ---
 #lebeda
->[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: With our party
+>[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Oleg's Trading Post]]
 
 >[!note|no-i bg-c-orange] :FasUser: Not a fan of him
 

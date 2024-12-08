@@ -73,6 +73,8 @@
 	- we finally made it through the combat
 	- unclear if the old guy was making the zombies or if it was something else...
 	- the Staglord's body was given to some mysterious undead figure by the river, probably something to do with [[Deities#Hanspur]]
+		- he said we can take some spear that he stashed buried at his house? "On the river crossing to the East"
+- Valerie and Hedera remain to secure the fort while the rest of the party returns to Restov
 
 # Relevant Sessions
 ```dataview
