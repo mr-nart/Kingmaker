@@ -4,7 +4,6 @@ cssclasses: tables-wide
 
 >description
 
-## Major Geographical Features
 >[!caption|right wm-sm]
 >```leaflet
 >id: brevoy-map
@@ -21,9 +20,11 @@ cssclasses: tables-wide
 >lock: true
 >```
 
+## Major Geographical Features
 
 ## Subregion/Other Info
 
+# Notable Locations
 ```dataview
 TABLE WITHOUT ID file.link AS "Places", desc AS "Description"
 FROM "Minor Locations" AND #****

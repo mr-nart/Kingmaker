@@ -3,7 +3,6 @@ cssclasses: tables-wide
 ---
 >The region immediately south of [[Brevoy]] is called the **Stolen Lands**. While these lands are technically a part of the *River Kingdoms*, [[Brevoy#Rostland|Rostland]] has long viewed them as “stolen” from it by bandits and monsters. Many attempts have been made to settle the Stolen Lands, but to date, none have succeeded, making these 33,000 square miles of wilderness the largest swath of unclaimed land in the entire River Kingdoms.
 
-## Major Geographical Features
 > [!caption|right wm-sm]
 >```leaflet
 >id: stolen-lands-map
@@ -18,6 +17,7 @@ cssclasses: tables-wide
 >lock: true
 >```
 
+## Major Regions
 Major regions of the Stolen Lands include:
 - The [[Greenbelt]]
 - [[Hooktongue Slough]]

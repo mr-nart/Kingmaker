@@ -27,6 +27,13 @@ Sat upon a hilltop, the manor is a large stone building surrounded by oak trees 
 ## Aldori Academy
 The main training site of the [[Aldori Swordlords]], widely regarded as the region's finest war college.
 
+## Birchwood Hall
+The two-story lodge serving as the hub for the local branch of the Pathfinder Society. Though these headquarters see little use, they do still maintain a sporadic schedule of lectures.
+
+Notable members include:
+- **Jubilost Narthropple** -- gnome, "noted historian and mapmaker"
+- **Negant Warthropple** -- gnome, "assistant adjutant venture-captain pro tempore"
+
 ## Docks
 Multiple warehouses, including one for *Goodword's Greater Goods*, run by [[Garrett Goodword]].
 

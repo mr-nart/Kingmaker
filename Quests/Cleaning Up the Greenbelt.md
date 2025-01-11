@@ -76,6 +76,9 @@
 		- he said we can take some spear that he stashed buried at his house? "On the river crossing to the East"
 - Valerie and Hedera remain to secure the fort while the rest of the party returns to Restov
 
+#### Restov
+- awaiting a meeting with Lady Minerva Lebeda
+
 # Relevant Sessions
 ```dataview
 LIST FROM "Sessions"

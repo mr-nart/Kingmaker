@@ -16,7 +16,10 @@ aliases:
 Tall, well-built, short hair.
 
 ## Motivations
-Intends to bring order and goodness to the [[Stolen Lands]]. Wants to set up a shelter for the poor and needy.
+Intends to bring order and goodness to the [[Stolen Lands]]. Wants to set up a shelter for the poor and needy. Love language is cooking.
+
+**Recipes known:**
+- Galt Ragout
 
 ## Affiliations
 - [[Lander Lebeda]] -- not on good terms??

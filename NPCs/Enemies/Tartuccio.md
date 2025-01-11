@@ -6,7 +6,7 @@ aliases:
 #pitax
 >[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Kobold Warrens]]
 
->[!note|no-i bg-c-red] :FasUser: Enemy -- DECEASED
+>[!note|no-i bg-c-red] :FasUser: Pitaxian Spy -- DECEASED
 
 ![|right|250](https://static.wikia.nocookie.net/pathfinderkingmaker_gamepedia_en/images/e/ef/Tartuccio.png/revision/latest?cb=20180927134312)
 

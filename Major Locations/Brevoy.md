@@ -5,7 +5,6 @@ cssclasses: tables-wide
 >
 >Until recently, the iron rule of [[Brevic Noble Houses#House Rogarvia]] maintained a fragile peace between the two regions. But a decade ago, the ruling house mysteriously disappeared, and the conniving leaders of Issia’s [[Brevic Noble Houses#House Surtova]] supplanted them as Brevoy’s rulers. Now a labyrinthine political landscape plagues the nation, full of secret alliances, provincial loyalties, and nefarious plots; civil war seems inevitable. In Rostland to the south, the [[Aldori Swordlords|swordlords]] see in many of Issia’s recent political moves the swift approach of such a war. They rightly fear such an event, for Rostland is smaller than Issia, it has fewer armies, and its rolling hills and grasslands offer very little in the way of natural defenses. If Brevoy falls into civil war, it won’t be long at all before the violent, opportunistic vultures to the south move to take advantage of Rostland’s problems.
 
-## Major Geographical Features
 > [!caption|right wm-sm]
 >```leaflet
 >id: brevoy-map
@@ -22,6 +21,7 @@ cssclasses: tables-wide
 >lock: true
 >```
 
+## Major Geographical Features
 The **Lake of Mists and Veils** forms the northern border. Along the coast is *Winterbreak Bay*. East of the bay is *Acuben Isle*, an island about 45 miles long. West of the bay is *Claw Point*, the highly inaccessible northernmost point of the Brevic mainland.
 
 The **Icerime Peaks** form the eastern border with Old Iobaria. The mountain range ends as it approaches the southern border, transitioning into the *Valley of Fire*. The land in this valley has remained blackened and melted ever since [[Historical Figures#Choral the Conqueror]]'s red dragon allies scourged in the land in 4499 AR, destroying the [[Aldori Swordlords]]' last great army. 

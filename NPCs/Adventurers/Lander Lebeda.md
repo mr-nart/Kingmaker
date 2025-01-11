@@ -1,10 +1,10 @@
 ---
-desc: A "black sheep" of House Lebeda, leading an expedition into the Stolen Lands
+desc: A "black sheep" of House Lebeda, led a failed expedition into the Stolen Lands
 aliases:
   - Lander
 ---
 #lebeda
->[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Oleg's Trading Post]]
+>[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Restov]]
 
 >[!note|no-i bg-c-orange] :FasUser: Not a fan of him
 

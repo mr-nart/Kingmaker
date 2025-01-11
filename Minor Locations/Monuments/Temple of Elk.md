@@ -12,4 +12,4 @@ desc: A temple to Erastil deep in the Narlmarch Woods
 At the foot of the steps of the temple is a large pool of crystal-clear water. Drinking this water is seems to fill one with a deep sense of divine warmth, healing their wounds (to a limited extent).
 
 ## Pedestals
-Five pedestals sit at the top of the steps. Reportedly, each once held a blessed artifact. Most were probably taken by [[The Staglord]].
+Five empty pedestals sit at the top of the steps. Reportedly, each once held a blessed artifact.

@@ -6,7 +6,7 @@ aliases:
 >[!note|no-i bg-c-green] :FasUser: Friendly
 
 - **She/Her** -- Human -- Adult
-- **Ranger**
+- **Ranger** -- Rogue archetype
 
 >**Hedera Wildbow** is the only known surviving inhabitant of a village in the woods named Glenwine. She lived there with her husband and three children until a tragic assault on the town occurred, sparing nearly no one. All she knows from that day was that the assailants wore medallions bearing the image of some kind of animal.
 >

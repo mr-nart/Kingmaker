@@ -12,7 +12,7 @@ dv.paragraph("![[" + pg.file.name + "#Summary|nlk]]");
 ## Party Status
 >[!tldr|right w-tiny static bg-c-gray no-i ttl-c] :FasMapLocationDot: [[Atlas]]
 
->[!tldr|bg-c-gray] Current Location: [[Tuskwater Fort]]
+>[!tldr|bg-c-gray] Current Location: [[Restov]]
 
 > [!kanban|no-t] Party Members
 > - **-- Players --**
@@ -23,14 +23,11 @@ dv.paragraph("![[" + pg.file.name + "#Summary|nlk]]");
 > 	- [ ] [[Hedera Wildbow]]
 > 	- [ ] [[Liosa Fenrie]]
 > - **-- Accompanying --**
-> 	- [ ] [[Irenna]]
 > 	- [ ] [[Amiri]]
 > 	- [ ] [[Linzi]]
 > - **-- At [[Tuskwater Fort]] --**
 > 	- [ ] [[Valerie]]
 > 	- [ ] [[Hedera Wildbow]]
-> - **-- At [[Oleg's Trading Post]] --**
-> 	- [ ] [[Lander Lebeda]]
 
 <p></p>
 
@@ -39,7 +36,7 @@ dv.paragraph("![[" + pg.file.name + "#Summary|nlk]]");
 >- Gyronna, shadows, zombies?
 
 ## Agenda
-- [ ] Retrieve the spear of Davick Nettles?
+- [ ] Research Gyronna + greenbelt?
 ---
 >[!note|bg-c-gray]- Recently Edited Files
 ><p></p>

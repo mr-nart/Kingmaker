@@ -20,4 +20,4 @@ Tall, dark-haired. Appears confident.
 - [[Brevic Noble Houses#House Rogarvia]] -- former patron
 
 ## Notable Items
-- 
+- Wand of Breathe Fire
