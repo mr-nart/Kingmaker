@@ -20,4 +20,4 @@ Wields a bow and arrow. Seems aloof, a man of few words.
 Appears to have something against someone named [[Gragglebeard]]. He referenced some kind of "debt."
 
 ## Affiliations
-- 
+- has a wolf named "Wolf"

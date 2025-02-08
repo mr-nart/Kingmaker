@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/020-029/022 - Back to Civilization.md",
+                "file": "Sessions/020-029/020 - Troll Hunter.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "022 - Back to Civilization"
+              "title": "020 - Troll Hunter"
             }
           }
         ]
@@ -69,11 +69,7 @@
               "state": {
                 "calendar": "ID_0af9d9f939c9",
                 "ephemeral": {
-                  "viewing": {
-                    "day": 14,
-                    "month": 2,
-                    "year": 4710
-                  },
+                  "viewing": null,
                   "viewState": 1,
                   "displaying": {
                     "day": 8,
@@ -98,10 +94,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/020-029/022 - Back to Civilization.md"
+                "file": "Sessions/020-029/020 - Troll Hunter.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 022 - Back to Civilization"
+              "title": "Outline of 020 - Troll Hunter"
             }
           },
           {
@@ -228,32 +224,32 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Sessions/020-029/021 - Pit Stop at Oleg's.md",
+    "Sessions/020-029/022 - Back to Civilization.md",
+    "Sessions/020-029/023 - Laying the Foundation.md",
+    "Sessions/010 - 019/017 - Down with the Staglord.md",
+    "Home.md",
+    "Minor Locations/Settlements, Tiny/Tuskwater Fort.md",
+    "NPCs/Diplomats/Ioseph Sellemius.md",
+    "Minor Locations/Settlements, Tiny/Kobold Warrens.md",
+    "Minor Locations/Settlements, Tiny/Oleg's Trading Post.md",
+    "Minor Locations/Settlements, Tiny/The Old Sycamore.md",
+    "NPCs/Ekundayo.md",
+    "NPCs/Diplomats/Minerva Lebeda.md",
+    "Quests/Cleaning Up the Greenbelt.md",
+    "Sessions/000 - 009/000 - Expectations.md",
+    "Sessions/010 - 019/012 - A Gnarled Olive Branch.md",
+    "Sessions/010 - 019/013 - Returning to Oleg's.md",
+    "Sessions/000 - 009/001 - The Feast.md",
+    "NPCs/Allies/Kesten Garess.md",
+    "Groups/Brevic Noble Houses.md",
+    "General Info/Deities.md",
+    "Minor Locations/Settlements, Large/Restov.md",
+    "Atlas.md",
     "Player Characters/Archibald M. F. Legralte.md",
     "Player Characters/Celestine Orlovsky.md",
     "Player Characters/Caidaranel Novori.md",
     "Player Characters/Garrett Goodword.md",
-    "Player Characters/Liosa Fenrie.md",
-    "Player Characters/Hedera Wildbow.md",
-    "General Info/Deities.md",
-    "Groups/Brevic Noble Houses.md",
-    "NPCs/Minerva Lebeda.md",
-    "Major Locations/Verdanti.md",
-    "Home.md",
-    "Atlas.md",
-    "Sessions/010 - 019/014 - The Corrupted Temple.md",
-    "General Info/Notable Items.md",
-    "Minor Locations/Monuments/Temple of Elk.md",
-    "Quests/Backburner/Wild Boar Hunt.md",
-    "Quests/Backburner/Alchemical Fetch Quest.md",
-    "Sessions/020-029/022 - Back to Civilization.md",
-    "Quests/Cleaning Up the Greenbelt.md",
-    "Quests/A Shared Dream.md",
-    "Sessions/000 - 009/000 - Expectations.md",
-    "Sessions/000 - 009/001 - The Feast.md",
-    "Sessions/000 - 009/002 - Black Tears Attack.md",
-    "Sessions/000 - 009/003 - Charters Issued.md",
-    "Sessions/000 - 009/004 - Trek to Oleg's.md",
-    "Sessions/000 - 009/005 - Tax Collection.md",
     "z_assets/brevoy map.png",
     "z_assets/caine.png",
     "z_assets/exploration charter.png",

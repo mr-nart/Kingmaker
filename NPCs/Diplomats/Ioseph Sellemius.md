@@ -12,7 +12,7 @@ aliases:
 
 >**Lord Mayor Ioseph Sellemius** is the current ruler of the Free City of [[Restov]]. Notably, he is not from a [[Brevic Noble Houses|noble family]].
 ## Traits
-
+Middle-aged, graying hair, kindly face, handlebar mustache.
 
 ## Motivations
 

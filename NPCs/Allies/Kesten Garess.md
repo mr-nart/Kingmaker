@@ -21,5 +21,5 @@ Old scar on the right side of his face.
 
 
 ## Affiliations
-- [[Brevic Noble Houses#House Garess]]
+- [[Brevic Noble Houses#House Garess]] - disowned by father [[Evan Garress]] after trying to elope with a commoner
 - [[Archibald M. F. Legralte]] -- friends

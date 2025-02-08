@@ -36,7 +36,10 @@ dv.paragraph("![[" + pg.file.name + "#Summary|nlk]]");
 >- Gyronna, shadows, zombies?
 
 ## Agenda
-- [ ] Research Gyronna + greenbelt?
+- [x] Research Gyronna + greenbelt?
+- [ ] Survey Greenbelt for mineral caches
+	- [ ] Oaktop Silver Mine? May need to make a deal with the kobolds
+	- [ ] gold ore vein
 ---
 >[!note|bg-c-gray]- Recently Edited Files
 ><p></p>

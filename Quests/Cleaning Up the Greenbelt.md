@@ -75,9 +75,11 @@
 	- the Staglord's body was given to some mysterious undead figure by the river, probably something to do with [[Deities#Hanspur]]
 		- he said we can take some spear that he stashed buried at his house? "On the river crossing to the East"
 - Valerie and Hedera remain to secure the fort while the rest of the party returns to Restov
+	- they've recruited the help of the [[Creatures#Sootscale Kobolds]]
 
 #### Restov
-- awaiting a meeting with Lady Minerva Lebeda
+- awaiting a meeting with Lady [[Minerva Lebeda]]
+- lots of meetings to be had
 
 # Relevant Sessions
 ```dataview
