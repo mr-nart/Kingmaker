@@ -4,7 +4,7 @@ num: 14
 September 14th, 2024
 
 ## Summary
-[[Jhod Kavkin|Jhod]] accompanied us to the [[Temple of Elk]] to seek out Erastil's blessing. On the way, we picked up the confiscated goods we buried at the Thornriver camp. We've poisoned a crate of whiskey with fly agaric mushrooms. Prior to reaching the temple, we stopped at an abandoned hut that [[The Staglord]] had requested be burned down, where we uncovered some of his backstory. Upon reaching the temple, we found it had been corrupted. We addressed(?) the corruption, and have been joined temporarily by [[Tristian]], a follower of [[Deities#Sarenrae]] who had sought out the temple after sensing the trouble.
+[[Jhod Kavkin|Jhod]] accompanied us to the [[Temple of the Elk]] to seek out Erastil's blessing. On the way, we picked up the confiscated goods we buried at the Thornriver camp. We've poisoned a crate of whiskey with fly agaric mushrooms. Prior to reaching the temple, we stopped at an abandoned hut that [[The Staglord]] had requested be burned down, where we uncovered some of his backstory. Upon reaching the temple, we found it had been corrupted. We addressed(?) the corruption, and have been joined temporarily by [[Tristian]], a follower of [[Deities#Sarenrae]] who had sought out the temple after sensing the trouble.
 
 ##
 >[!note|bg-c-gray no-t txt-c]

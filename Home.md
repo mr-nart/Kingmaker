@@ -32,8 +32,8 @@ dv.paragraph("![[" + pg.file.name + "#Summary|nlk]]");
 <p></p>
 
 >[!recite|right no-i  ws-med static] **-- Active Investigations --**
->- Writing in the [[Tuskwater Fort]]?
->- Gyronna, shadows, zombies?
+>- Writing / zombies in the [[Tuskwater Fort]]?
+>- 
 
 ## Agenda
 - [x] Research Gyronna + greenbelt?

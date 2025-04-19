@@ -16,7 +16,7 @@ aliases:
 Brunette hair cut in a clerical tonsure, with mutton chops. Wears brown robes.
 
 ## Motivations
-Interested in the state of the [[Temple of Elk]], an abandoned holy site which is rumored to have healing waters blessed by Erastil himself.
+Interested in the state of the [[Temple of the Elk]], an abandoned holy site which is rumored to have healing waters blessed by Erastil himself.
 
 ## Affiliations
 - 

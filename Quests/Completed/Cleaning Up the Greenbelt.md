@@ -78,8 +78,7 @@
 	- they've recruited the help of the [[Creatures#Sootscale Kobolds]]
 
 #### Restov
-- awaiting a meeting with Lady [[Minerva Lebeda]]
-- lots of meetings to be had
+- we've come to claim our spoils, awaiting a meeting with Lady [[Minerva Lebeda]] + lots of others
 
 # Relevant Sessions
 ```dataview

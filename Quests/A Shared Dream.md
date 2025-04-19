@@ -9,7 +9,7 @@
 	- "[[Deities#Erastil]], power, temple, seek out..."
 
 - On the *2nd of Pharast* we met [[Jhod Kavkin]], a monk who claims to be a priest of Erastil
-	- says that there's a [[Temple of Elk]] that's long been abandoned southwest in the woods
+	- says that there's a [[Temple of the Elk]] that's long been abandoned southwest in the woods
 		- says he would appreciate a report + a holy symbol from the site if possible
 		- rumors of healing waters blessed by Erastil there
 

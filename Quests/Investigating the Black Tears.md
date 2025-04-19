@@ -23,6 +23,9 @@
 ## [[The Pitaxian Spy]]
 - per Jamandi, she received intel regarding a possible link between a Pitaxian spy present among the guests and the Black Tears?? (the spy is clearly [[Tartuccio]]...)
 
+## Rogerio??
+- Surtova's butler in Restov was slyly taking notes on our meeting, trying to peek at our documents, and passing info along to someone with makeup over their cheek???
+
 # Relevant Sessions
 ```dataview
 LIST FROM "Sessions"

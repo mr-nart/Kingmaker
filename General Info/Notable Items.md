@@ -19,7 +19,7 @@
 
 ## **Miscellaneous**
 #### Leaf Token
->![[Pasted image 20240914220841.png|right|60]] A strange leaf with a strange etching on it. Found at the abandoned hut (presumably the former home of [[The Staglord]]) outside the [[Temple of Elk]].
+>![[Pasted image 20240914220841.png|right|60]] A strange leaf with a strange etching on it. Found at the abandoned hut (presumably the former home of [[The Staglord]]) outside the [[Temple of the Elk]].
 
 ---
 # Archived

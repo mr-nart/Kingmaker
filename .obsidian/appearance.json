@@ -11,5 +11,6 @@
     "meta bind",
     "dataview margin"
   ],
-  "showViewHeader": true
+  "showViewHeader": true,
+  "showRibbon": true
 }

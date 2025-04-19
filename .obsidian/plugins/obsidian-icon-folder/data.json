@@ -31,7 +31,8 @@
     "iconColorInFrontmatterFieldName": "iconColor",
     "iconsInLinksEnabled": false,
     "lucideIconPackType": "native",
-    "debugMode": false
+    "debugMode": false,
+    "useInternalPlugins": false
   },
   "General Info": "FasCircleInfo",
   "Major Locations": "FasMapLocation",

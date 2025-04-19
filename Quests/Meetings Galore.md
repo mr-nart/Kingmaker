@@ -1,0 +1,145 @@
+
+## House Garress
+Acceptance Deadline: The end of the week.
+
+**Lesser Offer**:
+- 2 Ore Commodities on the Kingdom's first turn.
+
+Lesser Terms:
+- The Kingdom must not sell or give away any mineral rights to other Houses. (non-negotiable)
+- The Kingdom will Investigate the viability of the Oaktop Silver Mine. (non-negotiable)
+- Kesten Garess must not be placed in any Leadership Role. (negotiable, Evan Garess tries to insist on this but Torval doesn’t really care)
+
+**Greater Offer**: As Lesser, but in addition:
+- 5 RP and 2 additional Ore Commodities on the Kingdom's first turn.
+- The Kingdom Starts with Diplomatic Relations with House Garess.
+- If the Kingdom attempts to Establish Trade Agreement with House Garess, the result is increased one degree of success.
+- For the Kingdom's first year (12 turns) after a Trade Agreement with House Garess is established, when the Kingdom Manages Trade Agreements with House Garess, increase the RP gained by 2.
+- House Garess will build a free Foundry in the Capital within 2 months (2 turns) after the Kingdom builds its first Mine
+- House Garess will build a free Guildhall in the Capital within 2 months (2 turns) after the Free Foundry is built.
+- House Garess will build a free Foundry within a year (12 turns) in any Settlement that winds up with a Mine on a Hex that gives an Ore Resource bonus within its Influence.
+
+Greater Terms: As Lesser, but in addition:
+- The Kingdom must be Trained in Industry. (non-negotiable)
+- House Garess may choose a candidate for a Leadership role in the Party's Kingdom. (negotiable, Torval will accept appointing someone as head of the Mining Guild instead of a full leadership Role.)
+- Any Ore Commodities the Kingdom sells via Trade Commodities must be sold to House Garess. In addition, when using Trade Commodities to sell Ore to House Garess the result is always a success but can never be a critical success. (non-negotiable)
+- House Garess is notified and given a chance to negotiate for the rights to the Oaktop Silver Mine and any other significant veins of precious metals the Kingdom discovers. (non-negotiable)
+
+## Church of Gorum
+Acceptance Deadline: The end of the week.
+
+**Lesser Offer**:
+- The Capital starts with a Barracks.
+- The Church of Gorum will construct one Wooden Wall in the Capital for free during each of the first 4 seasons. (Every 3 turns, starting on Turn 3).
+- The Kingdom receives a +1 circumstance bonus to Fortify Hex, Garrison Army, Outfit Army, Recruit Army, and Train Army checks.
+
+Lesser Terms:
+- The Kingdom cannot be Lawful. (negotiable)
+- Worship of Gorum must be allowed in the Kingdom. If the Kingdom has official religions, Gorum must be among them. (non-negotiable)
+- The Kingdom must be Trained in Defense and Warfare. (non-negotiable)
+- The Capital will build a Shrine to Gorum within its first year. (negotiable, but only in terms of the timeframe)
+- The Kingdom must Recruit an Army by the end of its first year. (negotiable, but only in terms of the timeframe)
+
+**Greater Offer**: As Lesser, but in addition:
+- The Church of Gorum will build a free Keep in the capital when the Kingdom reaches level 3, a free Garrison at level 5, a free Arena at level 7, and a free Military Academy at level 10.
+- Every new Settlement starts with a Barracks.
+- The Church will construct one Wooden Wall in each Settlement for free during each of that settlement's first 4 seasons. (Every 3 turns, starting on the settlement's 3rd turn).
+- The kingdom receives one basic army (of their choice) for free.
+- The Kingdom does not need to pay its consumption.
+- Each of the Kingdom's Armies have +1 HP and -1 RT.
+
+Greater Terms: As Lesser, but in addition:
+- The Kingdom must be Chaotic and cannot be Good. (negotiable, the church will settle for either Chaotic, or non-good and non-lawful)
+- The Kingdom must be Trained in Folkore. (non-negotiable)
+- Gorum must be the only Official State Religion, though other faiths need not be illegal. (negotiable)
+- The Kingdom will institute Compulsory military training and service for all able-bodied adults, under the supervision of the Church of Gorum. (non-negotiable)
+- The Capital will build both a Temple and a Cathedral to Gorum within a season (3 turns) of meeting the requirements to build those structures. (negotiable, but only in terms of the timeframe)
+- No Shrines, Temples, or Cathedrals for other Faiths may be built prior to a Shrine, Temple, or Cathedral of Gorum being built. (non-negotiable)
+- The Church of Gorum may appoint a candidate of its choice to the General or Ruler Leadership role. (non-negotiable)
+
+## Church of Cayden Cailean
+Acceptance Deadline: The end of the week.
+
+**Offer**:
+- 1 Luxury Commodity on the Kingdom's first turn.
+- The Kingdom receives a +1 circumstance bonus on Celebrate Holiday checks.
+- The DC increase to Celebrate Holiday for having used Celebrate Holiday on the previous turn is reduced from 4 to 2.
+- The Church of Cayden Cailean will build a free Orphanage within the Kingdom's first 6 Months, on whatever turn the Kingdom chooses.
+- After the Capital builds its first Brewery, the Church of Cayden Cailean will build a free Shrine to Cayden in the same block on the following turn.
+- After the Capital builds its 3rd Brewery, the Church of Cayden Cailean will build a free Popular Tavern in the same block as one of them on the following turn.
+- After the Capital has built a combination of at least 7 total Breweries, Inns, and Taverns and the Kingdom is at least 9th level, the Church of Cayden Cailean will upgrade one Popular Tavern to a Luxury Tavern for free on whatever subsequent turn the Kingdom chooses.
+
+Terms:
+- The Kingdom cannot be Evil or Lawful. (negotiable, the Church will settle for just non-Evil)
+- The Kingdom must be Trained in Folklore. (non-negotiable)
+- Worship of Cayden Cailean must be allowed in the Kingdom. (non-negotiable)
+- The Kingdom must Celebrate Ascension Day, First Brewing, and Merrymead as Holidays. (non-negotiable)
+- The Kingdom must Celebrate at least 3 other days as Holidays each year, and arrange it so that there is at least one Holiday every season (Every 3 turns). (negotiable)
+- The Capital must build a Brewery within the first year. (negotiable, but only in terms of the timeframe)
+
+## Church of Erastil
+**Offer**: 
+- 5 RP, 1 Food Commodity, and 1 Lumber Commodity on the Kingdom's first turn.
+- The Capital starts with either a free Granary or free Shrine to Erastil (Kingdom's choice).
+- The Kingdom gets a +1 circumstance bonus to Gather Livestock and Harvest Crops.
+- The DC to Establish Farmland on Hills terrain is reduced by 2.
+
+Terms:
+- The Kingdom cannot be Chaotic or Evil. Worship of Erastil must be allowed in the Kingdom.
+- If the Kingdom has official religions, Erastil must be among them.
+- The Kingdom must be Trained in Agriculture and Wilderness.
+- The Kingdom must celebrate Planting Week, Archer's Day, and Harvest Feast as Holidays.
+- Each Settlement must build either a Park or Sacred Grove prior to growing into a City.
+- 
+**Special Offer**: 
+- The Church of Erastil will send the Kingdom 10 RP 2 turns after the Temple of the Elk is restored.
+- If the Kingdom builds a settlement in that hex, the Church of Erastil will upgrade the Temple of the Elk into a Temple for free on the 1 year anniversary of that settlement being founded. (Ignoring all requirements)
+
+Terms: 
+- The Kingdom will restore the Temple of the Elk within 6 months of claiming its hex. (negotiable but only on the timeframe)
+
+## House Surtova
+**Lesser Offer**:
+- 20 RP on the Kingdom's first turn and 15 RP each season for the first year. (Every 3 turns, 4 times total.)
+- 6 Commodities of the Kingdom's choice, no more than 2 of any individual Commodity on the Kingdom's 1st turn.
+- The Kingdom starts with Diplomatic Relations with House Surtova.
+- If the Kingdom attempts to Establish Trade Agreement with House Surtova, the result is increased one degree of success.
+- The Kingdom's Capital starts with a free Noble Villa. (for Radomir Surtova and his Wife. While it's for them it still meets the Kingdom's Residential requirements for Turn 1).
+
+**Lesser Terms**:
+- Accept No Offer from House Orlovsky.
+- Officially recognize King Noleski Surtova as the rightful ruler of Brevoy.
+- Grant Radomir Surtova a Leadership role, General or Emissary preferred
+
+**Greater Offer**: As Lesser, but in addition:
+- Free Barracks in the Capital at Kingdom Start.
+- Free Garrison (upgraded from Barracks if possible) in the Capital when the Capital has grown into a City.
+- Free ARMY with Upkeep provided by Surtova when the Capital has grown into a City.
+- After a period of 5 years, during which the Kingdom has demonstrated sufficient loyalty to Brevoy and House Surtova, King Noleski Surtova will elevate the rulers of the kingdom to true nobility in the eyes of the gods and the great houses of Brevoy.
+
+Greater Terms: As Lesser, but in addition:
+- Swear fealty to Brevoy and its King, Noleski Surtova
+
+## House Lodovka
+Acceptance Deadline: The end of the week.
+
+**Lesser Offer**:
+- 2 Food Commodities on the Kingdom's first turn.
+
+Lesser Terms:
+- House Surtova's Lesser offer is accepted in full. (non-negotiable)
+
+**Greater Offer**: As Lesser, but in addition:
+- The Kingdom Starts with Diplomatic Relations with House Lodovka.
+- If the Kingdom attempts to Establish Trade Agreement with House Lodovka, the result is increased one degree of success.
+- For the Kingdom's first year (12 turns) after a Trade Agreement with House Lodovka is established, when the Kingdom Manages Trade Agreements with House Lodovka, increase the RP gained by 2.
+
+Greater Terms: As Lesser, but in addition:
+- Lord Uthred Lodovka is granted a Leadership Position, preferably Warden
+
+# Relevant Sessions
+```dataview
+LIST FROM "Sessions"
+WHERE contains(file.outlinks, this.file.link)
+SORT file.ctime
+```

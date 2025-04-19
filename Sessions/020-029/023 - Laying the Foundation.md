@@ -65,7 +65,7 @@ We continue laying the groundwork for our kingdom soon-to-be, meeting with Lady 
 >		- he wants him to set up a "Sapling" branch there, they will want to smuggle people through
 >			- could attract the attention of Hellknights
 
-#### Next day, 24th of Pharast
+#### 24th of Pharast, Starday
 - staying in Aldori manor, breakfast in the main hall
 - Ioseph Sellemius arrives
 	- has the charter for us to sign
@@ -73,4 +73,3 @@ We continue laying the groundwork for our kingdom soon-to-be, meeting with Lady 
 - Hedera tries to give herself a tattoo... without much success
 
 ## Quests Progressed
-- [[Cleaning Up the Greenbelt]]
