@@ -16,7 +16,6 @@ FROM "NPCs" AND #greenbelt-bandits
 ## Other Members
 - **Happs Bydon** -- *deceased*, minor leader, originally from the now extinct town of [[Glenwine]] (which he potentially sold out)
 - **Rex** -- minor bandit, captured at [[Oleg's Trading Post]], helped the group locate Kressle, the group released him for his cooperation
-- **Kressle** -- lieutenant
 - **Akiros** -- lieutenant
 -  **Auchs** -- lieutenant
 - **Dovan** -- lieutenant

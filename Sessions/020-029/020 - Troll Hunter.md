@@ -45,9 +45,9 @@ The party is headed towards Nettle's Crossing before going back to Oleg's, and u
 		- would like to tag along with us to Oleg's
 - we set up camp, the watches are quiet
 
-**at the fort**
-- Hedera and Valerie repair the gate
-- Hedera went off to recruit the kobolds -- promised to pay them in gold for their help
+> **at the fort**
+> - Hedera and Valerie repair the gate
+> - Hedera went off to recruit the kobolds -- promised to pay them in gold for their help
 
 ## Quests Progressed
 - [[Cleaning Up the Greenbelt]]

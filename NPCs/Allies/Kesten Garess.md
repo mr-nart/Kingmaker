@@ -1,7 +1,7 @@
 ---
 desc:
 aliases:
-  - Kesten
+  - 
 ---
 #garess
 >[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Oleg's Trading Post]]
@@ -12,7 +12,7 @@ aliases:
 
 - **He/Him** -- Human -- Adult
 
->**Kesten Garess** is a member of [[Brevic Noble Houses#House Garess]] who appears to have helped organize the expeditions into the [[Stolen Lands]] alongside Lady [[Jamandi Aldori]].
+>**Kesten Garess** is an exiled member of [[Brevic Noble Houses#House Garess]] who helped organize the expeditions into the [[Stolen Lands]] alongside Lady [[Jamandi Aldori]].
 
 ## Traits
 Old scar on the right side of his face.

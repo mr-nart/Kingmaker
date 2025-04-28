@@ -2,7 +2,7 @@
 cssclasses:
   - tables-wide
 ---
-
+#stolen-lands
 >**Verdanti** is the barony formed from the charter provided to our party by Lady [[Jamandi Aldori]].
 
 > [!caption|right wm-sm]
@@ -27,12 +27,13 @@ While [[Archibald M. F. Legralte]] stands as the chief diplomatic officer, Verda
 
 The council currently consists of:
 - [[Archibald M. F. Legralte]]
-- [[Celestine Orlovsky]]
 - [[Caidaranel Novori]]
-- [[Liosa Fenrie]]
-- [[Linzi]]
+- [[Celestine Orlovsky]]
 - [[Garrett Goodword]]
 - [[Hedera Wildbow]]
+- [[Liosa Fenrie]]
+- [[Linzi]]
+- [[Valerie]]
 
 # Notable Locations
 ```dataview

@@ -4,7 +4,7 @@ aliases:
   - Tartuk
 ---
 #pitax
->[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Kobold Warrens]]
+>[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Oak Top Silver Mine]]
 
 >[!note|no-i bg-c-red] :FasUser: Pitaxian Spy -- DECEASED
 
@@ -22,7 +22,7 @@ Alternate form: purple kobold, went by the name of "Tartuk".
 ## Motivations
 He is almost certainly a spy from [[Pitax]] given that he framed [[Caidaranel Novori|Caine]] after the [[Black Tears]]' attack on Aldori Manor.
 
-Was trying to perform some kind of ritual in the [[Kobold Warrens]] -- something to do with The First World / Fey?
+Was trying to perform some kind of ritual in the [[Oak Top Silver Mine]] -- something to do with The First World / Fey?
 
 ## Affiliations
 - possible affiliation with the [[Black Tears]]

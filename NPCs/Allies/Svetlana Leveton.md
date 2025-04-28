@@ -1,12 +1,12 @@
 ---
 desc: Oleg's wife
 aliases:
-  - Svetlana
+  - 
 ---
 #greenbelt #olegs-trading-post
 >[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Oleg's Trading Post]]
 
->[!note|no-i bg-c-green] :FasUser: Friendly?
+>[!note|no-i bg-c-green] :FasUser: Friendly
 
 - **She/Her** -- Human -- Adult
 

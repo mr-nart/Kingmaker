@@ -1,12 +1,11 @@
 ---
 desc:
 aliases:
-  - Hannis
 ---
-#uncategorized
+#iron-wraiths
 >[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Restov]]
 
->[!note|no-i bg-c-gray] :FasUser: Unknown
+>[!note|no-i bg-c-gray] :FasUser: Indifferent?
 
 ![|right|250](https://2e.aonprd.com/Images/Monsters/HannisDrelev.png)
 
@@ -20,4 +19,4 @@ aliases:
 
 
 ## Affiliations
-- 
+- teamed up with the [[Iron Wraiths]]

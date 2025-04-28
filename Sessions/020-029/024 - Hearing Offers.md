@@ -21,9 +21,9 @@ Hedera and the kobolds make more progress at the fort. The group in Restov takes
 >```
 
 ## Log
-**Hedera & Valerie**
-- kobolds gather supplies and dig a room (warren) into the storage tunnel below the fort
-- tattoo practice
+> **Hedera & Valerie**
+> - kobolds gather supplies and dig a room (warren) into the storage tunnel below the fort
+> - tattoo practice
 
 **Meeting: Evan Garess + Toval Golka**
 - offers starting resources + mining labor in exchange for exclusivity for mineral rights

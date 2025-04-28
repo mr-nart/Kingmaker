@@ -1,7 +1,7 @@
 ---
 desc: Current Lord Mayor of Nivakta's Crossing
 aliases:
-  - Irven
+  - 
 ---
 #nivaktas-crossing
 >[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Nivakta's Crossing]]

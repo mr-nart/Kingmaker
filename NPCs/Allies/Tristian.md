@@ -1,7 +1,7 @@
 ---
 desc: A follower of Sarenrae
 aliases:
-  - Tristian
+  - 
 ---
 #uncategorized
 >[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Oleg's Trading Post]]

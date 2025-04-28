@@ -10,4 +10,6 @@ So witnessed on this 24th day of Calistril, under watchful eye of the Lordship o
 Written in Sakvroth. Makes mention of some kind of patron. Need to seek out someone to translate.
 Describes how [[Tartuccio]] came to revere [[King Irovetti]], "the gambler king". He respected him as a man who wasn't afraid to take what he deserved -- the kind of person Tartuccio wanted to emulate.
 
+No mention of his involvement with the [[Black Tears]].
+
 Tartuccio had re-imagined himself as an adventurer. His plan was to gain hold of part of the Stolen Lands to impress the King. He meant to infiltrate the Sootscale Kobolds and use them as his army against The Staglord. In addition, the kobolds held [[Notable Items#Gnarled Fey Sticks?|a key to a specific artifact Tartuccio was looking for]].

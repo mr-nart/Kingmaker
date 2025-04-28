@@ -10,35 +10,69 @@ desc: Rostlandic frontier capital to the south, borders the Stolen Lands
 > [!caption|right wm-sm]
 >```leaflet
 >id: restov-map
->image: [[restov map.jpg]]
->lat: 48
->long: 46
->minZoom: 0
+>image: [[restov map.png]]
+>bounds: [[0, 0], [752, 1063]]
+>unit: feet
+>scale: 4
+>lat: 400
+>long: 532
+>minZoom: -1
 >maxZoom: 10
->defaultZoom: 8.25
+>defaultZoom: -1
 >zoomDelta: 0.25
 >height: 330px
 >lock: true
 >```
 
-## Aldori Manor
+## Districts
+The heart of town is *The Red Table Square (15)*. At its center is a platform where duels are often held.
+
+On the west side of the city are slums known collectively as the *Dwarven District (18)*, though there are few dwarves that actually live in the area.
+
+The *Market District (16)* is nearby, with various shops and outdoor stalls lining the streets.
+
+*The Aldori Wheel (3)* sits on the other side of the city. Legend has it that this landmark is the location where [[Historical Figures#Baron Sirian Aldori]] defeated the ruling bandit lord to take control of the region. Around this site are shops which are more boutique and artisanal in comparison to those in the Market District.
+
+Just north of the docks is the *Upscale District (28)*. The capitol's wealthy live here.
+
+Situated in the docks is the *Riverside District (26)*, home to a variety of minor dueling schools.
+
+## Temples
+- *The Temple of Erastil (2)*
+- *The Temple of Abadar (6)* is a large, grand building ornately decorated in white and gold. Much of the building is dedicated to business and commerce. A small chapel is located in the building's rear.
+- *Sarenrae's Almshouse (20)*
+- *Cayden's Keg* is an alehouse that also serves as the city's "place of worship" to [[Deities#Cayden Cailean]]. Led by **Gilford Forhopple**.
+
+## Inns / Taverns
+- *Ludavenko's Assembly Palace (12)* is a tavern that serves a high-end clientele. It's known for its VIP section.
+- *The Bear and Pitch Inn* is a rustic dining hall on the outskirts of the city.
+- *The Silver Moon Inn (17)* is a small inn. Standard affair, nothing particular of note.
+- *The Smokehouse (19)* is an inn which largely is visited by Dwarves. A smoky aroma fills the air.
+- *Oppen's Common House (23)* is a halfling-run in. Unsurprisingly, it has only 4-foot ceilings. Lodging here is generally cheap due to the smaller accommodations.
+
+## Town Hall (5)
+
+## Aldori Manor (1)
 Sat upon a hilltop, the manor is a large stone building surrounded by oak trees and well-kept rose gardens. There are guard barracks (two stories) as well as some small cottages on site.
 
-## Aldori Academy
+## Aldori Academy (13)
 The main training site of the [[Aldori Swordlords]], widely regarded as the region's finest war college.
 
-## Birchwood Hall
+## Surtova Manor (11)
+[[Brevic Noble Houses#House Surtova]]'s satellite base of operations in Restov.
+
+## Birchwood Hall  (8)
 The two-story lodge serving as the hub for the local branch of the Pathfinder Society. Though these headquarters see little use, they do still maintain a sporadic schedule of lectures.
 
 Notable members include:
 - **Jubilost Narthropple** -- gnome, "noted historian and mapmaker"
 - **Negant Warthropple** -- gnome, "assistant adjutant venture-captain pro tempore"
 
-## Docks
-Multiple warehouses, including one for *Goodword's Greater Goods*, run by [[Garrett Goodword]].
+## Restov Trading House (14)
+A trading house blessed by Abadar.
 
-## The Silver Moon Inn
-The inn that [[Caidaranel Novori|Caine]] stayed at briefly while investigating the [[Black Tears]] prior to Lady [[Jamandi Aldori]]'s soiree.
+## Giulgud Trading House (22)
+A trading house which is more "rough-and-tumble" in comparison to the Restov Trading House.
 
 # Notable Inhabitants
 ```dataview

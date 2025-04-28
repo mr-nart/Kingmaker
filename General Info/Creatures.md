@@ -1,10 +1,14 @@
-![|right p+c hsmall|200](https://2e.aonprd.com/Images/Monsters/Gremlin_Mitflit.png)
 ## Mitflits
-**Mitflits** (or "mites") are fey beings, described as short, grotesque, blue-skinned creatures. The party has encountered one group of them living in [[The Old Sycamore]] in the Greenbelt, led by Queen Ba-dah.
+![|right|140](https://2e.aonprd.com/Images/Monsters/Gremlin_Mitflit.png)**Mitflits** (or "mites") are fey beings described as short, grotesque, blue-skinned creatures. The party has encountered one group of them living in [[The Old Sycamore]] in the Greenbelt, led by *Queen Ba-dah*.
 
-Of note, this group was in possession of one of the [[Notable Items#Gnarled Fey Sticks?]] with the stated purpose of keeping it safe. It is unknown who bestowed this responsibility on the mitflits.
+Of note, this particular group was in possession of one of the [[Notable Items#Gnarled Fey Sticks]] with the stated purpose of keeping it safe. It is unknown who or what bestowed this responsibility on the mitflits. They originally had a contentious relationship with the [[Sootscale Kobolds]], but our group brokered a tenuous peace for the time being -- however it's important to note that this truce was established on the basis of a small lie...
 
-## Sootscale Kobolds
-The **sootscale kobolds** are a group of charcoal-colored kobolds living in the [[Kobold Warrens|remnants of the Oak Top Silver Mine]], led by Chief Sootscale. Their mythology includes the worship of a winged hero named Old Sharp Tooth, though recent events involving a false prophet named [[Tartuccio|Tartuk]] may have sullied that traditional faith.
+## Twigjacks
+![|right|170](https://images.demiplane.com/compendium/pathfinder-2e/wardens-of-the-wildwood-pactbreaker/W5sdeUoUC5MGEA4d/03-16-PZO90201%20TWIGJACK%20BRAMBLE.png?width=400?format=webp&width=3840)**Twigjacks** are fey beings with spindly wooden bodies. From a distance, they could almost be confused for fallen branches. However, much unlike tree branches, twigjacks are known to be aggressive, spraying a mass of splinters when threatened. They appear to be intelligent with the ability to understand language.
 
-Other notable members include Mikmek, a pleasant kobold our party saved from the mitflits living under a nearby Sycamore Tree, and Nakpik, who accompanied us to broker a truce with the mitflits.
+There are some twigjacks to be found in the Narlmarch Forest.
+
+## Nixies
+![|right|170](https://2e.aonprd.com/Images/Monsters/Nixie.png)**Nixies** are aquatic fey beings with blue skin and long, webbed digits. In terms of power, they have magical abilities that are somewhat comparable to those of an average human spellcaster. They are partial to good stories.
+
+*Melianse* is one nixie known to [[Hedera Wildbow|Hedera]]. Hedera managed to keep the relationship cordial for now, but they are definitely not allies.

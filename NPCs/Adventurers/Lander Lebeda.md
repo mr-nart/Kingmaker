@@ -1,7 +1,6 @@
 ---
 desc: A "black sheep" of House Lebeda, led a failed expedition into the Stolen Lands
 aliases:
-  - Lander
 ---
 #lebeda
 >[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Restov]]

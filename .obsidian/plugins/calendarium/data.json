@@ -13,7 +13,7 @@
       "showIntercalarySeparately": true,
       "static": {
         "displayDayNumber": true,
-        "firstWeekDay": 2,
+        "firstWeekDay": 6,
         "incrementDay": false,
         "displayMoons": false,
         "overflow": true,
@@ -272,10 +272,12 @@
             "category": null,
             "isStartingEra": false
           }
-        ]
+        ],
+        "years": [],
+        "useCustomYears": false
       },
       "current": {
-        "day": 25,
+        "day": 27,
         "month": 2,
         "year": 4710
       },
@@ -290,7 +292,7 @@
           },
           "id": "ID_e918c9f91a7a",
           "note": "Sessions/000 - 009/004 - Trek to Oleg's.md",
-          "category": null,
+          "category": "historical-events",
           "sort": {
             "timestamp": 5e-324,
             "order": ""
@@ -307,7 +309,7 @@
           },
           "id": "ID_f8d8b82a7a39",
           "note": "Sessions/010 - 019/017 - Down with the Staglord.md",
-          "category": null,
+          "category": "historical-events",
           "sort": {
             "timestamp": 5e-324,
             "order": ""

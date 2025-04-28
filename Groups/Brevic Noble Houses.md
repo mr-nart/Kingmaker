@@ -51,7 +51,9 @@ sort file.name
 ## House Orlovsky
 > [!quote] High Above
 
-Controls northeastern Brevoy from Eagle's Watch on Mount Veshka. Has a reputation for avoiding political conflicts, however they were staunch allies of the now disappeared House Rogarvia. The family's crest is a black eagle with wings spread in front of a gold field. Typically worshippers of [[Deities#Iomedae]]?
+Controls northeastern Brevoy from Eagle's Watch on Mount Veshka. Has a reputation for avoiding political conflicts, however they were staunch allies of the now disappeared House Rogarvia. The family's crest is a black eagle with wings spread in front of a gold field. Typically worshippers of [[Deities#Iomedae]].
+
+They are a militant family that are well-known for producing champions. From [[Celestine Orlovsky|Celestine]]'s point of view, they lean too heavily towards martial law.
 ```dataview
 TABLE WITHOUT ID file.link AS "Name", desc AS "Description"
 FROM ("NPCs" OR "Player Characters") AND #orlovsky

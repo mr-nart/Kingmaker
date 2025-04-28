@@ -21,7 +21,7 @@ The group takes more meetings with the Church of Erastil, House Surtova, and Hou
 >```
 
 ## Log
-#### 25th of Pharast, Sunday
+#### 25th of Pharast, Oathday
 **Bear and Pitch Inn** (rustic dining hall on the outskirts of Restov)
 - Father [[Wochek Colehout]], young man early 30s, brown straight bowl cut, secretly jacked, impressive longbow
 	- thankful for our work in the Greenbelt
@@ -33,9 +33,9 @@ The group takes more meetings with the Church of Erastil, House Surtova, and Hou
 - also dropped the info that Aldori is lending us some swordsmen
 - they dap up (it was okay)
 
-**Hedera & Valerie**
-- some bandits(?) are attacking from across the river bank? seem to be former Staglord bandits
-	- the kobolds + them take the bandits out
+> **Hedera & Valerie**
+> - some bandits(?) are attacking from across the river bank? seem to be former Staglord bandits
+> 	- the kobolds + them take the bandits out
 
 **Surtova Manor**
 - Lord [[Suvarion Surtova]], brother [[Radamir Surtova]], brother's wife [[Nadya Surtova]]

@@ -1,7 +1,6 @@
 ---
 desc: A preist of Erastil
 aliases:
-  - Jhod
 ---
 #galt
 >[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Oleg's Trading Post]]

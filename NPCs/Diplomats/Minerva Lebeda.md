@@ -1,12 +1,12 @@
 ---
 desc: Trusted ally of Lady Aldori, not in the direct line of succession of House Lebeda
 aliases:
-  - Minerva
+  - 
 ---
 #lebeda #restov 
 >[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Restov]]
 
->[!note|no-i bg-c-gray] :FasUser: Unknown
+>[!note|no-i bg-c-yellow] :FasUser: Friendly?
 
 - **She/Her** -- Human -- Young adult
 

@@ -34,6 +34,20 @@
         "a": 1,
         "rgb": 16727470
       }
+    },
+    {
+      "query": "path:Quests",
+      "color": {
+        "a": 1,
+        "rgb": 12652560
+      }
+    },
+    {
+      "query": "path:\"Minor Locations\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16916
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.46101453564117006,
+  "scale": 0.23454662443224902,
   "close": true
 }

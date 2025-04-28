@@ -21,9 +21,9 @@ We continue laying the groundwork for our kingdom soon-to-be, meeting with Lady 
 >```
 
 ## Log
-**Hedera & Valerie**
-- Pikmek & Chief Sootscale + 12 others arrive at Tuskwater Fort on *20th of Pharast*, they agree to Hedera's terms, will assist with whatever is requested
-	- Hedera's putting them to work at repairing fences, clearing up the tunnel, cleaning up the place, scavenging resources (they can keep 10%)
+> **Hedera & Valerie**
+> - Pikmek & Chief Sootscale + 12 others arrive at Tuskwater Fort on *20th of Pharast*, they agree to Hedera's terms, will assist with whatever is requested
+> 	- Hedera's putting them to work at repairing fences, clearing up the tunnel, cleaning up the place, scavenging resources (they can keep 10%)
 
 **Garrett**
 - checks in on his warehouse at the docks, things seem to be going fine, needs to catch up on paperwork
@@ -65,7 +65,7 @@ We continue laying the groundwork for our kingdom soon-to-be, meeting with Lady 
 >		- he wants him to set up a "Sapling" branch there, they will want to smuggle people through
 >			- could attract the attention of Hellknights
 
-#### 24th of Pharast, Starday
+#### 24th of Pharast, Wealday
 - staying in Aldori manor, breakfast in the main hall
 - Ioseph Sellemius arrives
 	- has the charter for us to sign

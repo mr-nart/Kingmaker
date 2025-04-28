@@ -1,7 +1,6 @@
 ---
 desc:
 aliases:
-  - 
 ---
 #uncategorized
 >[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Restov]]

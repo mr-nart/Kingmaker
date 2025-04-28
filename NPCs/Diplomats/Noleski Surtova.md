@@ -1,7 +1,7 @@
 ---
 desc: King of Brevoy following the disappearance of House Rogarvia
 aliases:
-  - Noleski
+  - 
 ---
 #new-stetven #surtova
 >[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[New Stetven]]

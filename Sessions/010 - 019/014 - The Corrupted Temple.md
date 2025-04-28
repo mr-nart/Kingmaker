@@ -21,7 +21,7 @@ September 14th, 2024
 >```
 
 ## Log
-#### **8th of Pharast**, Oathday
+#### **8th of Pharast**, Moonday
 - blizzard continues, fog approaching
 - Garrett able to read Tartuccio's journal and share the information with Kesten
 - Old Bokken arrived at Oleg's
@@ -38,7 +38,7 @@ September 14th, 2024
 		- Jhod's visions show the way to the temple somewhat infested with large dangerous frogs?
 		- (we'll plan to pick up our loot at the Thornriver camp on the way)
 
-#### **9th of Pharast**, Fireday
+#### **9th of Pharast**, Toilday
 - 38F, blizzard continues to let up, still lots of snow on the ground
 - start making our way towards the Thornriver camp -> Temple of Elk
 	- Irenna seems like she might know the way... she may have been there before + the Staglord wanted her to burn down an abandoned house there???
@@ -49,7 +49,7 @@ September 14th, 2024
 	- looks like there has definitely been additional foot traffic here since we left...
 		- one male humanoid's footprints, soft leather boots, seemed like they wandered aimlessly first before going westward
 
-#### **10th of Pharast**, Starday
+#### **10th of Pharast**, Wealday
 - during the night, wolves howling in the distance but none approach the camp
 
 **Abandoned Hut**

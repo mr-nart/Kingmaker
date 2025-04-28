@@ -21,7 +21,7 @@ A cold front has hit, bringing heavy snowfall. As we approached [[Oleg's Trading
 >```
 
 ## Log
-#### **7th of Pharast**, Wealday
+#### **7th of Pharast**, Sunday
 - 27 F, overcast, fog proceeding northward behind us
 - "you hear a peel of thunder... no rain yet"
 - travelling through the forest
@@ -58,7 +58,7 @@ A cold front has hit, bringing heavy snowfall. As we approached [[Oleg's Trading
 - "The land is being choked. The fog stifles what little is left. please, if you have the strength, i urge you to stop what the Staglord and his servant druid have been doing. They seem to have somehow corrupted my power. They're turning the land against itself. If you wish to undo their spell upon the land, I urge you to seek out Erastil's blessing. It's the only way that you'll be able to break this spell."
 	- "The temple of the Elk - an ancient place sotted with Erastil's power. The priest - the bald one - he knows the way. He can guide you."
 
-#### **8th of Pharast**, Oathday
+#### **8th of Pharast**, Moonday
 - still snowing
 - Svetlana's making some oatmeal
 

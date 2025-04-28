@@ -1,173 +1,9 @@
 {
   "mapMarkers": [
     {
-      "id": "stolen-lands-map",
-      "locked": true,
-      "lastAccessed": 1736568895274,
-      "markers": [
-        {
-          "id": "ID_5b5bf8e9bbab",
-          "type": "Building",
-          "loc": [
-            -1.1832990715768208,
-            4.070283341770107
-          ],
-          "link": "Oleg's Trading Post",
-          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.6315106275716045,
-            0.2884995831653963
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_68c85b0ba8c9",
-          "type": "Dungeon",
-          "loc": [
-            -1.7296875715255737,
-            4.141406297683716
-          ],
-          "link": "Kobold Warrens",
-          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.6425454619436552,
-            0.42171430315290176
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_58280838686a",
-          "type": "Dungeon",
-          "loc": [
-            -1.635156273841858,
-            4.082812547683716
-          ],
-          "link": "The Old Sycamore",
-          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.6334545528527462,
-            0.3986666724795387
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_0a58694aca78",
-          "type": "Building",
-          "loc": [
-            -1.2185546159744263,
-            4.8125
-          ],
-          "link": "Fort Serenko",
-          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_b93a59385b8b",
-          "type": "Dungeon",
-          "loc": [
-            -1.55859375,
-            3.956249952316284
-          ],
-          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.6138181744199811,
-            0.38
-          ],
-          "description": "gold nugget cave",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_791829d8fa1a",
-          "type": "Monument",
-          "loc": [
-            -1.638498943954485,
-            3.4250484713723397
-          ],
-          "link": "Temple of Elk",
-          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5314014598007993,
-            0.39948164728795066
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_3bd90b883b5a",
-          "type": "Settlement, minor",
-          "loc": [
-            -1.5602570204902908,
-            3.60994203267122
-          ],
-          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "kressle's encampment",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_598bebf8fa58",
-          "type": "Settlement, minor",
-          "loc": [
-            -1.887024327138717,
-            4.027510034013122
-          ],
-          "link": "Tuskwater Fort",
-          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "Atlas.md",
-        "Major Locations/Greenbelt.md",
-        "Major Locations/Verdanti.md",
-        "Major Locations/Stolen Lands.md"
-      ]
-    },
-    {
       "id": "brevoy-map",
       "locked": true,
-      "lastAccessed": 1736568916204,
+      "lastAccessed": 1745818789168,
       "markers": [
         {
           "id": "ID_5a799a5a5af9",
@@ -213,16 +49,16 @@
           "id": "ID_eb9acaf8a989",
           "type": "Settlement, major",
           "loc": [
-            360.4082087101665,
-            340.39485862985487
+            357.6000061035156,
+            340
           ],
           "link": "Port Ice",
           "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            138.9809949110731,
-            -217.3486488334573
+            138.81977671451355,
+            -215.6551273557126
           ],
           "description": null,
           "minZoom": null,
@@ -284,14 +120,17 @@
           "id": "ID_09f848183839",
           "type": "Settlement, minor",
           "loc": [
-            346.1000061035156,
-            578.1000061035156
+            342,
+            578.800048828125
           ],
           "link": "Skywatch",
           "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            236.32027511961724,
+            -206.24734982332154
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -393,7 +232,7 @@
         },
         {
           "id": "ID_2b4a7bb9fabb",
-          "type": "Building",
+          "type": "Building, major",
           "loc": [
             36,
             558.3999633789062
@@ -433,8 +272,555 @@
       "shapes": [],
       "files": [
         "Atlas.md",
-        "Major Locations/Brevoy.md",
-        "z_templates/major location template.md"
+        "Major Locations/Brevoy.md"
+      ]
+    },
+    {
+      "id": "stolen-lands-map",
+      "locked": true,
+      "lastAccessed": 1745818789168,
+      "markers": [
+        {
+          "id": "ID_5b5bf8e9bbab",
+          "type": "Building, major",
+          "loc": [
+            -1.1832990715768208,
+            4.070283341770107
+          ],
+          "link": "Oleg's Trading Post",
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6315106275716045,
+            0.2884995831653963
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_68c85b0ba8c9",
+          "type": "Dungeon",
+          "loc": [
+            -1.7296875715255737,
+            4.141406297683716
+          ],
+          "link": "Oak Top Silver Mine",
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6425454619436552,
+            0.42171430315290176
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58280838686a",
+          "type": "Dungeon",
+          "loc": [
+            -1.635156273841858,
+            4.082812547683716
+          ],
+          "link": "The Old Sycamore",
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6334545528527462,
+            0.3986666724795387
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b93a59385b8b",
+          "type": "Dungeon",
+          "loc": [
+            -1.55859375,
+            3.956249952316284
+          ],
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6138181744199811,
+            0.38
+          ],
+          "description": "*Gold Nugget Cave",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_791829d8fa1a",
+          "type": "Monument",
+          "loc": [
+            -1.638498943954485,
+            3.4250484713723397
+          ],
+          "link": "Temple of the Elk",
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5314014598007993,
+            0.39948164728795066
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3bd90b883b5a",
+          "type": "Settlement, minor",
+          "loc": [
+            -1.5602570204902908,
+            3.60994203267122
+          ],
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "*Kressle's Encampment",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_598bebf8fa58",
+          "type": "Settlement, minor",
+          "loc": [
+            -1.887024327138717,
+            4.027510034013122
+          ],
+          "link": "Tuskwater Fort",
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a87b3a0aa9fa",
+          "type": "Building, minor",
+          "loc": [
+            -1.2141176956180089,
+            4.809088538306902
+          ],
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "*Fort Sorenko",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Atlas.md",
+        "Major Locations/Stolen Lands.md",
+        "Major Locations/Greenbelt.md",
+        "Major Locations/Verdanti.md"
+      ]
+    },
+    {
+      "id": "restov-map",
+      "locked": true,
+      "lastAccessed": 1745818789168,
+      "markers": [
+        {
+          "id": "ID_abeb39c93989",
+          "type": "Monument",
+          "loc": [
+            407.79998779296875,
+            530.1000366210938
+          ],
+          "layer": "%5B%5Brestov%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            255.0022087349031,
+            -279.16328275609436
+          ],
+          "description": "*The Red Table Square",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3ae818b9da7a",
+          "type": "Building, major",
+          "loc": [
+            261.6255653005986,
+            274.94462692187545
+          ],
+          "layer": "%5B%5Brestov%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            132.42864438758252,
+            -178.12804445998205
+          ],
+          "description": "*Aldori Manor",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3adb3b3a492b",
+          "type": "Building, major",
+          "loc": [
+            524,
+            418.4000244140625
+          ],
+          "layer": "%5B%5Brestov%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            201.52475305738477,
+            -356.7659574468085
+          ],
+          "description": "*Town Hall",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a88b6a7a1b79",
+          "type": "Building, minor",
+          "loc": [
+            450.29998779296875,
+            530
+          ],
+          "layer": "%5B%5Brestov%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            255.27751646284102,
+            -304.6127825797872
+          ],
+          "description": "*Restov Trading House",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_682b1b08cacb",
+          "type": "Church",
+          "loc": [
+            423,
+            292.39996337890625
+          ],
+          "layer": "%5B%5Brestov%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "*Temple of Erastil",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3be8ea59ea9a",
+          "type": "Church",
+          "loc": [
+            503,
+            479
+          ],
+          "layer": "%5B%5Brestov%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "*Temple of Abadar",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb685bfba94a",
+          "type": "Building, major",
+          "loc": [
+            577,
+            616.5999755859375
+          ],
+          "layer": "%5B%5Brestov%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "*Surtova Manor",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e859fbf9a979",
+          "type": "Building, minor",
+          "loc": [
+            381.20001220703125,
+            803.199951171875
+          ],
+          "layer": "%5B%5Brestov%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "*Giulgud Trading House",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cab848ba78ab",
+          "type": "Building, minor",
+          "loc": [
+            345.60003662109375,
+            824.2000732421875
+          ],
+          "link": "Goodword's Greater Goods",
+          "layer": "%5B%5Brestov%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_dafab8eaabfb",
+          "type": "Settlement, minor",
+          "loc": [
+            502.1832981301231,
+            600.2318509432527
+          ],
+          "layer": "%5B%5Brestov%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "*Market District",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fbfbaa3b8aa9",
+          "type": "Monument",
+          "loc": [
+            389.3350402624699,
+            385.971454601455
+          ],
+          "layer": "%5B%5Brestov%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "*The Aldori Wheel",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8582b3b2a49",
+          "type": "Building, minor",
+          "loc": [
+            365.4000244140625,
+            734.2000122070312
+          ],
+          "layer": "%5B%5Brestov%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "*Oppen's Common House",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_caf9680bb8f9",
+          "type": "Settlement, minor",
+          "loc": [
+            158.39191898578665,
+            553.240362863704
+          ],
+          "layer": "%5B%5Brestov%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "*Riverside District",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_087b79b91bd8",
+          "type": "Settlement, minor",
+          "loc": [
+            287.28272332347075,
+            470.33141398357617
+          ],
+          "layer": "%5B%5Brestov%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "*Upscale District",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b86979f988ea",
+          "type": "Building, minor",
+          "loc": [
+            445,
+            671.2000122070312
+          ],
+          "link": "Restov#The Silver Moon Inn",
+          "layer": "%5B%5Brestov%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "The Silver Moon Inn",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca48882b2819",
+          "type": "Building, minor",
+          "loc": [
+            443.20001220703125,
+            671.2000732421875
+          ],
+          "layer": "%5B%5Brestov%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "*The Silver Moon Inn",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18194948387a",
+          "type": "Settlement, minor",
+          "loc": [
+            491.92440292342303,
+            737.9706734969623
+          ],
+          "layer": "%5B%5Brestov%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "*Dwarven District",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6989dbba8b2b",
+          "type": "Building, minor",
+          "loc": [
+            553.5999755859375,
+            644.800048828125
+          ],
+          "layer": "%5B%5Brestov%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "*Ludivenko's Assembly Palace",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a80aaa69caea",
+          "type": "Church",
+          "loc": [
+            414.08171379949306,
+            786.4442138257256
+          ],
+          "layer": "%5B%5Brestov%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "*Sarenrae's Alms House",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_697a88db185a",
+          "type": "Building, major",
+          "loc": [
+            507.4000244140625,
+            531
+          ],
+          "layer": "%5B%5Brestov%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "*Aldori Academy",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_589968a90a08",
+          "type": "Building, minor",
+          "loc": [
+            535.7040801635792,
+            484.65100508860877
+          ],
+          "layer": "%5B%5Brestov%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            233.43491496271656,
+            -364.73469287733053
+          ],
+          "description": "*Birchwood Hall",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3bf83b49dbc8",
+          "type": "Building, minor",
+          "loc": [
+            416.9164324179429,
+            726.3663645555539
+          ],
+          "layer": "%5B%5Brestov%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            349.8584935582724,
+            -283.857996539876
+          ],
+          "description": "*The Smokehouse",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Minor Locations/Settlements, Large/Restov.md",
+        "Atlas.md"
       ]
     }
   ],
@@ -483,7 +869,23 @@
       "maxZoom": null
     },
     {
-      "type": "Building",
+      "type": "Building, major",
+      "iconName": "school",
+      "color": "#00bfff",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Building, minor",
       "iconName": "store-alt",
       "color": "#4e44d5",
       "alpha": 1,
@@ -501,7 +903,7 @@
     {
       "type": "Church",
       "iconName": "church",
-      "color": "#fff68f",
+      "color": "#fef620",
       "alpha": 1,
       "layer": true,
       "transform": {

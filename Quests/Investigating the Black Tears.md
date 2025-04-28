@@ -25,6 +25,9 @@
 
 ## Rogerio??
 - Surtova's butler in Restov was slyly taking notes on our meeting, trying to peek at our documents, and passing info along to someone with makeup over their cheek???
+	- not clear if the Surtova's are in on it, but it doesn't seem like it
+- Nugget was able to confirm his association with individuals bearing tattoos consistent with those of Black Tears members
+- we discussed this with Lady [[Jamandi Aldori]], they'll try looking into the matter
 
 # Relevant Sessions
 ```dataview

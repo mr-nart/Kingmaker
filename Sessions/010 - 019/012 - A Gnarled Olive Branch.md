@@ -26,7 +26,7 @@ The party had another shared dream, this time with the mysterious figure showing
 - then Oleg's?
 - then Old Bokken's?
 
-#### 6th of Pharast, Toilday
+#### 6th of Pharast, Starday
 - overnight, fog rolls in
 - **DREAM!**
 	- a face... olive-colored, appears to be in horrible pain
@@ -82,7 +82,7 @@ The party had another shared dream, this time with the mysterious figure showing
 		- Caine foraging for foodstuffs
 		- Celestine cooking a hearty meal
 
-#### 7th of Pharast, Wealday
+#### 7th of Pharast, Sunday
 - bitterly cold, fog moving northward, howls / yipping bark in the distance overnight, getting closer
 - thylacines, seems like the cave was their lair? attacked overnight
 	- we kicked their butt, got some pelts and meat from them

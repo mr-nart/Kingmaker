@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "2ec7bb7a7fff7875",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "3f479f09bd124131",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/020-029/025 - Nugget the Spy.md",
+                "file": "027 -.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "025 - Nugget the Spy"
+              "title": "027 -"
             }
           }
         ]
@@ -63,31 +63,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "784090149a814113",
+            "id": "f90b21c530d44383",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
               "state": {
                 "calendar": "ID_0af9d9f939c9",
                 "ephemeral": {
-                  "viewing": {
-                    "day": 13,
-                    "month": 2,
-                    "year": 4710
-                  },
                   "viewState": 1,
                   "displaying": {
-                    "day": 8,
+                    "day": 27,
                     "month": 2,
                     "year": 4710
                   },
                   "displayDayNumber": true,
-                  "hideEra": true,
-                  "displayAbsoluteYear": true,
-                  "displayMoons": false,
-                  "displayWeeks": false
+                  "displayMoons": false
                 },
-                "id": "ID_ebca881bd89b"
+                "id": "ID_7899f938eb09"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -99,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Info/Creatures.md",
+                "file": "027 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +101,21 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Creatures"
+              "title": "Backlinks for 027 -"
+            }
+          },
+          {
+            "id": "286d345b37bcc24e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "027 -.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 027 -"
             }
           },
           {
@@ -119,7 +125,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -131,45 +139,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "286d345b37bcc24e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "General Info/Creatures.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Creatures"
-            }
-          },
-          {
-            "id": "83b945e5fc2565df",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_0af9d9f939c9",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 25,
-                    "month": 2,
-                    "year": 4710
-                  },
-                  "displayDayNumber": true,
-                  "displayMoons": false
-                },
-                "id": "ID_3b0b0948d868"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ]
@@ -184,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/020-029/025 - Nugget the Spy.md",
+                "file": "027 -.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 025 - Nugget the Spy"
+              "title": "Outline of 027 -"
             }
           },
           {
@@ -240,40 +211,42 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3f479f09bd124131",
   "lastOpenFiles": [
-    "Sessions/020-029/024 - Hearing Offers.md",
-    "Sessions/020-029/023 - Laying the Foundation.md",
-    "Sessions/020-029/025 - Nugget the Spy.md",
-    "Sessions/020-029/022 - Back to Civilization.md",
-    "Sessions/020-029/020 - Troll Hunter.md",
-    "Sessions/020-029/021 - Pit Stop at Oleg's.md",
+    "Goodword's Greater Goods.md",
+    "Atlas.md",
+    "Garrett's Greater Goods.md",
+    "Player Characters/Garrett Goodword.md",
+    "Player Characters/Hedera Wildbow.md",
+    "Player Characters/Archibald M. F. Legralte.md",
     "Home.md",
-    "Quests/Meetings Galore.md",
-    "Sessions/010 - 019/017 - Down with the Staglord.md",
-    "Sessions/000 - 009/004 - Trek to Oleg's.md",
-    "General Info/Documents.md",
+    "027 -.md",
+    "Groups/Sootscale Kobolds.md",
+    "General Info/Creatures.md",
+    "General Info/Six River Freedoms.md",
     "General Info/Notable Items.md",
-    "Quests/Investigating the Black Tears.md",
-    "Minor Locations/Monuments/Temple of the Elk.md",
-    "General Info/Historical Figures.md",
-    "Sessions/000 - 009/000 - Expectations.md",
-    "Sessions/000 - 009/001 - The Feast.md",
-    "Quests/Completed/Cleaning Up the Greenbelt.md",
-    "Quests/A Shared Dream.md",
-    "Minor Locations/Settlements, Tiny/Tuskwater Fort.md",
-    "NPCs/Diplomats/Ioseph Sellemius.md",
-    "Minor Locations/Settlements, Tiny/Kobold Warrens.md",
-    "Minor Locations/Settlements, Tiny/Oleg's Trading Post.md",
-    "Minor Locations/Settlements, Tiny/The Old Sycamore.md",
-    "NPCs/Ekundayo.md",
-    "NPCs/Diplomats/Minerva Lebeda.md",
+    "z_assets/leaf token.png",
     "z_assets/brevoy map.png",
     "z_assets/caine.png",
     "z_assets/exploration charter.png",
     "z_assets/kingmaker banner.webp",
     "z_assets/linzi.png",
-    "z_assets/Pasted image 20240914220841.png",
+    "General Info/Deities.md",
+    "General Info/Documents.md",
+    "General Info/Historical Figures.md",
+    "Major Locations/Verdanti.md",
+    "Minor Locations/Settlements, Tiny/Tuskwater Fort.md",
+    "Major Locations/Greenbelt.md",
+    "Major Locations/Stolen Lands.md",
+    "Major Locations/Brevoy.md",
+    "Groups/Iron Wraiths.md",
+    "Groups/Greenbelt Bandits.md",
+    "Groups/Brevic Noble Houses.md",
+    "Groups/Black Tears.md",
+    "Groups/Aldori Swordlords.md",
+    "NPCs/Allies/Kassil Aldori.md",
+    "NPCs/Retired",
+    "z_assets/restov map.png",
     "z_assets/restov map.jpg",
     "z_assets/stolen lands map.png",
     "Sessions/020-029",
@@ -285,7 +258,6 @@
     "Minor Locations/Settlements, Tiny",
     "Sessions/010 - 019",
     "Sessions/000 - 009",
-    "NPCs/Diplomats",
     "z_assets/Harrim.webp",
     "Untitled.canvas"
   ]

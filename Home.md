@@ -33,13 +33,13 @@ dv.paragraph("![[" + pg.file.name + "#Summary|nlk]]");
 
 >[!recite|right no-i  ws-med static] **-- Active Investigations --**
 >- Writing / zombies in the [[Tuskwater Fort]]?
->- 
+>- Rogerio / Black Tears?
 
 ## Agenda
-- [x] Research Gyronna + greenbelt?
 - [ ] Survey Greenbelt for mineral caches
 	- [ ] Oaktop Silver Mine? May need to make a deal with the kobolds
 	- [ ] gold ore vein
+- [ ] meet with "The Guardian of the Bloom" in the forest
 ---
 >[!note|bg-c-gray]- Recently Edited Files
 ><p></p>
@@ -50,4 +50,3 @@ dv.paragraph("![[" + pg.file.name + "#Summary|nlk]]");
 >SORT file.mtime DESC
 >LIMIT 20
 >```
-

@@ -79,7 +79,7 @@ We finished off the zombies, shadows, and Nugrah. The attack seems to be the wor
 	- Garrett and Hedera bring the body, rolls it into the River
 		- Davick takes the body down beneath the surface
 
-#### **14th of Pharast, Wealday**
+#### **14th of Pharast, Sunday**
 - night passes without incident
 - the morning comes with an overcast sky, 33*
 - in the cellar:

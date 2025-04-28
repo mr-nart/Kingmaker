@@ -16,7 +16,7 @@
 	- we captured him and have his journal
 		- makes mention of some kind of patron?
 - **Tartuccio executed on 5th of Pharast**
-- Lander and Valerie were being held captive in the [[Kobold Warrens]] -- where are the others?
+- Lander and Valerie were being held captive in the [[Oak Top Silver Mine]] -- where are the others?
 	- arguments led to the party splitting up
 		- Jaethal maybe went to go join Maegar Varn's party?
 		- Harrim went to go look for Dwarven ruins?

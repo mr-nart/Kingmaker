@@ -3,7 +3,7 @@
 >This dusty cloak is made of mangy brown-and-gray coyote fur. You gain a +1 item bonus to Survival checks. If you critically succeed at your Survival check to Subsist, you can feed twice as many additional creatures.
 
 #### Gnarled Fey Sticks
->A pair of magical sticks recovered from [[Tartuccio]]. One originally belonged to the [[Creatures#Mitflits]] living in [[The Old Sycamore]], and the other was found inside an artifact originally belonging to the [[Creatures#Sootscale Kobolds]] in the [[Kobold Warrens]]. Unclear what their abilities or purposes are, though they appear to have a strong affinity to one another, and supposedly Tartuccio intended to use them for some kind of ritual. Per Queen Ba-dah of the mitflits, the sticks may be the key to unlocking some kind of "chamber where somebody very powerful has stored a treasure."
+>A pair of magical sticks recovered from [[Tartuccio]]. One originally belonged to the [[Creatures#Mitflits]] living in [[The Old Sycamore]], and the other was found inside an artifact originally belonging to the [[Creatures#Sootscale Kobolds]] in the [[Oak Top Silver Mine]]. Unclear what their abilities or purposes are, though they appear to have a strong affinity to one another, and supposedly Tartuccio intended to use them for some kind of ritual. Per Queen Ba-dah of the mitflits, the sticks may be the key to unlocking some kind of "chamber where somebody very powerful has stored a treasure."
 
 #### Stag's Helm
 >This impressive-looking helmet is crafted to resemble the skull of a mighty stag. Although made from bone, the antlers and helm are as strong as iron. *Stag's helms* are the creation of the church of [[Deities#Erastil]], and worshipers of this deity find that the helm is not only particularly comfortable to wear, but that they can activate it once per hour rather than once per day. While worn, it grants a +1 item bonus to Perception checks.  
@@ -19,7 +19,7 @@
 
 ## **Miscellaneous**
 #### Leaf Token
->![[Pasted image 20240914220841.png|right|60]] A strange leaf with a strange etching on it. Found at the abandoned hut (presumably the former home of [[The Staglord]]) outside the [[Temple of the Elk]].
+>![[leaf token.png|right|60]] A strange leaf with a strange etching on it. Found at the abandoned hut (presumably the former home of [[The Staglord]]) outside the [[Temple of the Elk]].
 
 ---
 # Archived

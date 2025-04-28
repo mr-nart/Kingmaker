@@ -1,12 +1,12 @@
 ---
 desc: The owner and proprietor of Oleg's Trading Post
 aliases:
-  - Oleg
+  - 
 ---
 #greenbelt #olegs-trading-post #merchant 
 >[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Oleg's Trading Post]]
 
->[!note|no-i bg-c-green] :FasUser: Friendly?
+>[!note|no-i bg-c-green] :FasUser: Friendly
 
 - **He/Him** -- Human -- Adult
 

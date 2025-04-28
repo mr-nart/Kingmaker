@@ -4,7 +4,7 @@ num: 10
 August 4th, 2024
 
 ## Summary
-The party made it to the [[Kobold Warrens]] where we apprehended [[Tartuccio]], disguised as a purple kobold named Tartuk, with the help of Mikmek and chief Sootscale. We recovered what appears to be Tartuccio's journal, though it's written in Undercommon. [[Lander Lebeda]] and [[Valerie]] were there -- beaten, barely conscious, captive, and likely betrayed by the gnome. No sign of the remainder of their group so far: [[Jaethal]] and [[Harrim]].
+The party made it to the [[Oak Top Silver Mine]] where we apprehended [[Tartuccio]], disguised as a purple kobold named Tartuk, with the help of Mikmek and chief Sootscale. We recovered what appears to be Tartuccio's journal, though it's written in Undercommon. [[Lander Lebeda]] and [[Valerie]] were there -- beaten, barely conscious, captive, and likely betrayed by the gnome. No sign of the remainder of their group so far: [[Jaethal]] and [[Harrim]].
 
 ##
 >[!note|bg-c-gray no-t txt-c]

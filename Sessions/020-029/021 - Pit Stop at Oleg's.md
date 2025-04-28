@@ -32,8 +32,8 @@ The group recovered Davick Nettle's spear. On the way back to Oleg's, we stumble
 	- on the other side, there's a ruined house
 		- some people buried in there
 
-**Valerie & Hedera**
-- still working on securing the fort
+> **Valerie & Hedera**
+> - still working on securing the fort
 
 **The rest of us**
 - on the way to Oleg's, 3m tall tree, charred from the top-down, probably by lightning
@@ -55,7 +55,7 @@ The group recovered Davick Nettle's spear. On the way back to Oleg's, we stumble
 					- spells: dispel magic, illusory object, mystic armor, shrink, unseen servant
 - keep moving a bit and make camp
 
-#### The 16th of Pharast, Fireday
+#### The 16th of Pharast, Toilday
 - night passes uneventfully
 - wind from the southwest
 - make it to Oleg's by late afternoon

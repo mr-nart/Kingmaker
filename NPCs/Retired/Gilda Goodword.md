@@ -1,7 +1,6 @@
 ---
 desc:
 aliases:
-  - Gilda
   - Mayra
 ---
 #uncategorized
@@ -20,4 +19,4 @@ Wears a hood. *Heavy concealing makeup over left cheek.*
 
 
 ## Affiliations
-- [[Garrett Goodword]] -- paternal cousin?
+- [[Garrett Goodword]] -- "paternal cousin"

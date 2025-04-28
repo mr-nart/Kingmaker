@@ -33,6 +33,11 @@
 	- the lock of hair was doing something supernatural that maybe linked to the shadows/zombies that attacked??
 		- blown away in the wind right after the battle...
 
+- The *25th of Pharast*
+	- she says she wants to meet with us to thank us for freeing her, says to come alone
+	- gives us a vision of some location deep in the Narlmarch Forest
+	- honestly a little sketchy...
+
 # Relevant Sessions
 ```dataview
 LIST FROM "Sessions"
