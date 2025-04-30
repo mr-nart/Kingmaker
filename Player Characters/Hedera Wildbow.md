@@ -1,5 +1,6 @@
 ---
 player: Dani
+desc: The only known surviving inhabitant of Glenwine
 aliases:
   - Hedera
 ---
@@ -22,5 +23,5 @@ Seeking to avenge her fallen loved ones.
 - 
 
 ## Notable Items
-- [[Notable Items#Coyote Cloak]]
-- [[Notable Items#Stag's Helm]]
+- [Coyote Cloak](https://2e.aonprd.com/Equipment.aspx?ID=3071)
+- [Stag's Helm](https://2e.aonprd.com/Equipment.aspx?ID=1752)

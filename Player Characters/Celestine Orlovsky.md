@@ -1,5 +1,6 @@
 ---
-Player: Joanna
+player: Joanna
+desc: A champion of Sarenrae, rebelling somewhat against House Orlovsky
 aliases:
   - Celestine
 ---
@@ -26,7 +27,9 @@ Intends to bring order and goodness to the [[Stolen Lands]]. Wants to set up a s
 - [Haggis](https://2e.aonprd.com/CampMeals.aspx?ID=11)
 
 ## Affiliations
-- [[Lander Lebeda]] -- not on good terms??
+- [[Lander Lebeda]] -- not on good terms?
+- [[Kalto Orlovsky]] -- cousin
+- [[Poul Orlovsky]] -- father, not on good terms
 
 ## Notable Items
 - [Caster's Targe](https://2e.aonprd.com/Shields.aspx?ID=5)

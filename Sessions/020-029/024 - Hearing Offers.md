@@ -28,11 +28,11 @@ Hedera and the kobolds make more progress at the fort. The group in Restov takes
 **Meeting: Evan Garess + Toval Golka**
 - offers starting resources + mining labor in exchange for exclusivity for mineral rights
 
-**Meeting: Krevin Surtova**
+**Meeting: [[Krevin Surtova]]**
 - duels Amiri??
 - offers barracks + army training in exchange for a strong Gorum presence in the new kingdom
 
-**Meeting: Gilford Forhopple**
+**Meeting: [[Gilford Forhopple]]**
 - dinner at Cayden's Keg (alehouse)
 - offers orphanage +  in exchange for incorporating specific holidays
 

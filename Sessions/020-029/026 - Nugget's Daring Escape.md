@@ -4,8 +4,7 @@ num: 26
 April 19th, 2025
 
 ## Summary
-Nugget makes a daring escape out of the Surtova Manor. We are able to de-escalate the tense situation of the Surtovas' staff chasing him through the streets, albeit likely raising a little bit of suspicion in the process. Nugget was able to confirm Rogerio's association with what appear to be 
-members of The Black Tears, though the details are still not clear. On Hedera's end, she sends out some scouting parties to explore the nearby area. Additionally, one of the kobolds is acting strangely...
+Nugget makes a daring escape out of the Surtova Manor. We are able to de-escalate the tense situation of the Surtovas' staff chasing him through the streets, albeit likely raising a little bit of suspicion in the process. Nugget was able to confirm Rogerio's association with what appear to be members of The [[Black Tears]], though the details are still not clear. On Hedera's end, she sends out some scouting parties to explore the nearby area. Additionally, one of the kobolds is acting strangely...
 
 ##
 >[!note|bg-c-gray no-t txt-c]

@@ -7,7 +7,7 @@ aliases:
 
 >[!note|no-i bg-c-green] :FasUser: Friendly
 
-- **He/Him** -- Human -- Adult (early 40s)
+- **He/him** -- Human -- Adult (early 40s)
 
 >The group met **Jhod Kavkin**, a priest of [[Deities#Erastil]], at Oleg's Trading Post where he had traveled (along with his donkey) to trade some furs.
 

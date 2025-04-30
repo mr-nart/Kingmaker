@@ -5,7 +5,7 @@ aliases:
 #uncategorized
 >[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Tuskwater Fort]]
 
->[!note|no-i bg-c-gray] :FasUser: Unknown (friendly with [[Celestine Orlovsky|Celestine]] and [[Garrett Goodword|Garrett]])
+>[!note|no-i bg-c-green] :FasUser: Ally
 
 ![|right|250](https://static.wikia.nocookie.net/pathfinderkingmaker_gamepedia_en/images/3/3f/Valerie.png/revision/latest?cb=20180927134317)
 - **She/Her** -- Human -- Adult

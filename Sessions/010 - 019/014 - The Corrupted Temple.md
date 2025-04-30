@@ -100,7 +100,7 @@ September 14th, 2024
 	- Caine copies down the etching + makes a rubbing of it
 	- Garrett pockets it
 
-**Temple of Elk**
+**Temple of the Elk**
 - brambles give way to a clearing, looming rock at the center
 	- one face carved into the likeness of an elk encrusted with moss, with 50 ft wide cave entrance, stone steps
 - large pool of water, thick with algae

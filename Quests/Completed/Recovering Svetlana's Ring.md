@@ -1,4 +1,4 @@
-- [[Svetlana]] asked us to retrieve her wedding band that was taken by the Greenbelt bandits who were taxing her and [[Oleg]]
+- [[Svetlana Leveton]] asked us to retrieve her wedding band that was taken by the Greenbelt bandits who were taxing her and [[Oleg Leveton]]
 - was missing from Kressle's camp
 	- Kressle mentioned a recent raid on the camp by [[Creatures|Mitflits]] riding giant insects, who may or may not have taken the ring
 

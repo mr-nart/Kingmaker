@@ -6,7 +6,7 @@ aliases:
 #restov #swordlords 
 >[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Restov]]
 
->[!note|no-i bg-c-gray] :FasUser: Unknown
+>[!note|no-i bg-c-green] :FasUser: Ally?
 
 - **She/Her** -- Half-Elf / Half-Human -- Adult
 

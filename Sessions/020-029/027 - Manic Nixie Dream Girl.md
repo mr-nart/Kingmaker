@@ -4,7 +4,7 @@ num: 27
 April 27th, 2025
 
 ## Summary
-...
+The party has another shared dream -- this time "The Guardian of the Bloom" is asking us to meet her (alone) at some location deep in the Narlmarch Forest to collect some kind of reward. We also had meetings with Lady [[Jamandi Aldori]], [[Kassil Aldori]], the Temple of Abadar, [[Kalto Orlovsky]], and [[Bertrand Cafagna]]. Garrett had a meeting with a "group of interested businessmen." Hedera and Valerie made acquaintances with a nixie named Melianse while investigating the mysterious vines.
 
 ##
 >[!note|bg-c-gray no-t txt-c]
@@ -56,7 +56,7 @@ April 27th, 2025
 
 **House Orlovsky**
 - meeting with Celestine's cousin at the trading house
-	- Kalto Orlovsky -- he is scholarly Celestine's cousin, a fan of the Pathfinder Society
+	- [[Kalto Orlovsky]] -- he is scholarly Celestine's cousin, a fan of the Pathfinder Society
 		- wavy brown hair, affable, baby face
 		- also a black sheep of the family; compared to Celestine he is similarly distanced from the family proper
 		- doesn't really seem that interested in going to Verdanti tbh
@@ -66,7 +66,7 @@ April 27th, 2025
 		- seems to be genuinely interested in going to Verdanti
 - they want to sit on the council??
 - they want us to help them tame a dragon?? for the symbolic meaning of it (i.e. Brevoy was founded on the back of a dragon)
-	- really it's the head of the house Lord [[Poul Orlovsky]] that wants it
+	- really it's the head of the house Lord [[Poul Orlovsky]] that wants it, sort of to stake a claim on ruling Brevoy maybe?
 - they give Celestine a sturdy steel shield bearing the crest of House Orlovsky, gifted by her father
 
 **Bertrand Cafagna**
@@ -105,7 +105,8 @@ April 27th, 2025
 > - Hedera's getting tatted up (jk she's doing scarification)
 > - Hedera sets out some alarm snares around the fort
 > - Chief Sootscale and Pikmek are examining Piktol:
-> 	- 
+> 	- no particularly revealing insights regarding the vines or the illness itself
+> 	- need to ask about what Piktol was saying/writing?
 
 ## Quests Progressed
 - [[Meetings Galore]]

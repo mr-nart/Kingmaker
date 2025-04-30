@@ -1,5 +1,6 @@
 ---
-Player: Megan
+player: Megan
+desc: Once an apprentice wizard working with House Rogarvia
 aliases:
   - Liosa
 ---

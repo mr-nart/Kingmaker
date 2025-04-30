@@ -33,7 +33,7 @@ The *Market District (16)* is nearby, with various shops and outdoor stalls lini
 
 *The Aldori Wheel (3)* sits on the other side of the city. Legend has it that this landmark is the location where [[Historical Figures#Baron Sirian Aldori]] defeated the ruling bandit lord to take control of the region. Around this site are shops which are more boutique and artisanal in comparison to those in the Market District.
 
-Just north of the docks is the *Upscale District (28)*. The capitol's wealthy live here.
+Just north of the docks is the *Upscale District (28)*. The city's wealthy class lives here.
 
 Situated in the docks is the *Riverside District (26)*, home to a variety of minor dueling schools.
 
@@ -47,8 +47,8 @@ Situated in the docks is the *Riverside District (26)*, home to a variety of min
 - *Ludavenko's Assembly Palace (12)* is a tavern that serves a high-end clientele. It's known for its VIP section.
 - *The Bear and Pitch Inn* is a rustic dining hall on the outskirts of the city.
 - *The Silver Moon Inn (17)* is a small inn. Standard affair, nothing particular of note.
-- *The Smokehouse (19)* is an inn which largely is visited by Dwarves. A smoky aroma fills the air.
-- *Oppen's Common House (23)* is a halfling-run in. Unsurprisingly, it has only 4-foot ceilings. Lodging here is generally cheap due to the smaller accommodations.
+- *The Smokehouse (19)* is an inn which is largely visited by Dwarves. A smoky aroma fills the air inside.
+- *Oppen's Common House (23)* is a halfling-run in. Unsurprisingly, its ceilings are only 4 feet high. Lodging here is cheap due to the smaller accommodations.
 
 ## Town Hall (5)
 
@@ -62,11 +62,7 @@ The main training site of the [[Aldori Swordlords]], widely regarded as the regi
 [[Brevic Noble Houses#House Surtova]]'s satellite base of operations in Restov.
 
 ## Birchwood Hall  (8)
-The two-story lodge serving as the hub for the local branch of the Pathfinder Society. Though these headquarters see little use, they do still maintain a sporadic schedule of lectures.
-
-Notable members include:
-- **Jubilost Narthropple** -- gnome, "noted historian and mapmaker"
-- **Negant Warthropple** -- gnome, "assistant adjutant venture-captain pro tempore"
+The two-story lodge serving as the hub for the local branch of the [[Pathfinder Society]]. Though these headquarters see little use at this point, they do still maintain a sporadic schedule of lectures.
 
 ## Restov Trading House (14)
 A trading house blessed by Abadar.

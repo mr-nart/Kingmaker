@@ -45,7 +45,7 @@ We spent a bunch of time discussing our future barony, which we will name [[Verd
 			- notice board -- series of lectures posted, speaker is Jubilost Narthropple (noted historian and mapmaker)
 				- next event scheduled for tomorrow afternoon tea
 			- knocking on the door -- a gnome with curly dark brown hair answers
-				- Negant Warthropple, assistant adjutant venture captain pro tempore
+				- [[Negant Warthropple]], assistant adjutant venture captain pro tempore
 				- Caine asked about records of expeditions to the Tuskwater
 					- Negant will show us the records, making us some tea first
 					- Liosa will help look through the records

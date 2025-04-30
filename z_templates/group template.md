@@ -7,7 +7,7 @@
 ## Notable Members
 ```dataview
 TABLE WITHOUT ID file.link AS "Name", desc AS "Description"
-FROM "NPCs" AND #****
+FROM ("NPCs" OR "Player Characters") AND #****
 ```
 
 ## Other Members

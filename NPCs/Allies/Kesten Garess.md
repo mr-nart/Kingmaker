@@ -6,7 +6,7 @@ aliases:
 #garess
 >[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Oleg's Trading Post]]
 
->[!note|no-i bg-c-brown] :FasUser: Neutral (friend of [[Archibald M. F. Legralte|Archie]])
+>[!note|no-i bg-c-green] :FasUser: Ally (Friend of [[Archibald M. F. Legralte|Archie]])
 
 ![|right|250](https://static.wikia.nocookie.net/pathfinderkingmaker_gamepedia_en/images/0/0c/KestenGaress.png/revision/latest?cb=20180927134340)
 

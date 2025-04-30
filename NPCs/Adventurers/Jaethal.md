@@ -3,9 +3,9 @@ desc:
 aliases:
 ---
 #uncategorized
->[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Restov]]
+>[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Nivakta's Crossing]]
 
->[!note|no-i bg-c-green] :FasUser: Ally?
+>[!note|no-i bg-c-brown] :FasUser: Neutral
 
 - **She/Her** -- Elf -- Adult
 

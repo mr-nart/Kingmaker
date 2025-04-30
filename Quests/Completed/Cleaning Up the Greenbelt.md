@@ -1,6 +1,6 @@
 - Our party vs. Lander's/Tartuccio's party to clear the [[Greenbelt]] region of bandits first to win the [[Documents#Exploration Charter]]
 - Tartuccio going South along the Shrike, on canoes?
-	- Mayor [[Irven]] (Nivakta's Crossing) maybe overheard something about them suspecting the bandits to be based in one of the ruins in the area
+	- Mayor [[Irven Revanisu]] (Nivakta's Crossing) maybe overheard something about them suspecting the bandits to be based in one of the ruins in the area
 
 ## Issues at Oleg's
 - We headed to [[Oleg's Trading Post]] to the west, arrived on the *28th of Calistril*

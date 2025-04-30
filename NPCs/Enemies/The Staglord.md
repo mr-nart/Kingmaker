@@ -2,7 +2,7 @@
 desc: A bandit leader in the Greenbelt region
 aliases:
 ---
-#greenbelt #greenbelt-bandits #glenwine
+#greenbelt #greenbelt-bandits
 >[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Greenbelt]]
 
 >[!note|no-i bg-c-red] :FasUser: Bandit -- DECEASED

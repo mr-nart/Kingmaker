@@ -1,5 +1,6 @@
 ---
 player: Chris
+desc: An elven barber previously based in New Stetven
 aliases:
   - Caine
 ---

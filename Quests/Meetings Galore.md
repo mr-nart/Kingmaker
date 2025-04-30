@@ -1,6 +1,6 @@
 
 
-## Aldori
+## Jamandi Aldori
 **Offer**: 
 - 10 RP on the Kingdom's first turn 10 RP
 - 2 Luxury Goods on the turn after Diplomatic Relations with Restov are Established.
@@ -213,6 +213,8 @@ Greater Terms: As Mid, but in addition:
 - One of the Magister, Treasurer, or Viceroy Leadership Roles must be filled by a High Priest of Abadar in good standing with the Church. (non-negotiable)
 
 ## Group of Interested Businessmen
+--- Only Garrett knows of this offer ---
+
 **Offer**:
 - Each party member receives one permanent magic item of 8th level or lower or their choice.
 - The Thieves Guild will build a free Thieves Guild in the Capital within the first year after growing into a town, on a turn of the GM's choosing.

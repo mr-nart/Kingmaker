@@ -1,7 +1,7 @@
 ## House Garess
 > [!quote] Strong as the Mountains
 
-Based in the western part of Brevoy in the foothills of the Golushkin Mountains. Built the strongholds [[Highdelve]] and [[Grayhaven]] in the mountains. Had a good relationship with the [[Golka dwarves]] until the dwarves vanished. Their family's crest features a snow-capped mountain with a black hammer across its base, with a silvery crescent moon in the upper right corner.
+Based in the western part of Brevoy in the foothills of the Golushkin Mountains. Built the strongholds [[Highdelve]] and [[Grayhaven]] in the mountains. Had a good relationship with the Golka Dwarves until the dwarves vanished. Their family's crest features a snow-capped mountain with a black hammer across its base, with a silvery crescent moon in the upper right corner.
 ```dataview
 TABLE WITHOUT ID file.link AS "Name", desc AS "Description"
 FROM "NPCs" AND #garess

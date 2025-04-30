@@ -3,9 +3,9 @@ desc:
 aliases:
 ---
 #uncategorized
->[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Restov]]
+>[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Nivakta's Crossing]]
 
->[!note|no-i bg-c-gray] :FasUser: Unknown
+>[!note|no-i bg-c-brown] :FasUser: Neutral
 
 - **He/Him** -- Dwarf -- Adult
 
