@@ -4,7 +4,7 @@ num: 21
 December 13th, 2024
 
 ## Summary
-The group recovered Davick Nettle's spear. On the way back to Oleg's, we stumbled across some artifacts left at the base of a charred tree, presumably from a wizard trained at the Academae (a magic school in Korvosa). We returned to the trading post, with the intention to set off in the morning back to Restov. During this time, Hedera and Valerie have been continuing to secure the Tuskwater Fort and preparing living quarters for the sootscale kobolds they're planning to contract. While doing this, they were approached by a suspicious kobold who claims to be Pikmek, the cousin of Nakpik. He was looking for the pair of magical gnarled sticks.
+The group recovered Davick Nettle's spear. On the way back to Oleg's, we stumbled across some artifacts left at the base of a charred tree, presumably from a wizard trained at the Academae (a magic school in Korvosa). We returned to the trading post, with the intention to set off in the morning back to Restov. During this time, Hedera and Valerie have been continuing to secure the Tuskwater Fort and preparing living quarters for the sootscale kobolds they're planning to contract. While doing this, they were approached by a suspicious kobold who claims to be Pik'mek, the cousin of Nak'pik. He was looking for the pair of magical gnarled sticks.
 
 ##
 >[!note|bg-c-gray no-t txt-c]
@@ -66,7 +66,7 @@ The group recovered Davick Nettle's spear. On the way back to Oleg's, we stumble
 
 **Hedera & Valerie**
 - around midday, cautious looking sootscale Kobold wearing a top hat winding his way up the hillside
-	- says he's Pikmek, cousin of Nakpik
+	- says he's Pik'mek, cousin of Nak'pik
 	- says he had been in Restov negotiating some kind of deal??
 	- looking for the sticks "twirly twigs, really nothing special really..."
 		- he knows about the one that was inside the statue??

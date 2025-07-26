@@ -104,9 +104,9 @@ The party has another shared dream -- this time "The Guardian of the Bloom" is a
 > 	- but they'll stay out of each other's business for now
 > - Hedera's getting tatted up (jk she's doing scarification)
 > - Hedera sets out some alarm snares around the fort
-> - Chief Sootscale and Pikmek are examining Piktol:
+> - Chief Sootscale and Pik'mek are examining Pik'tol:
 > 	- no particularly revealing insights regarding the vines or the illness itself
-> 	- need to ask about what Piktol was saying/writing?
+> 	- need to ask about what Pik'tol was saying/writing?
 
 ## Quests Progressed
 - [[Meetings Galore]]

@@ -40,6 +40,8 @@ dv.paragraph("![[" + pg.file.name + "#Summary|nlk]]");
 	- [ ] Oaktop Silver Mine? May need to make a deal with the kobolds
 	- [ ] gold ore vein
 - [ ] meet with "The Guardian of the Bloom" in the forest
+- [ ] propagate fangberry bushes
+- [ ] raise Roc???
 ---
 >[!note|bg-c-gray]- Recently Edited Files
 ><p></p>

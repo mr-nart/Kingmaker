@@ -15,7 +15,7 @@ Terms:
 
 Terms:
 - Send a Diplomatic Envoy to Mivon and Establish Trade Relations as soon as possible, preferably within 1 year. (negotiable, but only in terms of the timeframe)
-- Accept no offers from the Swordlords or any of Brevoy's houses. (Jamandi's and Church's offers are ok) (non-negotiable)
+- Accept no offers from the Swordlords or any of Brevoy's houses. (Jamandi's and the church's offers are ok) (non-negotiable)
 - Make no deals with Pitax. (negotiable)
 - Swear fealty to no one. (non-negotiable)
 - Officially adopt the Six River Freedoms as Law. (non-negotiable)
@@ -52,7 +52,7 @@ Greater Terms: As Lesser, but in addition:
 - If the Kingdom attempts to Establish Trade Agreement with House Surtova, the result is increased one degree of success.
 - The Kingdom's Capital starts with a free Noble Villa. (for Radomir Surtova and his Wife. While it's for them it still meets the Kingdom's Residential requirements for Turn 1).
 
-**Lesser Terms**:
+Lesser Terms:
 - Accept No Offer from House Orlovsky.
 - Officially recognize King Noleski Surtova as the rightful ruler of Brevoy.
 - Grant Radomir Surtova a Leadership role, General or Emissary preferred
@@ -213,23 +213,22 @@ Greater Terms: As Mid, but in addition:
 - One of the Magister, Treasurer, or Viceroy Leadership Roles must be filled by a High Priest of Abadar in good standing with the Church. (non-negotiable)
 
 ## Group of Interested Businessmen
---- Only Garrett knows of this offer ---
-
-**Offer**:
-- Each party member receives one permanent magic item of 8th level or lower or their choice.
-- The Thieves Guild will build a free Thieves Guild in the Capital within the first year after growing into a town, on a turn of the GM's choosing.
-- The Thieves Guild will build a free Illicit Market in the Capital within the first year after growing into a city, on a turn of the GM's choosing.
-- Civic Actions used to build Thieves' Guilds and Illicit Markets do not count towards the normal limit of 1 Civic action per turn per Settlement.
-- Thieves Guilds and Illicit Markets may be built at a 40% discount on RP. (15 for Thieves Guilds and 30 for Illicit Markets)
-- The Kingdom receives a +1 circumstance bonus to ALL Intrigue checks.
-- All Tap Treasury checks have their success increased by one degree of success. In addition, after 6 Kingdom turns have passed without using Tap Treasury the penalty to Tap Treasury is reset as if you had used Capital investment to repay the funds.
-
-Terms:
-- The Kingdom must be trained in Intrigue. (non-negotiable)
-- The Kingdom must allow the Thieves' Guild to operate in the Kingdom. (non-negotiable)
-- The Kingdom starts with 1 Crime and its Crime can never go below +1. (non-negotiable)
-- +1 Crime each time a Village grows into a Town, +2 Crime each time a Town grows into a City, and +4 Crime each time a City grows into a Metropolis or a new Urban Grid is added to an existing Settlement. (non-negotiable)
-- The Kingdom must build a Thieves Guild in each new settlement within 1 year of that settlement becoming a City. (non-negotiable)
+> [!tldr|bg-c-gray]- Only Garrett knows of this offer
+> **Offer**:
+> - Each party member receives one permanent magic item of 8th level or lower or their choice.
+> - The Thieves Guild will build a free Thieves Guild in the Capital within the first year after growing into a town, on a turn of the GM's choosing.
+> - The Thieves Guild will build a free Illicit Market in the Capital within the first year after growing into a city, on a turn of the GM's choosing.
+> - Civic Actions used to build Thieves' Guilds and Illicit Markets do not count towards the normal limit of 1 Civic action per turn per Settlement.
+> - Thieves Guilds and Illicit Markets may be built at a 40% discount on RP. (15 for Thieves Guilds and 30 for Illicit Markets)
+> - The Kingdom receives a +1 circumstance bonus to ALL Intrigue checks.
+> - All Tap Treasury checks have their success increased by one degree of success. In addition, after 6 Kingdom turns have passed without using Tap Treasury the penalty to Tap Treasury is reset as if you had used Capital investment to repay the funds.
+> 
+> Terms:
+> - The Kingdom must be trained in Intrigue. (non-negotiable)
+> - The Kingdom must allow the Thieves' Guild to operate in the Kingdom. (non-negotiable)
+> - The Kingdom starts with 1 Crime and its Crime can never go below +1. (non-negotiable)
+> - +1 Crime each time a Village grows into a Town, +2 Crime each time a Town grows into a City, and +4 Crime each time a City grows into a Metropolis or a new Urban Grid is added to an existing Settlement. (non-negotiable)
+> - The Kingdom must build a Thieves Guild in each new settlement within 1 year of that settlement becoming a City. (non-negotiable)
 
 # Relevant Sessions
 ```dataview

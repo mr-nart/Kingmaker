@@ -10,7 +10,7 @@
 	 - **Lander's Party:**
 		 - [[Lander Lebeda|Lander]] + [[Tartuccio]] + [[Valerie]] + [[Jaethal]] + [[Harrim]]
 
-## Tartuk
+## Tar'tuk
 - On the 5th of Pharast, came across Tartuccio who had disguised himself as a purple kobold, was trying to use the kobolds for some unclear nefarious purpose?
 	- something to do with some kind of ritual involving the First World/Fey? using two magical wooden sticks?
 	- we captured him and have his journal

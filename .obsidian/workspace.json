@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d36a96f1c26ecf26",
+        "id": "508cfeeac9c557a4",
         "type": "tabs",
         "children": [
           {
-            "id": "e200f8162c3c285d",
+            "id": "134024213ff8635b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/Toxic Vines.md",
+                "file": "Sessions/020-029/028 - Kobold Besties.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Toxic Vines"
+              "title": "028 - Kobold Besties"
             }
           }
         ]
@@ -152,18 +152,35 @@
         "type": "tabs",
         "children": [
           {
+            "id": "560c7bdc5d345f78",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tartuk",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
             "id": "47101508976d3a2d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quests/Toxic Vines.md",
+                "file": "Sessions/020-029/028 - Kobold Besties.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Toxic Vines"
+              "title": "Outline of 028 - Kobold Besties"
             }
           },
           {
@@ -174,23 +191,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "560c7bdc5d345f78",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
             }
           }
         ]
@@ -212,54 +212,54 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e200f8162c3c285d",
+  "active": "134024213ff8635b",
   "lastOpenFiles": [
-    "Quests/A Shared Dream.md",
-    "Quests/Investigating the Black Tears.md",
-    "Quests/Meetings Galore.md",
-    "Quests/Toxic Vines.md",
+    "Sessions/010 - 019/016 - Under the Stag's Nose.md",
+    "Sessions/010 - 019/017 - Down with the Staglord.md",
+    "Sessions/010 - 019/018 - Z-Day.md",
+    "Sessions/010 - 019/019 - Z-Night.md",
+    "Sessions/020-029/020 - Troll Hunter.md",
+    "Sessions/020-029/021 - Pit Stop at Oleg's.md",
+    "Sessions/020-029/022 - Back to Civilization.md",
+    "Sessions/020-029/023 - Laying the Foundation.md",
+    "Sessions/020-029/024 - Hearing Offers.md",
+    "Sessions/020-029/025 - Nugget the Spy.md",
+    "Sessions/020-029/026 - Nugget's Daring Escape.md",
+    "Sessions/020-029/027 - Manic Nixie Dream Girl.md",
+    "Sessions/020-029/028 - Kobold Besties.md",
     "Home.md",
-    "Atlas.md",
-    "Minor Locations/Settlements, Large/Restov.md",
-    "General Info/Historical Figures.md",
-    "Groups/Aldori Swordlords.md",
-    "NPCs/Diplomats/Bertrand Cafagna.md",
-    "NPCs/Allies/Kassil Aldori.md",
-    "Minor Locations/Settlements, Large/Port Ice.md",
-    "Minor Locations/Settlements, Large/New Stetven.md",
-    "Minor Locations/Settlements, Medium/Winterbreak.md",
-    "Minor Locations/Settlements, Medium/Skywatch.md",
-    "Minor Locations/Settlements, Medium/Silverhall.md",
-    "Minor Locations/Settlements, Medium/Highdelve.md",
-    "Minor Locations/Settlements, Medium/Grayhaven.md",
-    "Minor Locations/Settlements, Small/Brunderton.md",
-    "Minor Locations/Settlements, Small/Eagle's Watch.md",
-    "Minor Locations/Settlements, Small/Nivakta's Crossing.md",
-    "Minor Locations/Settlements, Small/Stoneclimb.md",
-    "Minor Locations/Settlements, Tiny/Oak Top Silver Mine.md",
-    "Minor Locations/Settlements, Tiny/Oleg's Trading Post.md",
-    "Minor Locations/Settlements, Tiny/The Old Sycamore.md",
-    "Minor Locations/Settlements, Tiny/Tuskwater Fort.md",
+    "Groups/Sootscale Kobolds.md",
+    "Player Characters/Minions/Tik'tok.md",
+    "Quests/Completed/The Pitaxian Spy.md",
+    "NPCs/Enemies/Tartuccio.md",
+    "Quests/Completed/Recovering Svetlana's Ring.md",
+    "Sessions/000 - 009/009 - Old Sharp Tooth.md",
+    "Sessions/010 - 019/010 - Tar'tuk the 'Kobold'.md",
+    "Player Characters/Minions/Knik'knak.md",
+    "z_assets/knikknak.png",
+    "Player Characters/Minions",
+    "z_assets/tiktok.png",
+    "NPCs/Miscellaneous/Negant Warthropple.md",
+    "Player Characters/Caidaranel Novori.md",
+    "Quests/Toxic Vines.md",
+    "Sessions/010 - 019/012 - A Gnarled Olive Branch.md",
+    "z_assets/brevoy map.png",
+    "z_assets/caine.png",
+    "z_assets/exploration charter.png",
+    "z_assets/kingmaker banner.webp",
+    "z_assets/leaf token.png",
+    "z_assets/linzi.png",
+    "z_assets/restov map.png",
+    "z_assets/stolen lands map.png",
     "NPCs/Miscellaneous",
     "NPCs/Clergy",
-    "z_assets/linzi.png",
-    "z_assets/stolen lands map.png",
-    "z_assets/restov map.png",
-    "z_assets/leaf token.png",
-    "z_assets/kingmaker banner.webp",
-    "z_assets/exploration charter.png",
-    "z_assets/caine.png",
-    "z_assets/brevoy map.png",
     "NPCs/Retired",
-    "z_assets/restov map.jpg",
     "Sessions/020-029",
     "NPCs/Enemies",
     "NPCs/Diplomats/Untitled 1",
     "NPCs/Allies",
     "NPCs/Diplomats/Untitled",
     "Minor Locations/Monuments",
-    "Minor Locations/Settlements, Tiny",
-    "z_assets/Harrim.webp",
     "Untitled.canvas"
   ]
 }

@@ -3,7 +3,7 @@
     {
       "id": "brevoy-map",
       "locked": true,
-      "lastAccessed": 1745983607460,
+      "lastAccessed": 1753495466256,
       "markers": [
         {
           "id": "ID_5a799a5a5af9",
@@ -271,14 +271,13 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Atlas.md",
-        "Major Locations/Brevoy.md"
+        "Atlas.md"
       ]
     },
     {
       "id": "stolen-lands-map",
       "locked": true,
-      "lastAccessed": 1745983607460,
+      "lastAccessed": 1753495466257,
       "markers": [
         {
           "id": "ID_5b5bf8e9bbab",
@@ -427,21 +426,50 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_89d8ea78f9db",
+          "type": "Building, minor",
+          "loc": [
+            -2.30893838840504,
+            4.487089711084166
+          ],
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "*Hunters?",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_992bbb59399a",
+          "type": "Monument",
+          "loc": [
+            -2.0995685236305643,
+            4.014212017448184
+          ],
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "*Tower",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
       "files": [
-        "Atlas.md",
-        "Major Locations/Stolen Lands.md",
-        "Major Locations/Greenbelt.md",
-        "Major Locations/Verdanti.md"
+        "Atlas.md"
       ]
     },
     {
       "id": "restov-map",
       "locked": true,
-      "lastAccessed": 1745983607460,
+      "lastAccessed": 1753495466257,
       "markers": [
         {
           "id": "ID_abeb39c93989",
@@ -469,6 +497,7 @@
             261.6255653005986,
             274.94462692187545
           ],
+          "link": "Restov#Aldori Manor (1)|Aldori Manor",
           "layer": "%5B%5Brestov%20map.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -476,7 +505,7 @@
             132.42864438758252,
             -178.12804445998205
           ],
-          "description": "*Aldori Manor",
+          "description": "",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
@@ -488,6 +517,7 @@
             524,
             418.4000244140625
           ],
+          "link": "Restov#Town Hall (5)|Town Hall",
           "layer": "%5B%5Brestov%20map.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -495,7 +525,7 @@
             201.52475305738477,
             -356.7659574468085
           ],
-          "description": "*Town Hall",
+          "description": "",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
@@ -507,6 +537,7 @@
             450.29998779296875,
             530
           ],
+          "link": "Restov#Restov Trading House (14)|Restov Trading House",
           "layer": "%5B%5Brestov%20map.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -514,7 +545,7 @@
             255.27751646284102,
             -304.6127825797872
           ],
-          "description": "*Restov Trading House",
+          "description": "",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
@@ -558,11 +589,12 @@
             577,
             616.5999755859375
           ],
+          "link": "Restov#Surtova Manor (11)|Surtova Manor",
           "layer": "%5B%5Brestov%20map.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": "*Surtova Manor",
+          "description": "",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
@@ -574,11 +606,12 @@
             381.20001220703125,
             803.199951171875
           ],
+          "link": "Restov#Giulgud Trading House (22)|Giulgud Trading House",
           "layer": "%5B%5Brestov%20map.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": "*Giulgud Trading House",
+          "description": "",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
@@ -681,23 +714,6 @@
           "tooltip": "hover"
         },
         {
-          "id": "ID_b86979f988ea",
-          "type": "Building, minor",
-          "loc": [
-            445,
-            671.2000122070312
-          ],
-          "link": "Restov#The Silver Moon Inn",
-          "layer": "%5B%5Brestov%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "The Silver Moon Inn",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
           "id": "ID_ca48882b2819",
           "type": "Building, minor",
           "loc": [
@@ -730,22 +746,6 @@
           "tooltip": "hover"
         },
         {
-          "id": "ID_6989dbba8b2b",
-          "type": "Building, minor",
-          "loc": [
-            553.5999755859375,
-            644.800048828125
-          ],
-          "layer": "%5B%5Brestov%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "*Ludivenko's Assembly Palace",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
           "id": "ID_a80aaa69caea",
           "type": "Church",
           "loc": [
@@ -768,11 +768,12 @@
             507.4000244140625,
             531
           ],
+          "link": "Restov#Aldori Academy (13)|Aldori Academy",
           "layer": "%5B%5Brestov%20map.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": "*Aldori Academy",
+          "description": "",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
@@ -784,6 +785,7 @@
             535.7040801635792,
             484.65100508860877
           ],
+          "link": "Restov#Birchwood Hall  (8)|Birchwood Hall",
           "layer": "%5B%5Brestov%20map.png%5D%5D",
           "mutable": true,
           "command": false,
@@ -791,7 +793,7 @@
             233.43491496271656,
             -364.73469287733053
           ],
-          "description": "*Birchwood Hall",
+          "description": "",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
@@ -814,13 +816,31 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_d99b6a29cbcb",
+          "type": "Building, minor",
+          "loc": [
+            552.6370830453459,
+            642.7812403496371
+          ],
+          "layer": "%5B%5Brestov%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            309.5992427648299,
+            -376.2635459032142
+          ],
+          "description": "*Ludavenko's Assembly Palace",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
       "files": [
-        "Atlas.md",
-        "Minor Locations/Settlements, Large/Restov.md"
+        "Atlas.md"
       ]
     }
   ],

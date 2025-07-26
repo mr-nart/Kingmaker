@@ -22,18 +22,18 @@ Nugget makes a daring escape out of the Surtova Manor. We are able to de-escalat
 
 ## Log
 > **Hedera and Valerie**
-> - kobold Piktol is acting strange?
-> 	- Piktol, younger kobold, dressed only in a loin cloth, writing in chalk over and over the same 3 characters, speaking 3 words over and over again
+> - kobold Pik'tol is acting strange?
+> 	- Pik'tol, younger kobold, dressed only in a loin cloth, writing in chalk over and over the same 3 characters, speaking 3 words over and over again
 > 		- "nine nine five"
 > 		- he starts vomiting a gnarled mass of vines?
 > 		- there are some nearby vines Hedera tells all the kobolds to avoid
 > - Hedera and Valerie check out the vines, but they didn't manage to gather any more info on what's going on
 > - Hedera is going to send out the kobolds on expeditions
 > 	- 15 kobolds total in their ranks
-> 	- Pikmek and Chief Sootscale staying at home
+> 	- Pik'mek and Chief Sootscale staying at home
 > 	- two scouting teams of 5 kobolds each:
-> 		- Nakpik leads a group to the west up a river
-> 		- Tolpik leads a group to the south along the banks of the Tuskwater
+> 		- Nak'pik leads a group to the west up a river
+> 		- Tol'pik leads a group to the south along the banks of the Tuskwater
 
 **Market District**
 - Liosa receives a letter from a courier - "from your erstwhile mentor", Neshka Selset (dsitant relative of House Surtova)

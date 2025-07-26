@@ -44,24 +44,24 @@ The party had another shared dream, this time with the mysterious figure showing
 - Liosa and Caine not really able to identify the sticks other than that they're probably attuned to the 1st world, want to come together, can be activated
 
 **To the old sycamore**
-- Nakpik is joining us
+- Nak'pik is joining us
 - when we get there, mitflits are standing guard outside, threaten towards us menacingly
 	- "begone, evil"
 	- Garrett: "we come to return what was stolen"
 	- "put stick" pointing at ground
-	- they seemed to buy it... dancing in a circle, celebrating, hug Nakpik
-- Nakpik is unaware that we returned a fake stick
+	- they seemed to buy it... dancing in a circle, celebrating, hug Nak'pik
+- Nak'pik is unaware that we returned a fake stick
 - Liosa wants to ask the mites about the sticks
-	- Nakpik calls for someone to come up
+	- Nak'pik calls for someone to come up
 	- out comes "Magestic Queen Ba-dah" -- wearing remnants of wedding dress and a wagon wheel on her head
-	- Garrett has Nakpik tell her that there was a rogue Kobold who was to blame for the conflict, and he has been taken care of
+	- Garrett has Nak'pik tell her that there was a rogue Kobold who was to blame for the conflict, and he has been taken care of
 	- "not mad, just disappointed"
 	- "stick very powerful. legend say it is the symbol of mite royalty. with it, Queen Ba-dah's rule is secure"
 	- "stick also has connection said to be used to unlock chamber where somebody very powerful has stored a treasure"
 	- "long ago this was entrusted to the mites, and we have kept it safe ever since"
 	- "their name (the person who gave it to the mites) is lost to time"
 - things seemed smoothed over for now
-- Nakpik takes his leave back to their base
+- Nak'pik takes his leave back to their base
 
 **Back to Oleg's through the woods**
 - decided to take the slightly longer wooded path since we've traveled that way before and it provides cover

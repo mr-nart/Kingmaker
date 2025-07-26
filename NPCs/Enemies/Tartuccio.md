@@ -1,7 +1,7 @@
 ---
 desc: A spy from Pitax, claiming to be a business-gnome from New Stetven
 aliases:
-  - Tartuk
+  - Tar'tuk
 ---
 #pitax
 >[!tldr|right bg-c-gray no-i] [[Atlas|:FasLocationDot: ]] Last Known Location: [[Oak Top Silver Mine]]
@@ -17,7 +17,7 @@ aliases:
 ## Traits
 Clearly has some sort of superiority complex. *Susceptible to flattery*, and particularly impressed by things relating to magic. *Racist against elves*.
 
-Alternate form: purple kobold, went by the name of "Tartuk".
+Alternate form: purple kobold, went by the name of "Tar'tuk".
 
 ## Motivations
 He is almost certainly a spy from [[Pitax]] given that he framed [[Caidaranel Novori|Caine]] after the [[Black Tears]]' attack on Aldori Manor.

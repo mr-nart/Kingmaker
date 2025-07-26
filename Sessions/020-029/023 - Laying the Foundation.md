@@ -22,7 +22,7 @@ We continue laying the groundwork for our kingdom soon-to-be, meeting with Lady 
 
 ## Log
 > **Hedera & Valerie**
-> - Pikmek & Chief Sootscale + 12 others arrive at Tuskwater Fort on *20th of Pharast*, they agree to Hedera's terms, will assist with whatever is requested
+> - Pik'mek & Chief Sootscale + 12 others arrive at Tuskwater Fort on *20th of Pharast*, they agree to Hedera's terms, will assist with whatever is requested
 > 	- Hedera's putting them to work at repairing fences, clearing up the tunnel, cleaning up the place, scavenging resources (they can keep 10%)
 
 **Garrett**

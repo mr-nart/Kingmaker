@@ -10,11 +10,11 @@
 	- kobolds went into the hollow alone, sounds of screaming
 - we entered the hollow
 	- fought some mitflits + giant centipedes
-	- found a ledger written in Undercommon -- made mention of a ring, stolen from the mitflits by the kobolds (per Mikmek)
+	- found a ledger written in Undercommon -- made mention of a ring, stolen from the mitflits by the kobolds (per Mik'mek)
 	- we plan to try to trade with the kobolds to get the ring
 
 ## Kobold Warrens
-- after defeating "[[Tartuccio|Tartuk]]" and getting in the good graces of Chief Sootscale & Mikmek, we recovered Svetlana's ring
+- after defeating "[[Tartuccio|Tar'tuk]]" and getting in the good graces of Chief Sootscale & Mik'mek, we recovered Svetlana's ring
 
 - Kressle (actually [[Irenna]]) has joined our group
 	- revealed that she's actually Svetlana's sister

@@ -9,6 +9,6 @@ Of note, this particular group was in possession of one of the [[Notable Items#G
 There are some twigjacks to be found in the Narlmarch Forest.
 
 ## Nixies
-![|right|170](https://2e.aonprd.com/Images/Monsters/Nixie.png) **Nixies** are aquatic fey beings with blue skin and long, webbed digits. In terms of power, they have magical abilities that are somewhat comparable to those of an average human spellcaster. They are partial to good stories.
+![|right|170](https://2e.aonprd.com/Images/Monsters/Nixie.png) **Nixies** are aquatic fey beings with blue skin and long, webbed digits. They have magical abilities that are somewhat comparable to those of an average human spellcaster. They are partial to good stories.
 
 *Melianse* is one nixie known to [[Hedera Wildbow|Hedera]]. Hedera managed to keep the relationship cordial for now, but they are definitely not allies.
