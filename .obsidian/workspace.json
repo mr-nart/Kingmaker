@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "508cfeeac9c557a4",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "134024213ff8635b",
+            "id": "d36f54b2a5d8e68a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/020-029/028 - Kobold Besties.md",
+                "file": "Minor Locations/Settlements, Small/Nivakta's Crossing.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "028 - Kobold Besties"
+              "title": "Nivakta's Crossing"
             }
           }
         ]
@@ -157,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tartuk",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -201,6 +201,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -212,8 +213,27 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "134024213ff8635b",
+  "active": "d36f54b2a5d8e68a",
   "lastOpenFiles": [
+    "030 -.md",
+    "Minor Locations/Settlements, Small/Nivakta's Crossing.md",
+    "Quests/Meetings Galore.md",
+    "NPCs/Allies/Irenna.md",
+    "NPCs/Allies/Ekundayo.md",
+    "NPCs/Allies/Tristian.md",
+    "Home.md",
+    "Sessions/010 - 019/015 - To the Tuskwater.md",
+    "General Info/Creatures.md",
+    "Minor Locations/Settlements, Tiny/Tuskwater Fort.md",
+    "Sessions/000 - 009/004 - Trek to Oleg's.md",
+    "Sessions/020-029/028 - Kobold Besties.md",
+    "NPCs/Diplomats/Irven Revanisu.md",
+    "Major Locations/Verdanti.md",
+    "Sessions/020-029/027 - Manic Nixie Dream Girl.md",
+    "Sessions/020-029/026 - Nugget's Daring Escape.md",
+    "Sessions/020-029/025 - Nugget the Spy.md",
+    "Sessions/020-029/024 - Hearing Offers.md",
+    "029 -.md",
     "Sessions/010 - 019/016 - Under the Stag's Nose.md",
     "Sessions/010 - 019/017 - Down with the Staglord.md",
     "Sessions/010 - 019/018 - Z-Day.md",
@@ -221,28 +241,9 @@
     "Sessions/020-029/020 - Troll Hunter.md",
     "Sessions/020-029/021 - Pit Stop at Oleg's.md",
     "Sessions/020-029/022 - Back to Civilization.md",
-    "Sessions/020-029/023 - Laying the Foundation.md",
-    "Sessions/020-029/024 - Hearing Offers.md",
-    "Sessions/020-029/025 - Nugget the Spy.md",
-    "Sessions/020-029/026 - Nugget's Daring Escape.md",
-    "Sessions/020-029/027 - Manic Nixie Dream Girl.md",
-    "Sessions/020-029/028 - Kobold Besties.md",
-    "Home.md",
-    "Groups/Sootscale Kobolds.md",
-    "Player Characters/Minions/Tik'tok.md",
-    "Quests/Completed/The Pitaxian Spy.md",
-    "NPCs/Enemies/Tartuccio.md",
-    "Quests/Completed/Recovering Svetlana's Ring.md",
-    "Sessions/000 - 009/009 - Old Sharp Tooth.md",
-    "Sessions/010 - 019/010 - Tar'tuk the 'Kobold'.md",
-    "Player Characters/Minions/Knik'knak.md",
     "z_assets/knikknak.png",
     "Player Characters/Minions",
     "z_assets/tiktok.png",
-    "NPCs/Miscellaneous/Negant Warthropple.md",
-    "Player Characters/Caidaranel Novori.md",
-    "Quests/Toxic Vines.md",
-    "Sessions/010 - 019/012 - A Gnarled Olive Branch.md",
     "z_assets/brevoy map.png",
     "z_assets/caine.png",
     "z_assets/exploration charter.png",

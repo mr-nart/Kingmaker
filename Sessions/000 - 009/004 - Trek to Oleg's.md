@@ -42,7 +42,7 @@ We journeyed from [[Restov]] to [[Oleg's Trading Post]] (with the help of Jarrin
 	- "the people there are friendly but they're definitely a suspicious lot in general"
 		- "they trust us more than they would travelers from the South"
 	- a very fortified crossing that bridges over the Shrike River
-	- will stay at Nivakta's Inn
+	- will stay at Shrikeside Inn
 - **reintroductions**
 	- Jarrin -- one of Lady Jamandi's quartermasters, brings goods to Oleg's about 1-2x per month
 		- mule's name is Dora

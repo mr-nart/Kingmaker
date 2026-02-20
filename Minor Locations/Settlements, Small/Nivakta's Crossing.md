@@ -7,7 +7,7 @@ desc: Small village along the Shrike River at the southern edge of Rostland
 
 >**Nivakta's Crossing** is the southernmost village of [[Brevoy#Rostland]], situated about a day's travel west of [[Restov]]. The settlement is small, with only a few hundred villagers. Locals are suspicious of travelers, especially those coming from the south.
 
-## Nivakta's Inn
+## Shrikeside Inn
 A small inn with a bar.
 
 ## Bridge
