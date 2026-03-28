@@ -19,4 +19,4 @@ aliases:
 
 
 ## Affiliations
-- teamed up with the [[Iron Wraiths]]
+- 

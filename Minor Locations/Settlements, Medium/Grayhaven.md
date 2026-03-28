@@ -3,7 +3,7 @@ cssclasses:
   - tables-wide
 desc: Small city in the Golushkin Mountains
 ---
-#brevoy #issia 
+#brevoy #issia
 
 >description
 

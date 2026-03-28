@@ -3,7 +3,7 @@ cssclasses:
   - tables-wide
 desc: Former capital of Issia, southern bank of Lake of Mists and Veils
 ---
-#brevoy #issia 
+#brevoy #issia
 
 >**Port Ice**, on the southern bank of the *Lake of Mists and Veils* in northern [[Brevoy]], is a refuge for ruffians and lake pirates. It was formerly the capital of [[Brevoy#Issia]] prior to [[Historical Figures#Choral the Conqueror]] uniting the region.
 >

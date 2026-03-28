@@ -1,15 +1,190 @@
+# Accepted
+## Restov
+> **Offer**:
+> - The initial Charter  
+> 
+> Terms:
+> - Send a Diplomatic Envoy to Restov and Establish Trade Relations as soon as possible, preferably within 1 year.
+
+## Swordlords
+> **Offer**: 
+> - 10 RP on the Kingdom's first turn 10 RP
+> - 2 Luxury Goods on the turn after Diplomatic Relations with Restov are Established.
+>  
+> Terms:
+> - Accept no offer from House Surtova.
+> - Do not acknowledge anyone, especially Noleski Surtova as the rightful ruler of Brevoy.
+
+## House Garess
+> **Lesser Offer**:
+> - 2 Ore Commodities on the Kingdom's first turn.
+> 
+> Lesser Terms:
+> - The Kingdom must not sell or give away any mineral rights to other Houses. (non-negotiable)
+> - The Kingdom will Investigate the viability of the Oaktop Silver Mine. (non-negotiable)
+> - Kesten Garess must not be placed in any Leadership Role. (negotiable, Evan Garess tries to insist on this but Torval doesn’t really care)
+
+~~**Greater Offer**: As Lesser, but in addition:~~
+- ~~5 RP and 2 additional Ore Commodities on the Kingdom's first turn.~~
+- ~~The Kingdom Starts with Diplomatic Relations with House Garess.~~
+- ~~If the Kingdom attempts to Establish Trade Agreement with House Garess, the result is increased one degree of success.~~
+- ~~For the Kingdom's first year (12 turns) after a Trade Agreement with House Garess is established, when the Kingdom Manages Trade Agreements with House Garess, increase the RP gained by 2.~~
+- ~~House Garess will build a free Foundry in the Capital within 2 months (2 turns) after the Kingdom builds its first Mine~~
+- ~~House Garess will build a free Guildhall in the Capital within 2 months (2 turns) after the Free Foundry is built.~~
+- ~~House Garess will build a free Foundry within a year (12 turns) in any Settlement that winds up with a Mine on a Hex that gives an Ore Resource bonus within its Influence.~~
+
+~~Greater Terms: As Lesser, but in addition:~~
+- ~~The Kingdom must be Trained in Industry. (non-negotiable)~~
+- ~~House Garess may choose a candidate for a Leadership role in the Party's Kingdom. (negotiable, Torval will accept appointing someone as head of the Mining Guild instead of a full leadership Role.)~~
+- ~~Any Ore Commodities the Kingdom sells via Trade Commodities must be sold to House Garess. In addition, when using Trade Commodities to sell Ore to House Garess the result is always a success but can never be a critical success. (non-negotiable)~~
+- ~~House Garess is notified and given a chance to negotiate for the rights to the Oaktop Silver Mine and any other significant veins of precious metals the Kingdom discovers. (non-negotiable)~~
+
+## House Orlovsky
+> **Lesser Offer**:
+> - 5 RP, 2 Stone Commodities and either a 3rd Stone or 1 Ore on the Kingdom's first turn.
+> 
+> Lesser Terms:
+> - Accept no offers from House Surtova or House Lodovka. (negotiable but only for deals with House Lodovka, not for deals with House Surtova)
+> - Do not officially recognize King Noleski Surtova as the rightful ruler of Brevoy. (non-negotiable)
+> - Report all dragon sightings to House Orlovsky. (negotiable)
+
+~~**Greater Offer**: As Lesser, but in addition:~~
+- ~~The Kingdom Starts with Diplomatic Relations with House Orlovsky.~~
+- ~~If the Kingdom attempts to Establish Trade Agreement with House Orlovsky, the result is increased one degree of success.~~
+- ~~5 Additional RP on the Kingdom's first turn  10 RP, and 2 Stone Commodities after half a year. (Kingdom Turn 7)~~
+
+~~Greater Terms: As Lesser, but in addition:~~
+- ~~House Orlovsky may choose a candidate for a Leadership role in the Party's Kingdom.~~
+- ~~If House Orlovsky ever makes a claim for rulership for Brevoy the Party's Kingdom will support the claim. (non-negotiable)~~
+
+## House Lebeda
+> **Lesser Offer**:  
+> - 10 RP, 3 Food Commodities and 1 Lumber Commodity on the Kingdom's first turn.  
+> - The Kingdom Starts with Diplomatic Relations with House Lebeda.  
+> - If the Kingdom attempts to Establish Trade Agreement with House Lebeda, the result is increased one degree of success.  
+> - When using Trade Commodities with House Lebeda, the Circumstance bonus for trading with a group you have relations with is increased to +2.  
+> - House Lebeda will build a free Granary and free Mansion in the Capital within the first year. The structures may be built in either order on whichever turns the Kingdom wants, but after building the first, the Kingdom must wait at least 3 turns before the second can be built.  
+>   
+> Lesser Terms:  
+> - The Kingdom must be Trained in Trade.
+> - The Kingdom will construct a Road from the Kingdom's Capital to House Lebeda’s lands as soon as it’s feasible to do so. (negotiable, but only in terms of the timeframe) 
+> - Do not support anyone but Noleski Surtova as the rightful King. The Kingdom need not come out in support of Noleski, it simply cannot support anyone else. 
+> - The Kingdom will arrange a Marriage between Saska Lebeda and someone in a prominent position in the Kingdom sometime during the Kingdom's 2nd year.  
+  
+~~**Greater Offer**: As Lesser, but in addition:~~
+- ~~3 Food commodities every season for the Kingdom's first 2 years, starting on the Kingdom's 4th turn. (Every 3 turns, 7 times total)~~
+- ~~The Negotiation DC of any noble house in Brevoy is reduced by 2.~~ 
+- ~~House Lebeda will build a Free Marketplace in the Capital within the Kingdom's 2nd year, on whatever turn the Kingdom desires.~~  
+  
+~~Greater Terms: As Lesser, but in addition:~~  
+- ~~Do not accept any offer from House Orlovsky or the Swordlords.~~ 
+- ~~Do not make any exclusive trade deals with any other House. (Only House Garess has offered one)~~ 
+- ~~Acknowledge Noleski Surtova as rightful king if/when he marries Elanna Lebeda (if the Kingdom has not already done so)~~ 
+- ~~Do not swear Fealty to Brevoy and Noleski Surtova unless he has married Elanna Lebeda. (The kingdom is not required to swear Fealty, the Lebeda’s just don't want the Kingdom to swear Fealty unless Elanna Lebeda is Queen)~~ 
+- ~~The husband chosen for Saska Lebeda must be one of the Kingdom's Leaders. If none of the Kingdom's Leaders are willing to marry her, then House Lebeda may choose a candidate for a Leadership role in the Kingdom instead. A suitable husband for Saska Lebeda must still be found but need not be someone in a Leadership role.~~
+
+## Church of Cayden Cailean
+> **Offer**:
+> - 1 Luxury Commodity on the Kingdom's first turn.
+> - The Kingdom receives a +1 circumstance bonus on Celebrate Holiday checks.
+> - The DC increase to Celebrate Holiday for having used Celebrate Holiday on the previous turn is reduced from 4 to 2.
+> - The Church of Cayden Cailean will build a free Orphanage within the Kingdom's first 6 Months, on whatever turn the Kingdom chooses.
+> - After the Capital builds its first Brewery, the Church of Cayden Cailean will build a free Shrine to Cayden in the same block on the following turn.
+> - After the Capital builds its 3rd Brewery, the Church of Cayden Cailean will build a free Popular Tavern in the same block as one of them on the following turn.
+> - After the Capital has built a combination of at least 7 total Breweries, Inns, and Taverns and the Kingdom is at least 9th level, the Church of Cayden Cailean will upgrade one Popular Tavern to a Luxury Tavern for free on whatever subsequent turn the Kingdom chooses.
+> 
+> Terms:
+> - The Kingdom cannot be Evil or Lawful. (negotiable, the Church will settle for just non-Evil)
+> - The Kingdom must be Trained in Folklore. (non-negotiable)
+> - Worship of Cayden Cailean must be allowed in the Kingdom. (non-negotiable)
+> - The Kingdom must Celebrate Ascension Day, First Brewing, and Merrymead as Holidays. (non-negotiable)
+> - The Kingdom must Celebrate at least 3 other days as Holidays each year, and arrange it so that there is at least one Holiday every season (Every 3 turns). (negotiable)
+> - The Capital must build a Brewery within the first year. (negotiable, but only in terms of the timeframe)
+
+## Church of Erastil
+~~**Offer**:~~ 
+- ~~5 RP, 1 Food Commodity, and 1 Lumber Commodity on the Kingdom's first turn.~~
+- ~~The Capital starts with either a free Granary or free Shrine to Erastil (Kingdom's choice).~~
+- ~~The Kingdom gets a +1 circumstance bonus to Gather Livestock and Harvest Crops.~~
+- ~~The DC to Establish Farmland on Hills terrain is reduced by 2.~~
+
+~~Terms:~~
+- ~~The Kingdom cannot be Chaotic or Evil. Worship of Erastil must be allowed in the Kingdom.~~
+- ~~If the Kingdom has official religions, Erastil must be among them.~~
+- ~~The Kingdom must be Trained in Agriculture and Wilderness.~~
+- ~~The Kingdom must celebrate Planting Week, Archer's Day, and Harvest Feast as Holidays.~~
+- ~~Each Settlement must build either a Park or Sacred Grove prior to growing into a City.~~
+
+> **Special Offer**: 
+> - The Church of Erastil will send the Kingdom 10 RP 2 turns after the Temple of the Elk is restored.
+> - If the Kingdom builds a settlement in that hex, the Church of Erastil will upgrade the Temple of the Elk into a Temple for free on the 1 year anniversary of that settlement being founded. (Ignoring all requirements)
+> 
+> Special Terms: 
+> - The Kingdom will restore the Temple of the Elk within 6 months of claiming its hex. (negotiable but only on the timeframe)
+> 
+## Church of Abadar
+> **Lesser Offer**:
+> - 5 RP and 2 Luxury Commodities on the Kingdom's first turn.
+> - The Kingdom receives a +1 Circumstance Bonus on Capital Investment checks and Collect Taxes checks.
+> - The Church of Abadar will build a free Bank in the Capital within 6 months of the Capital becoming a City. 
+> 
+> Lesser Terms:
+> - The Kingdom must be Trained in Trade. (non-negotiable)
+> - The Kingdom must not be Chaotic. (non-negotiable)
+> - Worship of Abadar must be allowed in the Kingdom. If the Kingdom has official religions, Abadar must be among them. (non-negotiable)
+> - The Capital must build a Shrine to Abadar within 1 Year of growing into a Town. (negotiable, but only in terms of the timeframe)
+
+**Mid Offer**: As Lesser but in addition:
+- 5 Additional RP on the Kingdom's first turn.
+- The Kingdom receives a +1 Circumstance Bonus on ALL Trade checks.
+- When the Kingdom rolls a Critical Failure on a Capital Investment or Collect Taxes check it receives a Failure Instead.
+- Each settlement with a Marketplace and a Shrine/Temple/Cathedral to Abadar considers its level as 1 higher when determining the potential jobs that can be found there and what sort of items might be commonly available. This stacks with all other effects that increase the effective level limit.
+
+Mid Terms: As Lesser but in addition:
+- The Kingdom must be Trained in Folklore. (non-negotiable)
+- The Kingdom must collect taxes at least yearly. (non-negotiable)
+- The Kingdom must celebrate Market's Door, Taxfest, and Vault Day as Holidays. (negotiable)
+- Each Settlement must build a Shrine to Abadar within 1 Year of growing into a Town. (negotiable, but only in terms of the timeframe)
+- The Capital must build a Marketplace and a Temple to Abadar within 3 Years of growing into a City. (negotiable, but only in terms of the timeframe)
+- No Shrine or Temples for other Faiths may be built prior to a Shrine or Temple of Abadar being built. (negotiable)
+
+~~**Greater Offer**: As Mid, but in addition:~~
+- ~~5 Additional RP on the Kingdom's first turn.~~ 
+- ~~The Kingdom receives a +2 Circumstance Bonus on ALL Trade checks instead of +1.~~ 
+- ~~When the Kingdom makes a Capital investment or Collect Taxes check, the result is increased one degree of success. (This replaces the Main Offer's effect on Capital Investment and Collect Taxes)~~
+- ~~The Church of Abadar will build a free Mint in the Capital within 6 months of the Capital becoming eligible to build one.~~
+- ~~Each settlement with a Marketplace and a Shrine/Temple/Cathedral to Abadar considers its level as 2 higher when determining the potential jobs that can be found there and what sort of items might be commonly available. This stacks with all other effects that increase the effective level limit.~~
+
+~~Greater Terms: As Mid, but in addition:~~
+- ~~The Kingdom must be Lawful. (non-negotiable)~~
+- ~~The Kingdom must collect taxes at least quarterly (Every 3 turns). (negotiable)~~
+- ~~Abadar must be the only Official State Religion, though other faiths need not be illegal (negotiable)~~
+- ~~Each Settlement must build a Marketplace and a Temple to Abadar within 3 Years of growing into a City. (negotiable, but only in terms of the timeframe)~~
+- ~~The Capital must build a Cathedral to Abadar within 3 Years of being eligible to build one. (negotiable, but only in terms of the timeframe)~~
+- ~~No Cathedrals for other Faiths may be built prior to a Cathedral of Abadar being built. (non-negotiable)~~
+- ~~One of the Magister, Treasurer, or Viceroy Leadership Roles must be filled by a High Priest of Abadar in good standing with the Church. (non-negotiable)~~
+
+## Church of Pharasma
+> **Offer**:  
+> - The Capital starts with a Cemetery and an Herbalist.  
+> - The Church of Pharasma will build a Cemetery in each new Settlement after it grows into a town.  
+> - The Kingdom receives a +1 Circumstance bonus to Provide Care and Quell Unrest: Folklore checks.  
+> - The first Hospital and Temple to Pharasma built in each Settlement may be built for 1/2 RP cost.  
+> 
+> Terms:
+> - Worship of Pharasma must be allowed in the Kingdom.  
+> - If the Kingdom has official religions, Pharasma must be among them.  
+> - The Kingdom must be trained in Folklore.  
+> - The Kingdom will build a Shrine to Pharasma within 1 year of growing into a town. (negotiable, but only in terms of the timeframe)  
+> - The Kingdom must celebrate the Day of Bones and Procession of Unforgotten Souls as Holidays.  
+> - Internment and disposal of the dead must be regulated by the Church of Pharasma.  
+> - The existence of Undead must be outlawed in the Kingdom by law.  
+> - Any Undead found must be dealt with quickly and severely.  
+> - Anyone found creating Undead must be sentenced to death. (negotiable, the Church will accept other suitable punishments that remove the offender’s ability to create Undead).
 
 
-## Jamandi Aldori
-**Offer**: 
-- 10 RP on the Kingdom's first turn 10 RP
-- 2 Luxury Goods on the turn after Diplomatic Relations with Restov are Established.
- 
-Terms:
-- Accept no offer from House Surtova.
-- Do not acknowledge anyone, especially Noleski Surtova as the rightful ruler of Brevoy.
-
-## Bertrand Cafagna
+# Declined
+## Mivon
 **Offer**:
 - 10 RP and 1 of each commodity to start.
 
@@ -19,30 +194,6 @@ Terms:
 - Make no deals with Pitax. (negotiable)
 - Swear fealty to no one. (non-negotiable)
 - Officially adopt the Six River Freedoms as Law. (non-negotiable)
-
-## House Garress
-**Lesser Offer**:
-- 2 Ore Commodities on the Kingdom's first turn.
-
-Lesser Terms:
-- The Kingdom must not sell or give away any mineral rights to other Houses. (non-negotiable)
-- The Kingdom will Investigate the viability of the Oaktop Silver Mine. (non-negotiable)
-- Kesten Garess must not be placed in any Leadership Role. (negotiable, Evan Garess tries to insist on this but Torval doesn’t really care)
-
-**Greater Offer**: As Lesser, but in addition:
-- 5 RP and 2 additional Ore Commodities on the Kingdom's first turn.
-- The Kingdom Starts with Diplomatic Relations with House Garess.
-- If the Kingdom attempts to Establish Trade Agreement with House Garess, the result is increased one degree of success.
-- For the Kingdom's first year (12 turns) after a Trade Agreement with House Garess is established, when the Kingdom Manages Trade Agreements with House Garess, increase the RP gained by 2.
-- House Garess will build a free Foundry in the Capital within 2 months (2 turns) after the Kingdom builds its first Mine
-- House Garess will build a free Guildhall in the Capital within 2 months (2 turns) after the Free Foundry is built.
-- House Garess will build a free Foundry within a year (12 turns) in any Settlement that winds up with a Mine on a Hex that gives an Ore Resource bonus within its Influence.
-
-Greater Terms: As Lesser, but in addition:
-- The Kingdom must be Trained in Industry. (non-negotiable)
-- House Garess may choose a candidate for a Leadership role in the Party's Kingdom. (negotiable, Torval will accept appointing someone as head of the Mining Guild instead of a full leadership Role.)
-- Any Ore Commodities the Kingdom sells via Trade Commodities must be sold to House Garess. In addition, when using Trade Commodities to sell Ore to House Garess the result is always a success but can never be a critical success. (non-negotiable)
-- House Garess is notified and given a chance to negotiate for the rights to the Oaktop Silver Mine and any other significant veins of precious metals the Kingdom discovers. (non-negotiable)
 
 ## House Surtova
 **Lesser Offer**:
@@ -81,23 +232,25 @@ Lesser Terms:
 Greater Terms: As Lesser, but in addition:
 - Lord Uthred Lodovka is granted a Leadership Position, preferably Warden
 
-## House Orlovsky
+## House Medvyed
 **Lesser Offer**:
-- 5 RP, 2 Stone Commodities and either a 3rd Stone or 1 Ore on the Kingdom's first turn.
+- 1 Food Commodity, and 3 Lumber Commodities on the Kingdom's first turn.  
 
-Lesser Terms:
-- Accept no offers from House Surtova or House Lodovka. (negotiable but only for deals with House Lodovka, not for deals with House Surtova)
-- Do not officially recognize King Noleski Surtova as the rightful ruler of Brevoy. (non-negotiable)
-- Report all dragon sightings to House Orlovsky. (negotiable)
+Lesser Terms:  
+- The Kingdom must be Trained in Wilderness.  
+- Worship of Erastil and the Green Faith must be allowed in the Kingdom. If the Kingdom has official religions, Erastil and the Green Faith must be among them. 
 
-**Greater Offer**: As Lesser, but in addition:
-- The Kingdom Starts with Diplomatic Relations with House Orlovsky.
-- If the Kingdom attempts to Establish Trade Agreement with House Orlovsky, the result is increased one degree of success.
-- 5 Additional RP on the Kingdom's first turn  10 RP, and 2 Stone Commodities after half a year. (Kingdom Turn 7)
+**Greater Offer**: As Lesser, but in addition:  
+- The Kingdom Starts with Diplomatic Relations with House Medvyed. 
+- If the Kingdom attempts to Establish Trade Agreement with House Medvyed, the result is increased one degree of success. 
+- 1 Food Commodity and 1 Lumber Commodity each season for the first year. (Every 3 turns, 4 times total.) 
+- The Kingdom's Capital starts with a free Shrine to either Erastil or the Green Faith. 
 
-Greater Terms: As Lesser, but in addition:
-- House Orlovsky may choose a candidate for a Leadership role in the Party's Kingdom.
-- If House Orlovsky ever makes a claim for rulership for Brevoy the Party's Kingdom will support the claim. (non-negotiable)
+Greater Terms: As Lesser, but in addition:  
+- Accept no offers from House Surtova. 
+- Do not officially support any individual as the rightful King of Brevoy. 
+- The Church of Erastil's offers must both be accepted in full. 
+- The Kingdom will make it illegal to despoil or disturb the habitats of peaceful fey.
 
 ## Church of Gorum
 **Lesser Offer**:
@@ -129,106 +282,43 @@ Greater Terms: As Lesser, but in addition:
 - No Shrines, Temples, or Cathedrals for other Faiths may be built prior to a Shrine, Temple, or Cathedral of Gorum being built. (non-negotiable)
 - The Church of Gorum may appoint a candidate of its choice to the General or Ruler Leadership role. (non-negotiable)
 
-## Church of Cayden Cailean
-Acceptance Deadline: The end of the week.
-
-**Offer**:
-- 1 Luxury Commodity on the Kingdom's first turn.
-- The Kingdom receives a +1 circumstance bonus on Celebrate Holiday checks.
-- The DC increase to Celebrate Holiday for having used Celebrate Holiday on the previous turn is reduced from 4 to 2.
-- The Church of Cayden Cailean will build a free Orphanage within the Kingdom's first 6 Months, on whatever turn the Kingdom chooses.
-- After the Capital builds its first Brewery, the Church of Cayden Cailean will build a free Shrine to Cayden in the same block on the following turn.
-- After the Capital builds its 3rd Brewery, the Church of Cayden Cailean will build a free Popular Tavern in the same block as one of them on the following turn.
-- After the Capital has built a combination of at least 7 total Breweries, Inns, and Taverns and the Kingdom is at least 9th level, the Church of Cayden Cailean will upgrade one Popular Tavern to a Luxury Tavern for free on whatever subsequent turn the Kingdom chooses.
-
-Terms:
-- The Kingdom cannot be Evil or Lawful. (negotiable, the Church will settle for just non-Evil)
-- The Kingdom must be Trained in Folklore. (non-negotiable)
-- Worship of Cayden Cailean must be allowed in the Kingdom. (non-negotiable)
-- The Kingdom must Celebrate Ascension Day, First Brewing, and Merrymead as Holidays. (non-negotiable)
-- The Kingdom must Celebrate at least 3 other days as Holidays each year, and arrange it so that there is at least one Holiday every season (Every 3 turns). (negotiable)
-- The Capital must build a Brewery within the first year. (negotiable, but only in terms of the timeframe)
-
-## Church of Erastil
-**Offer**: 
-- 5 RP, 1 Food Commodity, and 1 Lumber Commodity on the Kingdom's first turn.
-- The Capital starts with either a free Granary or free Shrine to Erastil (Kingdom's choice).
-- The Kingdom gets a +1 circumstance bonus to Gather Livestock and Harvest Crops.
-- The DC to Establish Farmland on Hills terrain is reduced by 2.
-
-Terms:
-- The Kingdom cannot be Chaotic or Evil. Worship of Erastil must be allowed in the Kingdom.
-- If the Kingdom has official religions, Erastil must be among them.
-- The Kingdom must be Trained in Agriculture and Wilderness.
-- The Kingdom must celebrate Planting Week, Archer's Day, and Harvest Feast as Holidays.
-- Each Settlement must build either a Park or Sacred Grove prior to growing into a City.
-
-**Special Offer**: 
-- The Church of Erastil will send the Kingdom 10 RP 2 turns after the Temple of the Elk is restored.
-- If the Kingdom builds a settlement in that hex, the Church of Erastil will upgrade the Temple of the Elk into a Temple for free on the 1 year anniversary of that settlement being founded. (Ignoring all requirements)
-
-Special Terms: 
-- The Kingdom will restore the Temple of the Elk within 6 months of claiming its hex. (negotiable but only on the timeframe)
-
-## Church of Abadar
-**Lesser Offer**:
-- 5 RP and 2 Luxury Commodities on the Kingdom's first turn.
-- The Kingdom receives a +1 Circumstance Bonus on Capital Investment checks and Collect Taxes checks.
-- The Church of Abadar will build a free Bank in the Capital within 6 months of the Capital becoming a City. 
-
-Lesser Terms:
-- The Kingdom must be Trained in Trade. (non-negotiable)
-- The Kingdom must not be Chaotic. (non-negotiable)
-- Worship of Abadar must be allowed in the Kingdom. If the Kingdom has official religions, Abadar must be among them. (non-negotiable)
-- The Capital must build a Shrine to Abadar within 1 Year of growing into a Town. (negotiable, but only in terms of the timeframe)
-
-**Mid Offer**: As Lesser but in addition:
-- 5 Additional RP on the Kingdom's first turn.
-- The Kingdom receives a +1 Circumstance Bonus on ALL Trade checks.
-- When the Kingdom rolls a Critical Failure on a Capital Investment or Collect Taxes check it receives a Failure Instead.
-- Each settlement with a Marketplace and a Shrine/Temple/Cathedral to Abadar considers its level as 1 higher when determining the potential jobs that can be found there and what sort of items might be commonly available. This stacks with all other effects that increase the effective level limit.
-
-Mid Terms: As Lesser but in addition:
-- The Kingdom must be Trained in Folklore. (non-negotiable)
-- The Kingdom must collect taxes at least yearly. (non-negotiable)
-- The Kingdom must celebrate Market's Door, Taxfest, and Vault Day as Holidays. (negotiable)
-- Each Settlement must build a Shrine to Abadar within 1 Year of growing into a Town. (negotiable, but only in terms of the timeframe)
-- The Capital must build a Marketplace and a Temple to Abadar within 3 Years of growing into a City. (negotiable, but only in terms of the timeframe)
-- No Shrine or Temples for other Faiths may be built prior to a Shrine or Temple of Abadar being built. (negotiable)
-
-**Greater Offer**: As Mid, but in addition:
-- 5 Additional RP on the Kingdom's first turn. 
-- The Kingdom receives a +2 Circumstance Bonus on ALL Trade checks instead of +1. 
-- When the Kingdom makes a Capital investment or Collect Taxes check, the result is increased one degree of success. (This replaces the Main Offer's effect on Capital Investment and Collect Taxes)
-- The Church of Abadar will build a free Mint in the Capital within 6 months of the Capital becoming eligible to build one.
-- Each settlement with a Marketplace and a Shrine/Temple/Cathedral to Abadar considers its level as 2 higher when determining the potential jobs that can be found there and what sort of items might be commonly available. This stacks with all other effects that increase the effective level limit.
-
-Greater Terms: As Mid, but in addition:
-- The Kingdom must be Lawful. (non-negotiable)
-- The Kingdom must collect taxes at least quarterly (Every 3 turns). (negotiable)
-- Abadar must be the only Official State Religion, though other faiths need not be illegal (negotiable)
-- Each Settlement must build a Marketplace and a Temple to Abadar within 3 Years of growing into a City. (negotiable, but only in terms of the timeframe)
-- The Capital must build a Cathedral to Abadar within 3 Years of being eligible to build one. (negotiable, but only in terms of the timeframe)
-- No Cathedrals for other Faiths may be built prior to a Cathedral of Abadar being built. (non-negotiable)
-- One of the Magister, Treasurer, or Viceroy Leadership Roles must be filled by a High Priest of Abadar in good standing with the Church. (non-negotiable)
+## Church of Shelyn
+**Offer**:  
+- 5 RP and 2 Luxury Commodities on the Kingdom's first turn. 
+- 3 RP and 1 Luxury Commodity the turn after any of these occur: 
+	- The Kingdom's first success on a Create a Masterpiece roll.  
+	- The Kingdom's first critical success on a Create a Masterpiece roll.  
+	- The Capital builds its first festival Hall.  
+	- The Capital builds its first Shrine to Shelyn.  
+	- The Capital builds its first Temple of Shelyn.  
+	- The Capital builds its first Cathedral of Shelyn.
+- Every Crystalhue in which the Kingdom had at least one successful Create a Masterpiece roll during the previous year.  
+  
+Terms:  
+- The Kingdom cannot be Evil.  
+- The Kingdom must be Trained in Arts and Folklore.  
+- Worship of Shelyn must be allowed in the Kingdom.  
+- If the Kingdom has official religions, Shelyn must be among them.  
+- Worship of Rovagug must be Outlawed.  
+- The Kingdom must celebrate Crystalhue as a Holiday.  
+- The Capital will build a Festival Hall and Shrine to Shelyn when able.
 
 ## Group of Interested Businessmen
-> [!tldr|bg-c-gray]- Only Garrett knows of this offer
-> **Offer**:
-> - Each party member receives one permanent magic item of 8th level or lower or their choice.
-> - The Thieves Guild will build a free Thieves Guild in the Capital within the first year after growing into a town, on a turn of the GM's choosing.
-> - The Thieves Guild will build a free Illicit Market in the Capital within the first year after growing into a city, on a turn of the GM's choosing.
-> - Civic Actions used to build Thieves' Guilds and Illicit Markets do not count towards the normal limit of 1 Civic action per turn per Settlement.
-> - Thieves Guilds and Illicit Markets may be built at a 40% discount on RP. (15 for Thieves Guilds and 30 for Illicit Markets)
-> - The Kingdom receives a +1 circumstance bonus to ALL Intrigue checks.
-> - All Tap Treasury checks have their success increased by one degree of success. In addition, after 6 Kingdom turns have passed without using Tap Treasury the penalty to Tap Treasury is reset as if you had used Capital investment to repay the funds.
-> 
-> Terms:
-> - The Kingdom must be trained in Intrigue. (non-negotiable)
-> - The Kingdom must allow the Thieves' Guild to operate in the Kingdom. (non-negotiable)
-> - The Kingdom starts with 1 Crime and its Crime can never go below +1. (non-negotiable)
-> - +1 Crime each time a Village grows into a Town, +2 Crime each time a Town grows into a City, and +4 Crime each time a City grows into a Metropolis or a new Urban Grid is added to an existing Settlement. (non-negotiable)
-> - The Kingdom must build a Thieves Guild in each new settlement within 1 year of that settlement becoming a City. (non-negotiable)
+**Offer**:
+- Each party member receives one permanent magic item of 8th level or lower or their choice.
+- The Thieves Guild will build a free Thieves Guild in the Capital within the first year after growing into a town, on a turn of the GM's choosing.
+- The Thieves Guild will build a free Illicit Market in the Capital within the first year after growing into a city, on a turn of the GM's choosing.
+- Civic Actions used to build Thieves' Guilds and Illicit Markets do not count towards the normal limit of 1 Civic action per turn per Settlement.
+- Thieves Guilds and Illicit Markets may be built at a 40% discount on RP. (15 for Thieves Guilds and 30 for Illicit Markets)
+- The Kingdom receives a +1 circumstance bonus to ALL Intrigue checks.
+- All Tap Treasury checks have their success increased by one degree of success. In addition, after 6 Kingdom turns have passed without using Tap Treasury the penalty to Tap Treasury is reset as if you had used Capital investment to repay the funds.
+
+Terms:
+- The Kingdom must be trained in Intrigue. (non-negotiable)
+- The Kingdom must allow the Thieves' Guild to operate in the Kingdom. (non-negotiable)
+- The Kingdom starts with 1 Crime and its Crime can never go below +1. (non-negotiable)
+- +1 Crime each time a Village grows into a Town, +2 Crime each time a Town grows into a City, and +4 Crime each time a City grows into a Metropolis or a new Urban Grid is added to an existing Settlement. (non-negotiable)
+- The Kingdom must build a Thieves Guild in each new settlement within 1 year of that settlement becoming a City. (non-negotiable)
 
 # Relevant Sessions
 ```dataview

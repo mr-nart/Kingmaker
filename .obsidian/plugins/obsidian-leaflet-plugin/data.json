@@ -1,472 +1,6 @@
 {
   "mapMarkers": [
     {
-      "id": "brevoy-map",
-      "locked": true,
-      "lastAccessed": 1753495466256,
-      "markers": [
-        {
-          "id": "ID_5a799a5a5af9",
-          "type": "Settlement, major",
-          "loc": [
-            140.56425921828898,
-            482.5803053348578
-          ],
-          "link": "New Stetven",
-          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            197.0343830394316,
-            -84.76902322704824
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_5af9488aea1a",
-          "type": "Settlement, major",
-          "loc": [
-            42.88571717793944,
-            618.5633825309347
-          ],
-          "link": "Restov",
-          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            63.13884606376367,
-            -6.465691164636335
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_eb9acaf8a989",
-          "type": "Settlement, major",
-          "loc": [
-            357.6000061035156,
-            340
-          ],
-          "link": "Port Ice",
-          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            138.81977671451355,
-            -215.6551273557126
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_e988fa49b97a",
-          "type": "Settlement, minor",
-          "loc": [
-            290.4124984741211,
-            338.1000061035156
-          ],
-          "link": "Highdelve",
-          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_c8fb8b9acba9",
-          "type": "Settlement, minor",
-          "loc": [
-            275.4124984741211,
-            341.1000061035156
-          ],
-          "link": "Grayhaven",
-          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_7b388a09c9db",
-          "type": "Settlement, minor",
-          "loc": [
-            308.2125015258789,
-            436.70001220703125
-          ],
-          "link": "Eagle's Watch",
-          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_09f848183839",
-          "type": "Settlement, minor",
-          "loc": [
-            342,
-            578.800048828125
-          ],
-          "link": "Skywatch",
-          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            236.32027511961724,
-            -206.24734982332154
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_5b99faa8b81a",
-          "type": "Settlement, minor",
-          "loc": [
-            422.31250762939453,
-            438.3999938964844
-          ],
-          "link": "Winterbreak",
-          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_fa8a3af9a8bb",
-          "type": "Settlement, minor",
-          "loc": [
-            311.5,
-            625.7999877929688
-          ],
-          "link": "Stoneclimb",
-          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            255.51004286283893,
-            -187.85394581861013
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_c9cabb6a59fb",
-          "type": "Settlement, minor",
-          "loc": [
-            193.8407597454435,
-            418.36308483298984
-          ],
-          "link": "Silverhall",
-          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            170.81491182973747,
-            -116.8980789042015
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_19880aebc899",
-          "type": "Settlement, minor",
-          "loc": [
-            113.69972066166001,
-            622.7678132829593
-          ],
-          "link": "Brunderton",
-          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_183909c8984b",
-          "type": "Settlement, minor",
-          "loc": [
-            36.75,
-            596.0500030517578
-          ],
-          "link": "Nivakta's Crossing",
-          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            243.36331863038276,
-            -22.16254416961131
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_2b4a7bb9fabb",
-          "type": "Building, major",
-          "loc": [
-            36,
-            558.3999633789062
-          ],
-          "link": "Oleg's Trading Post",
-          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            227.99105362838915,
-            -21.710247349823323
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_9a4a7baacbd8",
-          "type": "Settlement, major",
-          "loc": [
-            27.125,
-            334
-          ],
-          "link": "Pitax",
-          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "Atlas.md"
-      ]
-    },
-    {
-      "id": "stolen-lands-map",
-      "locked": true,
-      "lastAccessed": 1753495466257,
-      "markers": [
-        {
-          "id": "ID_5b5bf8e9bbab",
-          "type": "Building, major",
-          "loc": [
-            -1.1832990715768208,
-            4.070283341770107
-          ],
-          "link": "Oleg's Trading Post",
-          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.6315106275716045,
-            0.2884995831653963
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_68c85b0ba8c9",
-          "type": "Dungeon",
-          "loc": [
-            -1.7296875715255737,
-            4.141406297683716
-          ],
-          "link": "Oak Top Silver Mine",
-          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.6425454619436552,
-            0.42171430315290176
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_58280838686a",
-          "type": "Dungeon",
-          "loc": [
-            -1.635156273841858,
-            4.082812547683716
-          ],
-          "link": "The Old Sycamore",
-          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.6334545528527462,
-            0.3986666724795387
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_b93a59385b8b",
-          "type": "Dungeon",
-          "loc": [
-            -1.55859375,
-            3.956249952316284
-          ],
-          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.6138181744199811,
-            0.38
-          ],
-          "description": "*Gold Nugget Cave",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_791829d8fa1a",
-          "type": "Monument",
-          "loc": [
-            -1.638498943954485,
-            3.4250484713723397
-          ],
-          "link": "Temple of the Elk",
-          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.5314014598007993,
-            0.39948164728795066
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_3bd90b883b5a",
-          "type": "Settlement, minor",
-          "loc": [
-            -1.5602570204902908,
-            3.60994203267122
-          ],
-          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "*Kressle's Encampment",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_598bebf8fa58",
-          "type": "Settlement, minor",
-          "loc": [
-            -1.887024327138717,
-            4.027510034013122
-          ],
-          "link": "Tuskwater Fort",
-          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_a87b3a0aa9fa",
-          "type": "Building, minor",
-          "loc": [
-            -1.2141176956180089,
-            4.809088538306902
-          ],
-          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "*Fort Sorenko",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_89d8ea78f9db",
-          "type": "Building, minor",
-          "loc": [
-            -2.30893838840504,
-            4.487089711084166
-          ],
-          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "*Hunters?",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_992bbb59399a",
-          "type": "Monument",
-          "loc": [
-            -2.0995685236305643,
-            4.014212017448184
-          ],
-          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "*Tower",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "Atlas.md"
-      ]
-    },
-    {
       "id": "restov-map",
       "locked": true,
       "lastAccessed": 1753495466257,
@@ -841,6 +375,472 @@
       "shapes": [],
       "files": [
         "Atlas.md"
+      ]
+    },
+    {
+      "id": "brevoy-map",
+      "locked": true,
+      "lastAccessed": 1757556541923,
+      "markers": [
+        {
+          "id": "ID_5a799a5a5af9",
+          "type": "Settlement, major",
+          "loc": [
+            140.56425921828898,
+            482.5803053348578
+          ],
+          "link": "New Stetven",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            197.0343830394316,
+            -84.76902322704824
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5af9488aea1a",
+          "type": "Settlement, major",
+          "loc": [
+            42.88571717793944,
+            618.5633825309347
+          ],
+          "link": "Restov",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            63.13884606376367,
+            -6.465691164636335
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb9acaf8a989",
+          "type": "Settlement, major",
+          "loc": [
+            357.6000061035156,
+            340
+          ],
+          "link": "Port Ice",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            138.81977671451355,
+            -215.6551273557126
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e988fa49b97a",
+          "type": "Settlement, minor",
+          "loc": [
+            290.4124984741211,
+            338.1000061035156
+          ],
+          "link": "Highdelve",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8fb8b9acba9",
+          "type": "Settlement, minor",
+          "loc": [
+            275.4124984741211,
+            341.1000061035156
+          ],
+          "link": "Grayhaven",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b388a09c9db",
+          "type": "Settlement, minor",
+          "loc": [
+            308.2125015258789,
+            436.70001220703125
+          ],
+          "link": "Eagle's Watch",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_09f848183839",
+          "type": "Settlement, minor",
+          "loc": [
+            342,
+            578.800048828125
+          ],
+          "link": "Skywatch",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            236.32027511961724,
+            -206.24734982332154
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b99faa8b81a",
+          "type": "Settlement, minor",
+          "loc": [
+            422.31250762939453,
+            438.3999938964844
+          ],
+          "link": "Winterbreak",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa8a3af9a8bb",
+          "type": "Settlement, minor",
+          "loc": [
+            311.5,
+            625.7999877929688
+          ],
+          "link": "Stoneclimb",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            255.51004286283893,
+            -187.85394581861013
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c9cabb6a59fb",
+          "type": "Settlement, minor",
+          "loc": [
+            193.8407597454435,
+            418.36308483298984
+          ],
+          "link": "Silverhall",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            170.81491182973747,
+            -116.8980789042015
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_19880aebc899",
+          "type": "Settlement, minor",
+          "loc": [
+            113.69972066166001,
+            622.7678132829593
+          ],
+          "link": "Brunderton",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_183909c8984b",
+          "type": "Settlement, minor",
+          "loc": [
+            36.75,
+            596.0500030517578
+          ],
+          "link": "Nivakta's Crossing",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            243.36331863038276,
+            -22.16254416961131
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b4a7bb9fabb",
+          "type": "Building, major",
+          "loc": [
+            36,
+            558.3999633789062
+          ],
+          "link": "Oleg's Trading Post",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            227.99105362838915,
+            -21.710247349823323
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a4a7baacbd8",
+          "type": "Settlement, major",
+          "loc": [
+            27.125,
+            334
+          ],
+          "link": "Pitax",
+          "layer": "%5B%5Bbrevoy%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Major Locations/Brevoy.md"
+      ]
+    },
+    {
+      "id": "stolen-lands-map",
+      "locked": true,
+      "lastAccessed": 1760297775956,
+      "markers": [
+        {
+          "id": "ID_5b5bf8e9bbab",
+          "type": "Building, major",
+          "loc": [
+            -1.1832990715768208,
+            4.070283341770107
+          ],
+          "link": "Oleg's Trading Post",
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6315106275716045,
+            0.2884995831653963
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_68c85b0ba8c9",
+          "type": "Dungeon",
+          "loc": [
+            -1.7296875715255737,
+            4.141406297683716
+          ],
+          "link": "Oak Top Silver Mine",
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6425454619436552,
+            0.42171430315290176
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58280838686a",
+          "type": "Dungeon",
+          "loc": [
+            -1.635156273841858,
+            4.082812547683716
+          ],
+          "link": "The Old Sycamore",
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6334545528527462,
+            0.3986666724795387
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b93a59385b8b",
+          "type": "Dungeon",
+          "loc": [
+            -1.55859375,
+            3.956249952316284
+          ],
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6138181744199811,
+            0.38
+          ],
+          "description": "*Gold Nugget Cave",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_791829d8fa1a",
+          "type": "Monument",
+          "loc": [
+            -1.638498943954485,
+            3.4250484713723397
+          ],
+          "link": "Temple of the Elk",
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5314014598007993,
+            0.39948164728795066
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3bd90b883b5a",
+          "type": "Settlement, minor",
+          "loc": [
+            -1.5602570204902908,
+            3.60994203267122
+          ],
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "*Kressle's Encampment",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_598bebf8fa58",
+          "type": "Settlement, minor",
+          "loc": [
+            -1.887024327138717,
+            4.027510034013122
+          ],
+          "link": "Tuskwater Fort",
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a87b3a0aa9fa",
+          "type": "Building, minor",
+          "loc": [
+            -1.2141176956180089,
+            4.809088538306902
+          ],
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "*Fort Sorenko",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89d8ea78f9db",
+          "type": "Building, minor",
+          "loc": [
+            -2.30893838840504,
+            4.487089711084166
+          ],
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "*Hunters?",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_992bbb59399a",
+          "type": "Monument",
+          "loc": [
+            -2.0995685236305643,
+            4.014212017448184
+          ],
+          "layer": "%5B%5Bstolen%20lands%20map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "*Tower",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Major Locations/Greenbelt.md"
       ]
     }
   ],

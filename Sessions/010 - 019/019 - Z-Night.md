@@ -91,3 +91,4 @@ We finished off the zombies, shadows, and Nugrah. The attack seems to be the wor
 ## Quests Progressed
 - [[Cleaning Up the Greenbelt]]
 - [[A Shared Dream]]
+- [[Undead in the Greenbelt]]

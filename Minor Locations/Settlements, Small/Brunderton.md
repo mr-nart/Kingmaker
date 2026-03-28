@@ -1,5 +1,6 @@
 ---
-cssclasses: tables-wide
+cssclasses:
+  - tables-wide
 desc: Small mining town in eastern Rostland, mostly dwarf population
 ---
 #brevoy #rostland

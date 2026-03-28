@@ -19,7 +19,7 @@ Conspicuous. Nimble. Very good with keeping time.
 
 
 ## Affiliations
-- [[Knik'knak]] -- travelling companion
+- [[Knik'knak]] -- traveling companion
 
 ## Items
 - 

@@ -1,5 +1,6 @@
 ---
-cssclasses: tables-wide
+cssclasses:
+  - tables-wide
 ---
 >**Brevoy** is a proud land, known throughout *Golarion* for producing able warriors, regal nobles, and clever rogues. Yet Brevoy’s two regions, *Issia* and *Rostland*, have long held one another in contempt and now stand on the verge of civil war. Both Issia and Rostland were independent nations until [[Historical Figures#Choral the Conqueror]]’s barbarian armies and red dragon servitors united the regions into a single kingdom two centuries ago.
 >

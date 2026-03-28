@@ -1,5 +1,6 @@
 ---
-cssclasses: tables-wide
+cssclasses:
+  - tables-wide
 ---
 
 >description

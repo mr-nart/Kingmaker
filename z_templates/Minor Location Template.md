@@ -1,6 +1,7 @@
 ---
-cssclasses: tables-wide
-desc: 
+cssclasses:
+  - tables-wide
+desc:
 ---
 >[!quote] Nickname
 

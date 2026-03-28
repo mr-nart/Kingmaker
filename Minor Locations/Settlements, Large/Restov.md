@@ -1,5 +1,6 @@
 ---
-cssclasses: tables-wide
+cssclasses:
+  - tables-wide
 desc: Rostlandic frontier capital to the south, borders the Stolen Lands
 ---
 >[!quote] The Free City of Restov

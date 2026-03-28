@@ -10,7 +10,7 @@ aliases:
 
 ![|right|250](https://static.wikia.nocookie.net/pathfinderkingmaker_gamepedia_en/images/3/3a/MaegarVarn.png/revision/latest?cb=20180927134346)
 
-- **He/Him** -- Human -- Older adult
+- **He/Him** -- Human -- Adult
 
 >Reportedly a hero of legend who is "quite an accomplished mercenary." One of the adventurers called upon for the expeditions into the [[Stolen Lands]].
 
@@ -21,4 +21,4 @@ Ruggedly handsome. *Loves to talk about history*.
 Plans to establish a village in Nomen Heights named "[[Varnhold]]" with his charter.
 
 ## Affiliations
-- 
+- **Keffal Laurentis** - assistant, grey hair, full well-manicured beard and close-cropped hair, green and red wizard tunic

@@ -1,7 +1,8 @@
 ---
-cssclasses: tables-wide
+cssclasses:
+  - tables-wide
 ---
-#river-kingdoms 
+#river-kingdoms
 >South of the [[Stolen Lands]] lies **Mivon**, one of the more River Kingdoms. Of note, it boasts the second-largest population of [[Aldori Swordlords]], behind only [[Brevoy#Rostland]].
 
 ## Major Geographical Features

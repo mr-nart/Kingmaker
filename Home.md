@@ -1,5 +1,7 @@
 ---
-cssclasses: clean-embeds, tables-wide
+cssclasses:
+  - clean-embeds
+  - tables-wide
 ---
 ![[kingmaker banner.webp|banner p+t]]
 ```dataviewjs
@@ -41,7 +43,8 @@ dv.paragraph("![[" + pg.file.name + "#Summary|nlk]]");
 	- [ ] gold ore vein
 - [ ] meet with "The Guardian of the Bloom" in the forest
 - [ ] propagate fangberry bushes
-- [ ] raise Roc???
+- [ ] raise and tame the Roc
+- [ ] investigate undead in the Greenbelt
 ---
 >[!note|bg-c-gray]- Recently Edited Files
 ><p></p>

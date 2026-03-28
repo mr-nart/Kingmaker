@@ -84,10 +84,17 @@
 
 ## Pharasma
 >![|right|100](https://2e.aonprd.com/Images/Deities/Pharasma.png) ***Lady of Graves / Mother of Souls***
->Goddess who shepherds Galorion's recently-departed souls to their final reward (via the River of Souls to Pharasma's Boneyard in the Outer Sphere). Makes no distinction on whether a death is just or not. Depicted as an ashen-skinned Garundi woman with white eyes, wearing a dark, hooded, robe-like dress and holding an hourglass of red sand. Areas of concern include birth, death, fate, prophecy, rebirth.
+>A goddess who shepherds Galorion's recently-departed souls to their final reward (via the River of Souls to Pharasma's Boneyard in the Outer Sphere). Makes no distinction on whether a death is just or not. Depicted as an ashen-skinned Garundi woman with white eyes, wearing a dark, hooded, robe-like dress and holding an hourglass of red sand. Areas of concern include birth, death, fate, prophecy, and rebirth.
 
-**Edicts**:  Strive to understand ancient prophecies, destroy undead, lay bodies to rest
+**Edicts**: Strive to understand ancient prophecies, destroy undead, lay bodies to rest
 **Anathema**: Create undead, desecrate a corpse, rob a tomb
+
+## Rovagug
+>![|right|100](https://2e.aonprd.com/Images/Deities/Rovagug.png) ***The Rough Beast /  The Destroyer / The Worldbreaker***
+>A god who seeks only to destroy creation and the other gods. Believed to be imprisoned in a state of torpor deep within Golarion, with his restless stirrings blamed by some for causing volcanic activity and earthquakes. Depicted as an alien, monstrous, worm-like being with innumerable limbs, eyes, claws, teeth, and other unmentionable parts. Areas of concern include destruction, disaster, and wrath.
+
+**Edicts**: Destroy all things, free Rovagug from his prison
+**Anathema**: Create something new, let material ties restrain you, torture a victim or otherwise delay its destruction
 
 ## Sarenrae
 >![|right|100](https://2e.aonprd.com/Images/Deities/Sarenrae.png) ***The Dawnflower / The Cleansing Light / The Healing Flame***

@@ -19,7 +19,7 @@ Clever. Sneaky.
 
 
 ## Affiliations
-- [[Tik'tok]] -- travelling companion
+- [[Tik'tok]] -- traveling companion
 
 ## Items
 - 

@@ -50,7 +50,7 @@ We continue laying the groundwork for our kingdom soon-to-be, meeting with Lady 
 			- Amiri is a follower of Gorum
 - leather folios around the table, containing agenda + dossiers on specific individuals we'll meet with tomorrow:
 	- Ioseph Sellemius - 
-	- Evan Garress - expect him to be accompanied by adopted heir, has mineral interests, note: do NOT bring up Kesten
+	- Evan Garess - expect him to be accompanied by adopted heir, has mineral interests, note: do NOT bring up Kesten
 	- Previn Surtova - leader of Church of Gorum in Rostland, values skill at arms above all else
 - who are going to be the re-settlers?
 	- some groups have formed, we should meet with them and figure out who we want to take with us...

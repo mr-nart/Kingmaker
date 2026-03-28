@@ -1,10 +1,10 @@
 ---
-num: 30
+num: 32
 ---
 February 19th, 2026
 
 ## Summary
-...
+We head off by boat back to the Tuskwater with a group of surveyors. We make a stop at Nivakta's Crossing, where we make a deal with the sheriff Master Kavin to send him some wine to clear out Tartuccio's party's debt to help establish trade / relations. We arrive at the fort and see Hedera's progress and her recruitment of the kobolds. We start planning things out, and some early settlers trickle in. Hedera has enlisted kobolds to find somewhere for them to relocate, since they're stinking up the place and are having trouble containing their kleptomania. Merchants report a small skeleton army to the west, needing further investigation.
 
 ##
 >[!note|bg-c-gray no-t txt-c]
@@ -22,7 +22,7 @@ February 19th, 2026
 
 ## Log
 
-#### getting back to the tuskwater
+#### **31st of Pharast**, getting back to the tuskwater
 - we head off by boat towards the tuskwater with a group of surveyors
 	- riverboat captain Machan
 - the first settlers will come afterwards in about a month
@@ -32,12 +32,12 @@ February 19th, 2026
 - green cloak guy (Master Kavin) says he is owed money from Tartuccio because he took a huge advance on a bunch of alcohol
 	- 30 gold worth???
 		- we'll bring him one of the barrels of wine from the bandits
-	- Lander had like a Chalaxian something on his person maybe?
+	- he mentioned something about Lander having a Chalaxian emblem/item on his person maybe?
 - we reboard the boat and we make its journey down to the Crooked Falls by the end of the day
 - we then reach Nettle's crossing by the end of the 2nd day
 - by the end of the 3rd day, we reach the Tuskwater Fort
 
-#### Tuskwater Fort
+#### **2nd of Gozran**, Tuskwater Fort
 - Hedera's progress:
 	- large wooden log palisade around the fort
 	- reconstruction of destroyed walls
@@ -72,9 +72,9 @@ February 19th, 2026
 				- various piles of knick knacks, pretty staggering amount of stuff altogether
 				- Hedera will deal with it?
 - Hedera's meeting with her 5 favorite kobolds
-	- Hedera enlisting them to find a nearby, secretive cave that isn't already occupied (unless they deserve to die)
+	- Hedera enlisting them to find a nearby, secretive cave that isn't already occupied (unless they deserve to die) for the kobolds to move to
 - some merchants ran into a small skeleton army to the east?
 	- need to investigate?
 
 ## Quests Progressed
-- 
+- [[Undead in the Greenbelt]]

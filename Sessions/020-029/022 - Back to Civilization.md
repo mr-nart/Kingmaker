@@ -31,7 +31,7 @@ We spent a bunch of time discussing our future barony, which we will name [[Verd
 	- Caine: quelling instability and violence
 	- Hedera: consolidate power, exterminate all bandits in the region
 
-**23rd of Pharast, Fireday**
+**23rd of Pharast, Toilday**
 - approaching Restov with Kesten by midday
 - we hear word that the other groups have also been successful, but we're the first group to make it back to Restov
 - this evening, there's a meeting with one of Lady Aldori's "trusted proxies"
